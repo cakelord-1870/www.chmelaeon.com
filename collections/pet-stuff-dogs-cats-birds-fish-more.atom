@@ -1,0 +1,1737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.chmelaeon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.chmelaeon.com/collections/pet-stuff-dogs-cats-birds-fish-more.atom"/>
+  <title>Chmelaeon</title>
+  <updated>2020-10-02T02:16:13-05:00</updated>
+  <author>
+    <name>Chmelaeon</name>
+  </author>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4801646264383</id>
+    <published>2020-10-02T02:16:13-05:00</published>
+    <updated>2020-10-02T02:16:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/50-pcs-lot-gold-plating-paper-bubble-envelopes-bags-mailers-padded-shipping-envelope-bubble-mailing-bag-different-specifications"/>
+    <title>50 PCS/Lot Gold Plating Paper Bubble Envelopes Bags Mailers Padded Shipping Envelope Bubble Mailing Bag Different Specifications</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1122012355.jpg?v=1601622996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99 - 83.99
+            <a href="https://www.chmelaeon.com/products/50-pcs-lot-gold-plating-paper-bubble-envelopes-bags-mailers-padded-shipping-envelope-bubble-mailing-bag-different-specifications">(44 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> Cobee</span><br><span><strong>Origin:</strong> CN(Origin)</span><br><span><strong>Size:</strong> 13x15cm/18x23cm/20x28cm/23x29cm</span><br><span><strong>Model Number:</strong> Paper Envelopes</span><br><span><strong>Type:</strong> Window Envelope</span><br><span><strong>Material:</strong> kraft</span><br><span><strong>Use:</strong> Business Envelope</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>180x230mm gold / China</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>29378201-180x230mm-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>180x230mm gold / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29378201-180x230mm-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>180x230mm silver / China</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>29378201-180x230mm-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>180x230mm silver / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29378201-180x230mm-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>180x230mm black / China</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>29378201-180x230mm-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>180x230mm black / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29378201-180x230mm-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>180x230mm purple / China</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>29378201-180x230mm-purple-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>180x230mm purple / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29378201-180x230mm-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>290x230mm purple / China</title>
+      <s:price currency="USD">83.99</s:price>
+      <s:sku>29378201-290x230mm-purple-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>290x230mm purple / United States</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>29378201-290x230mm-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>150x180mm silver / China</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>29378201-150x180mm-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>150x180mm silver / United States</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>29378201-150x180mm-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>230x290mm black / China</title>
+      <s:price currency="USD">63.99</s:price>
+      <s:sku>29378201-230x290mm-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>230x290mm black / United States</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>29378201-230x290mm-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>180x180mm gold / China</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>29378201-180x180mm-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>180x180mm gold / United States</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>29378201-180x180mm-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>260x310mm gold / China</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>29378201-260x310mm-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>260x310mm gold / United States</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>29378201-260x310mm-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>180x230mm rose gold / China</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>29378201-180x230mm-rose-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>180x230mm rose gold / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29378201-180x230mm-rose-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>200x280mm rose gold / China</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>29378201-200x280mm-rose-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>200x280mm rose gold / United States</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>29378201-200x280mm-rose-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>150x200mm rose red / China</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>29378201-150x200mm-rose-red-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>150x200mm rose red / United States</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>29378201-150x200mm-rose-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>150x130mm black / China</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>29378201-150x130mm-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>150x130mm black / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>29378201-150x130mm-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>150x190mm black / China</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>29378201-150x190mm-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>150x190mm black / United States</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>29378201-150x190mm-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>200x280mm silver / China</title>
+      <s:price currency="USD">51.99</s:price>
+      <s:sku>29378201-200x280mm-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>200x280mm silver / United States</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>29378201-200x280mm-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>150x130mm silver / China</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>29378201-150x130mm-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>150x130mm silver / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>29378201-150x130mm-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>150x130mm gold / China</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>29378201-150x130mm-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>150x130mm gold / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>29378201-150x130mm-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>150x130mm rose red / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>29378201-150x130mm-rose-red-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>150x130mm rose red / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>29378201-150x130mm-rose-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>200x280mm black / China</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>29378201-200x280mm-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>200x280mm black / United States</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>29378201-200x280mm-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>200x280mm rose red / China</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>29378201-200x280mm-rose-red-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>200x280mm rose red / United States</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>29378201-200x280mm-rose-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>230x290mm gold / China</title>
+      <s:price currency="USD">60.99</s:price>
+      <s:sku>29378201-230x290mm-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>230x290mm gold / United States</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>29378201-230x290mm-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>230x290mm silver / China</title>
+      <s:price currency="USD">58.99</s:price>
+      <s:sku>29378201-230x290mm-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801646264383</id>
+      <title>230x290mm silver / United States</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>29378201-230x290mm-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4601380012095</id>
+    <published>2020-05-09T17:37:50-05:00</published>
+    <updated>2020-05-09T17:37:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/10-pcs-bag-kn95-ce-certification-dust-respirator-mask-pad-against-pollution-breathable-mask-non-woven-fabricnot-for-medical-use-masks"/>
+    <title>10 pcs/bag KN95 CE Certification Dust Respirator Mask Pad Against Pollution Breathable Mask Non woven Fabric(not for medical use|Masks</title>
+    <s:type>Masks</s:type>
+    <s:vendor>Health-Experts Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/5afae53708ecb112e3897008e2197c31.jpg?v=1589063876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Health-Experts Store<br>
+        <strong>Type: </strong>Masks<br>
+        <strong>Price: </strong>
+            22.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div class="detailmodule_html"><div class="detail-desc-decorate-richtext">
+<p> <span style='font-size: 24px; color: rgb(255, 0, 0); font-family: "Open Sans", Arial, Helvetica, sans-serif, Heiti;'>Item Introduction:</span> </p> <div style='box-sizing: content-box; color: rgb(0, 0, 0); font-family: "Open Sans", Arial, Helvetica, sans-serif, Heiti; font-size: 14px;'> <span style="box-sizing: border-box; max-width: 100%; word-break: break-word; font-size: 18px;">Name：KN95 Mask Pad</span> </div> <div style='box-sizing: content-box; color: rgb(0, 0, 0); font-family: "Open Sans", Arial, Helvetica, sans-serif, Heiti; font-size: 14px;'> <span style="box-sizing: border-box; max-width: 100%; word-break: break-word; font-size: 18px;">Material：Non-woven Fabric, Thermal Insulation Cotton</span> </div> <div style='box-sizing: content-box; color: rgb(0, 0, 0); font-family: "Open Sans", Arial, Helvetica, sans-serif, Heiti; font-size: 14px;'> <span style="box-sizing: border-box; max-width: 100%; word-break: break-word; font-size: 18px;">Weight： 6 g / Mask</span> </div> <div style='box-sizing: content-box; color: rgb(0, 0, 0); font-family: "Open Sans", Arial, Helvetica, sans-serif, Heiti; font-size: 14px;'> <span style="box-sizing: border-box; max-width: 100%; word-break: break-word; font-size: 18px;">Color：Black</span> </div> <div style='box-sizing: content-box; color: rgb(0, 0, 0); font-family: "Open Sans", Arial, Helvetica, sans-serif, Heiti; font-size: 14px;'> <span style="box-sizing: border-box; max-width: 100%; word-break: break-word; font-size: 18px;">Size ：</span><span style="font-size: 18px;">17.3× 9.5cm</span> </div> <div style='box-sizing: content-box; color: rgb(0, 0, 0); font-family: "Open Sans", Arial, Helvetica, sans-serif, Heiti; font-size: 14px;'> <span style="box-sizing: border-box; max-width: 100%; word-break: break-word; font-size: 18px;">Quantity：10 Masks / Pack</span> </div> <p style='box-sizing: border-box; margin: 0px; font-size: 14px; line-height: inherit; color: rgb(0, 0, 0); font-family: "Open Sans", Arial, Helvetica, sans-serif, Heiti;'> <span style="box-sizing: border-box; max-width: 100%; word-break: break-word; color: rgb(255, 0, 0);"><span style="box-sizing: border-box; max-width: 100%; word-break: break-word; font-size: 24px;">Item Details:</span></span> </p> <div style='box-sizing: content-box; color: rgb(0, 0, 0); font-family: "Open Sans", Arial, Helvetica, sans-serif, Heiti; font-size: 14px;'> <span style="box-sizing: border-box; max-width: 100%; word-break: break-word; font-size: 18px;">* Good ventilation and can filter toxic particles</span> </div> <div data-spm-anchor-id="a2g0o.detail.1000023.i1.1ea632695X4Qqw" style='box-sizing: content-box; color: rgb(0, 0, 0); font-family: "Open Sans", Arial, Helvetica, sans-serif, Heiti; font-size: 14px;'> <span style="box-sizing: border-box; max-width: 100%; word-break: break-word; font-size: 18px;">* Preserves heat and is waterproof</span> </div> <div data-spm-anchor-id="a2g0o.detail.1000023.i0.1ea632695X4Qqw" style='box-sizing: content-box; color: rgb(0, 0, 0); font-family: "Open Sans", Arial, Helvetica, sans-serif, Heiti; font-size: 14px;'> <span style="box-sizing: border-box; max-width: 100%; word-break: break-word; font-size: 18px;">* Soft texture and comfortable wear</span> </div> <p style="text-align: center;"> <img alt="英语 (1)" src="https://ae01.alicdn.com/kf/Hd1a386b28be444a2b7a88911732e41f5p.jpg"><img alt="1" height="800" src="https://ae01.alicdn.com/kf/H579ba9439d0642f49f625d1d867595b7p.jpg" width="800"><img alt="3" src="https://ae01.alicdn.com/kf/Hdcf4e907ae3845cfafe9bd26b40d196b9.jpg"><img alt="2" src="https://ae01.alicdn.com/kf/He2f1359bddf44c00b030d0ee774f1f9eq.jpg"><img alt="5" src="https://ae01.alicdn.com/kf/H143af605436044979464c055127bfb53z.jpg"><img alt="4" src="https://ae01.alicdn.com/kf/Haf43149681654b64b97cd32bd8244582k.jpg"><img alt="6" src="https://ae01.alicdn.com/kf/Hecb66b7619ca4e96a68ff1e44284a24aE.jpg"><br> <img alt="英语 (3)" src="https://ae01.alicdn.com/kf/H7695c114b1504d5b860d7ed2efb4f3c9k.jpg"><img alt="英语 (4)" src="https://ae01.alicdn.com/kf/He748135867104aae94dbef62ab476846Y.jpg"> </p> <p style="text-align: center;"> <img alt="11" src="https://ae01.alicdn.com/kf/H5372e6f9de744589954d7cd26e2946fdI.jpg"><img alt="12" src="https://ae01.alicdn.com/kf/Ha4779b2394f1497eafa750e2df308ec3d.jpg"><img alt="13" src="https://ae01.alicdn.com/kf/H44d0ab68cd1740e085c458057db60f4dc.jpg"><img alt="14" src="https://ae01.alicdn.com/kf/Hc58239b9d4984ab5907a2f805b0368c45.jpg"> </p> <p style="text-align: center;"> <img alt="未标题-1" height="800" src="https://ae01.alicdn.com/kf/Hedf4b158f9e64c898c2d1e7c9b5c65168.jpg" width="800"><br> </p> </div></div> <div class="detailmodule_dynamic"><widget data-widget-type="relatedProduct" id="25006294" title="" type="relation"></widget></div> <script>window.adminAccountId=239238391;</script> </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4601380012095</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/20868595731</id>
+    <published>2020-04-12T03:48:45-05:00</published>
+    <updated>2020-04-12T03:48:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/ortilerri-600d-oxford-pet-car-seat-covers-waterproof-back-bench-seat-car-interior-travel-accessories-car-seat-covers-mat"/>
+    <title>Ortilerri 600D Oxford Pet Car Seat Covers Waterproof Back Bench Seat Car Interior Travel Accessories Car Seat Covers Mat</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-397629024.jpg?v=1578612383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Dogs</span><br><span><strong>Pattern:</strong> Solid</span><br><span><strong>Fitable Weight:</strong> Dogs of all kinds</span><br><span><strong>Style:</strong> Classics</span><br><span><strong>Item Type:</strong> "Car Travel Accessories "</span><br><span><strong>Season:</strong> All Seasons</span><br><span><strong>Applicable Dog Breed:</strong> Universal</span><br><span><strong>Brand Name:</strong> Ortilerri</span><br><span><strong>Feature:</strong> Waterproof</span><br><span><strong>Material:</strong> Oxford Fabric and Sponge</span><br><span><strong>Number:</strong> pet-052302B/pet-052302G/pet-052302C</span><br><span><strong>Size:</strong> 140*150CM</span><br><span><strong>Feature:</strong> Car-covers</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/20868595731</id>
+      <title>Black / 140X150CM</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>6420427-black-140x150cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/20868595731</id>
+      <title>Gray / 140X150CM</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>6420427-gray-140x150cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/20868595731</id>
+      <title>Coffee / 140X150CM</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>6420427-coffee-140x150cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/20869840915</id>
+    <published>2020-04-12T03:48:42-05:00</published>
+    <updated>2020-04-12T03:48:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/600d-oxford-pet-car-seat-covers-waterproof-back-bench-seat-car-interior-travel-accessories-car-seat-covers-mat-for-pet-dogs"/>
+    <title>600D Oxford Pet Car Seat Covers Waterproof Back Bench Seat Car Interior Travel Accessories Car Seat Covers Mat for Pet Dogs</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-274932075.jpg?v=1578612384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Dogs</span><br><span><strong>Style:</strong> Fashion</span><br><span><strong>Pattern:</strong> Solid</span><br><span><strong>Brand Name:</strong> KIMHOME PET</span><br><span><strong>Item Type:</strong> "Car Travel Accessories "</span><br><span><strong>Season:</strong> All Seasons</span><br><span><strong>Applicable Dog Breed:</strong> Universal</span><br><span><strong>Fitable Weight:</strong> all kind dogs</span><br><span><strong>Feature:</strong> Waterproof</span><br><span><strong>Material:</strong> Oxford Fabric and Sponge</span><br><span><strong>Color:</strong> Black</span><br><span><strong>Item:</strong> Back Seat Cover</span><br><span><strong>Whole Size:</strong> L150 x W130cm/58x52inch</span><br><span><strong>Fit Seat Size:</strong> 48cm/ 18.72 inch</span><br><span><strong>Fit Backrest Size:</strong> 55cm/ 21.45 inch</span><br><span><strong>Position:</strong> Car Rear Back Seat</span><br><span><strong>dog car seat cover:</strong> Waterproof, Non Slip</span><br><span><strong>dog seat cover:</strong> dog seat covers for cars</span><br><span><strong>dog travel accessories:</strong> dog car mat</span><br><span><strong>Package included:</strong> 1 x Dog Car Seat Cover</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/20869840915</id>
+      <title>Default Title</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1269209-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/20871413779</id>
+    <published>2020-04-12T03:48:36-05:00</published>
+    <updated>2020-04-12T03:48:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/universal-pet-carrier-dog-bag-car-seat-cover-anti-slip-foldable-car-mats-black-hammock-cushion-for-pets-dog"/>
+    <title>Universal  Pet Carrier  Dog Bag Car Seat Cover Anti-slip Foldable Car Mats Black Hammock Cushion For Pets Dog</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-464399939.jpg?v=1578612386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Dogs</span><br><span><strong>Style:</strong> Fashion</span><br><span><strong>Pattern:</strong> Solid</span><br><span><strong>Fitable Weight:</strong> Universal</span><br><span><strong>Brand Name:</strong> PETCOMER</span><br><span><strong>Item Type:</strong> "Car Travel Accessories "</span><br><span><strong>Season:</strong> All Seasons</span><br><span><strong>Applicable Dog Breed:</strong> Universal</span><br><span><strong>Feature:</strong> Eco-Friendly</span><br><span><strong>Material:</strong> Oxford fabric</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/20871413779</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>6420368-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/21043118099</id>
+    <published>2020-04-12T03:45:02-05:00</published>
+    <updated>2020-04-12T03:45:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/dog-carriers-blanket-cover-mat-pet-carrier-convenient-waterproof-pet-dogs-car-seat-cover-non-slip-dog-mats-hammock-accessories"/>
+    <title>Dog Carriers Blanket Cover Mat Pet Carrier convenient Waterproof Pet Dogs Car Seat Cover Non Slip Dog Mats Hammock Accessories</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-183665403.jpg?v=1578612531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            71.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Dogs</span><br><span><strong>Style:</strong> Fashion</span><br><span><strong>Feature:</strong> Breathable</span><br><span><strong>Pattern:</strong> Solid</span><br><span><strong>Brand Name:</strong> DCPET</span><br><span><strong>Fitable Weight:</strong> 1-100kg</span><br><span><strong>Item Type:</strong> "Car Travel Accessories "</span><br><span><strong>Season:</strong> All Seasons</span><br><span><strong>Applicable Dog Breed:</strong> Universal</span><br><span><strong>Material:</strong> Oxford cloth</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21043118099</id>
+      <title>Default Title</title>
+      <s:price currency="USD">71.99</s:price>
+      <s:sku>3917587-black-147x137cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4543090393151</id>
+    <published>2020-04-11T21:34:26-05:00</published>
+    <updated>2020-04-11T21:34:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/upgrade-mask-anti-dust-electric-mask-pm2-5-face-masks-5-layers-purifications-composite-air-filter-silicone-mask-sport-mask"/>
+    <title>Upgrade Mask Anti Dust Electric Mask PM2.5 Face Masks 5 Layers Purifications Composite Air Filter Silicone Mask Sport Mask</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1349172224.jpg?v=1586658869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99 - 62.99
+            <a href="https://www.chmelaeon.com/products/upgrade-mask-anti-dust-electric-mask-pm2-5-face-masks-5-layers-purifications-composite-air-filter-silicone-mask-sport-mask">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> YUKUI</span><br><span><strong>Origin:</strong> China Mainland</span><br><span><strong>Function:</strong> Anti-dust</span><br><span><strong>Protection class:</strong> KN95</span><br><span><strong>Life cycle:</strong> Non-disposable</span><br><span><strong>Applicable:</strong> Adult</span><br><span><strong>Certification:</strong> ce</span><br><span><strong>Safety standard:</strong> GB2626-2006</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4543090393151</id>
+      <title>Adult 10 pcs filter</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>35499065-adult-10-pcs-filter</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4543090393151</id>
+      <title>Kids Mask</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>35499065-kids-mask</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4543090393151</id>
+      <title>Kids 10 pcs filter</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>35499065-kids-10-pcs-filter</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4543090393151</id>
+      <title>Adult Mask</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>35499065-adult-mask</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1941583462463</id>
+    <published>2019-07-29T22:18:42-05:00</published>
+    <updated>2019-07-29T22:18:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/motorcycle-moped-petrol-gas-fuel-gasoline-filter-cup-universal-oil-cup-filter-transparent-belt-magnetic-oil-cup-5-7-x-2-5cm-new"/>
+    <title>Motorcycle Moped Petrol Gas Fuel Gasoline Filter Cup Universal Oil Cup Filter Transparent Belt Magnetic Oil Cup 5.7 x 2.5cm New</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1018651761.jpg?v=1578614164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> CAR-partment</span><br><span><strong>Item Type:</strong> Oil Filters</span><br><span><strong>Model Name:</strong> Q03310</span><br><span><strong>Item Width:</strong> 1.8CM</span><br><span><strong>Item Length:</strong> 6.6CM</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583462463</id>
+      <title>Red</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>28231281-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583462463</id>
+      <title>Blue</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>28231281-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1941583429695</id>
+    <published>2019-07-29T22:18:42-05:00</published>
+    <updated>2019-07-29T22:18:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/pair-clear-universal-1-4-6mm-motorcycle-petrol-gas-oil-fuel-filter-for-1-4-inch-6mm-pit-dirt-bike-atv-fuel-line"/>
+    <title>Pair Clear Universal 1/4&quot; 6mm Motorcycle Petrol Gas Oil Fuel Filter for 1/4 inch (6mm) Pit Dirt Bike ATV Fuel Line</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1018265770.jpg?v=1578614164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Oil Filters</span><br><span><strong>Material Type:</strong> Plastic</span><br><span><strong>Item Weight:</strong> 30g</span><br><span><strong>Model Name:</strong> 6mm</span><br><span><strong>Item Height:</strong> 0.6cm</span><br><span><strong>Item Length:</strong> 5.3cm</span><br><span><strong>Item Width:</strong> 4.6cm</span><br><span><strong>Product Name:</strong> Motorbike Inline Fuel Filter</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583429695</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>28200177</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1941583364159</id>
+    <published>2019-07-29T22:18:42-05:00</published>
+    <updated>2019-07-29T22:18:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/motorcycle-hose-1meter-1m-petrol-fuel-line-hose-gas-oil-pipe-tube-nylon-soft-for-mini-moto-dirt-bike-honda-suzuki-yamah"/>
+    <title>Motorcycle Hose 1Meter 1M Petrol Fuel Line Hose Gas Oil Pipe Tube Nylon Soft For Mini Moto Dirt Bike Honda Suzuki Yamah</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1008166727.jpg?v=1578614164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> Autoleader</span><br><span><strong>Item Width:</strong> 0.5cm</span><br><span><strong>Item Type:</strong> Oil Filters</span><br><span><strong>Item Length:</strong> 1m</span><br><span><strong>Model Name:</strong> Colours 1m 8mm outer diameter 5mm inner diameter</span><br><span><strong>Item Weight:</strong> 0.03kg</span><br><span><strong>Material Type:</strong> Nylon</span><br><span><strong>Item Height:</strong> 1m</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583364159</id>
+      <title>Black</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22209610-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583364159</id>
+      <title>Blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22209610-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583364159</id>
+      <title>White</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22209610-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583364159</id>
+      <title>Red</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22209610-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583364159</id>
+      <title>Green</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22209610-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583364159</id>
+      <title>Orange</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>22209610-orange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1941583331391</id>
+    <published>2019-07-29T22:18:42-05:00</published>
+    <updated>2019-07-29T22:18:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/3pcs-motorcycle-petrol-gas-fuel-gasoline-oil-filter-for-scooter-motorcycle-moped-scooter-dirt-bike-atv-go-kart-oil-fuel-filter-1"/>
+    <title>3Pcs Motorcycle Petrol Gas Fuel Gasoline Oil Filter for Scooter Motorcycle Moped Scooter Dirt Bike ATV Go Kart oil fuel filter</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1018651793.jpg?v=1578614164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Oil Filters</span><br><span><strong>Model Name:</strong> Gas Fuel Filter</span><br><span><strong>Item Length:</strong> 5.7cm</span><br><span><strong>Item Width:</strong> 2.5cm</span><br><span><strong>Item Height:</strong> 2.5cm</span><br><span><strong>Item Weight:</strong> 17g</span><br><span><strong>Material Type:</strong> Plastic</span><br><span><strong>Brand Name:</strong> VODOOL</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583331391</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>28231285</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1941583265855</id>
+    <published>2019-07-29T22:18:41-05:00</published>
+    <updated>2019-07-29T22:18:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/1m-motorcycle-bike-fuel-gas-oil-delivery-tube-hose-petrol-pipe-5mm-i-d-8mm-o-d-motorcycle-accessories-parts"/>
+    <title>1m Motorcycle Bike Fuel Gas Oil Delivery Tube Hose Petrol Pipe 5mm I/D 8mm O/D Motorcycle Accessories Parts</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-342050274.jpg?v=1578614164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Oil Filters</span><br><span><strong>Model Name:</strong> Motorcycle Bike Fuel Gas Oil Delivery Tube  5A3424-BL</span><br><span><strong>Item Length:</strong> 1m</span><br><span><strong>Item Width:</strong> 0.8cm</span><br><span><strong>Item Height:</strong> 0.8cm</span><br><span><strong>Item Weight:</strong> 55g</span><br><span><strong>Material Type:</strong> Soft rubber</span><br><span><strong>Brand Name:</strong> QILEJVS</span><br><span><strong>Item Type:</strong> Oil Filters</span><br><span><strong>Unit Type:</strong> piece</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583265855</id>
+      <title>BL</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7675062-bl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583265855</id>
+      <title>GN</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7675062-gn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583265855</id>
+      <title>O</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7675062-o</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583265855</id>
+      <title>PK</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7675062-pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583265855</id>
+      <title>PL</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7675062-pl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583265855</id>
+      <title>R</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7675062-r</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583265855</id>
+      <title>W</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7675062-w</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583265855</id>
+      <title>Y</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7675062-y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1941583233087</id>
+    <published>2019-07-29T22:18:41-05:00</published>
+    <updated>2019-07-29T22:18:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/3color-universal-9-8-2-8cm-petrol-gas-fuel-filter-cleaner-for-motorcycle-pit-dirt-bike-atv-2018"/>
+    <title>3Color Universal 9.8*2.8CM Petrol Gas Fuel Filter Cleaner For Motorcycle Pit Dirt Bike ATV 2018</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-891578575.jpg?v=1578614164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Oil Filters</span><br><span><strong>Item Weight:</strong> 53g</span><br><span><strong>Item Height:</strong> 9.8cm</span><br><span><strong>Item Width:</strong> 2.8cm</span><br><span><strong>Item Length:</strong> 2.8cm</span><br><span><strong>Material Type:</strong> aluminum alloy + high quality glass</span><br><span><strong>Model Name:</strong> LC00770</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583233087</id>
+      <title>Black</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>23300302-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583233087</id>
+      <title>Blue</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>23300302-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583233087</id>
+      <title>Gold</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>23300302-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1941582970943</id>
+    <published>2019-07-29T22:18:40-05:00</published>
+    <updated>2019-07-29T22:18:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/3pcs-motorcycle-petrol-gas-fuel-gasoline-oil-filter-for-scooter-motorcycle-moped-scooter-dirt-bike-atv-go-kart-oil-fuel-filter"/>
+    <title>3Pcs Motorcycle Petrol Gas Fuel Gasoline Oil Filter for Scooter Motorcycle Moped Scooter Dirt Bike ATV Go Kart oil fuel filter</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-603854012.jpg?v=1578614164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Oil Filters</span><br><span><strong>Item Width:</strong> 2.5cm</span><br><span><strong>Item Height:</strong> 2.5cm</span><br><span><strong>Model Name:</strong> motorcycle fuel filter</span><br><span><strong>Material Type:</strong> Plastic</span><br><span><strong>Brand Name:</strong> VODOOL</span><br><span><strong>Item Weight:</strong> 17g</span><br><span><strong>Item Length:</strong> 5.7cm</span><br><span><strong>Tube hole diameter :</strong> Approx. 3mm</span><br><span><strong>Car style:</strong> oil filter</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582970943</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>5417556</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1941582250047</id>
+    <published>2019-07-29T22:18:39-05:00</published>
+    <updated>2019-07-29T22:18:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/strong-salvage-magnet-pot-fishing-magnets-deep-sea-salvage-fishing-hook-neodymium-magnet-all-size-treasure-hunter-holder"/>
+    <title>strong salvage magnet pot fishing magnets deep sea salvage fishing hook Neodymium magnet all size  treasure hunter holder</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1015940485.jpg?v=1578614163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99 - 71.99
+            <a href="https://www.chmelaeon.com/products/strong-salvage-magnet-pot-fishing-magnets-deep-sea-salvage-fishing-hook-neodymium-magnet-all-size-treasure-hunter-holder">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> SUPERMAGNET</span><br><span><strong>Type:</strong> Permanent</span><br><span><strong>Composite:</strong> Rare Earth Magnet</span><br><span><strong>Application:</strong> Industrial Magnet</span><br><span><strong>Shape:</strong> Stick</span><br><span><strong>Model Number:</strong> D20 D25 D32 D36 D42 D48 D60</span><br><span><strong>With Holes:</strong> Yes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582250047</id>
+      <title>D20 max 6kg</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>19130437-d20-max-6kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582250047</id>
+      <title>D25 max 10kg</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>19130437-d25-max-10kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582250047</id>
+      <title>D32 max 15kg</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>19130437-d32-max-15kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582250047</id>
+      <title>D36 max 20kg</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>19130437-d36-max-20kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582250047</id>
+      <title>D42 max 30kg</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>19130437-d42-max-30kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582250047</id>
+      <title>D48 max 48kg</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>19130437-d48-max-48kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582250047</id>
+      <title>D60 max 110kg</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>19130437-d60-max-110kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582250047</id>
+      <title>D90 max   300kg</title>
+      <s:price currency="USD">71.99</s:price>
+      <s:sku>19130437-d90-max-300kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582250047</id>
+      <title>D75 max  150kg</title>
+      <s:price currency="USD">50.99</s:price>
+      <s:sku>19130437-d75-max-150kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1941582184511</id>
+    <published>2019-07-29T22:18:39-05:00</published>
+    <updated>2019-07-29T22:18:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/delicate-facial-thin-face-mask-slimming-bandage-skin-care-belt-shape-and-lift-reduce-double-chin-face-mask-face-thining-band"/>
+    <title>Delicate Facial Thin Face Mask Slimming Bandage Skin Care Belt Shape And Lift Reduce Double Chin Face Mask Face Thining Band</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1000583795.jpg?v=1578614163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>False Eyelash Craft:</strong> Machine Made</span><br><span><strong>Model Number:</strong> A305</span><br><span><strong>Size:</strong> S,M,L,XL</span><br><span><strong>Type:</strong> face slimming</span><br><span><strong>Brand Name:</strong> GEONYIEEK</span><br><span><strong>Material:</strong> cloth</span><br><span><strong>For:</strong> Women ,Men</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582184511</id>
+      <title>L</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>14359168-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582184511</id>
+      <title>M</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>14359168-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582184511</id>
+      <title>S</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>14359168-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582184511</id>
+      <title>XL</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>14359168-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582184511</id>
+      <title>Orange one size</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>14359168-orange-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582184511</id>
+      <title>Rosered one size</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>14359168-rosered-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11592515859</id>
+    <published>2019-05-21T19:05:32-05:00</published>
+    <updated>2019-05-21T19:05:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/wooden-12-number-clock-toy-baby-colorful-puzzle-digital-geometry-clock-educational-clock-toy-high-quality-for-kids-children-gift"/>
+    <title>Wooden 12 Number Clock Toy Baby Colorful Puzzle Digital Geometry Clock Educational Clock Toy High Quality for Kids Children Gift</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-267358596.jpg?v=1578611783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Blocks</span><br><span><strong>Warning:</strong> Keep From Fire</span><br><span><strong>Gender:</strong> Unisex</span><br><span><strong>Brand Name:</strong> VKTECH</span><br><span><strong>Age Range:</strong> &gt; 3 years old</span><br><span><strong>Model Number:</strong> Educational Bricks Toy</span><br><span><strong>Barcode:</strong> No</span><br><span><strong>Material:</strong> Wood</span><br><span><strong>Classification:</strong> Assemblage</span><br><span><strong>Wood Block Type:</strong> Figure Blocks</span><br><span><strong>Type :</strong> wooden clock toy</span><br><span><strong>Name:</strong> digital geometry clock</span><br><span><strong>Material:</strong> High Quality Wood.</span><br><span><strong>Size:</strong> 18*18*2.5cm</span><br><span><strong>Quantity:</strong> 1 Pcs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592515859</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>2219535</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11592568211</id>
+    <published>2019-05-21T19:05:25-05:00</published>
+    <updated>2019-05-21T19:05:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/wooden-3d-puzzle-jigsaw-wooden-toys-for-children-cartoon-animal-puzzle-intelligence-kids-educational-toy-toys"/>
+    <title>Wooden 3D Puzzle Jigsaw Wooden Toys For Children Cartoon Animal Puzzle Intelligence Kids Educational Toy Toys</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-195498469.jpg?v=1578611788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.99 - 3.99
+            <a href="https://www.chmelaeon.com/products/wooden-3d-puzzle-jigsaw-wooden-toys-for-children-cartoon-animal-puzzle-intelligence-kids-educational-toy-toys">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Style:</strong> Animal</span><br><span><strong>Age Range:</strong> &gt; 8 years old,&gt; 3 years old,8-11 Years,5-7 Years</span><br><span><strong>Gender:</strong> Unisex</span><br><span><strong>Model Number:</strong> Puzzles</span><br><span><strong>Material:</strong> Wood</span><br><span><strong>Brand Name:</strong> MOONBIFFY</span><br><span><strong>Puzzle Style:</strong> Tangram/Jigsaw Board</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592568211</id>
+      <title>Apple</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4280530-apple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592568211</id>
+      <title>Balloon</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4280530-balloon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592568211</id>
+      <title>Butterfly</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4280530-butterfly</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592568211</id>
+      <title>Cat</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4280530-cat</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592568211</id>
+      <title>Cattle</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4280530-cattle</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592568211</id>
+      <title>Cherry</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4280530-cherry</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592568211</id>
+      <title>Cock</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4280530-cock</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592568211</id>
+      <title>Fish</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4280530-fish</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592568211</id>
+      <title>Fox</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4280530-fox</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592568211</id>
+      <title>Grape</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4280530-grape</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592568211</id>
+      <title>Helicopter</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4280530-helicopter</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592568211</id>
+      <title>Horse</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4280530-horse</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592568211</id>
+      <title>Mouse</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4280530-mouse</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592568211</id>
+      <title>Pineapple</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>4280530-pineapple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592568211</id>
+      <title>Ship</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4280530-ship</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592568211</id>
+      <title>Train</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4280530-train</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592568211</id>
+      <title>Tortoise</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4280530-tortoise</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11592709587</id>
+    <published>2019-05-21T19:05:02-05:00</published>
+    <updated>2019-05-21T19:05:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/tumama-mini-158pcs-lot-magnetic-building-blocks-toys-construction-model-diy-3d-magnetic-designer-educational-brick-new-year-gift"/>
+    <title>TUMAMA Mini 158pcs/lot Magnetic Building Blocks Toys Construction Model DIY 3D Magnetic Designer Educational Brick New Year Gift</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-173467283.jpg?v=1578611806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            106.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Blocks</span><br><span><strong>Gender:</strong> Unisex</span><br><span><strong>Age Range:</strong> &gt; 3 years old</span><br><span><strong>Plastic Block Shape:</strong> Irregular Shape</span><br><span><strong>Classification:</strong> Magnetic</span><br><span><strong>Brand Name:</strong> Tumama</span><br><span><strong>Model Number:</strong> M158</span><br><span><strong>Material:</strong> Plastic</span><br><span><strong>Warning:</strong> No Eating</span><br><span><strong>Plastic Type:</strong> ABS</span><br><span><strong>use:</strong> children gift</span><br><span><strong>function:</strong> develop kids' imagination</span><br><span><strong>classification:</strong> magnetic</span><br><span><strong>type:</strong> puzzle blocks</span><br><span><strong>material:</strong> ABS plastic &amp; strong magnet</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592709587</id>
+      <title>158 pieces with Box / China</title>
+      <s:price currency="USD">106.99</s:price>
+      <s:sku>2225715-158-pieces-with-box-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592709587</id>
+      <title>158 pieces with Box / Russian Federation</title>
+      <s:price currency="USD">106.99</s:price>
+      <s:sku>2225715-158-pieces-with-box-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11593387219</id>
+    <published>2019-05-21T19:04:39-05:00</published>
+    <updated>2019-05-21T19:04:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/wiben-jurassic-velociraptor-dinosaur-action-toy-figures-animal-model-collection-learning-educational-kids-birthday-boy-gift"/>
+    <title>Wiben Jurassic Velociraptor Dinosaur Action &amp; Toy Figures Animal Model Collection Learning &amp; Educational Kids Birthday Boy Gift</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-304977345.jpg?v=1578611830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Commodity Attribute:</strong> Finished Goods</span><br><span><strong>Dimensions:</strong> 16.5x4x10.5cm</span><br><span><strong>Age Range:</strong> &gt; 3 years old,5-7 Years</span><br><span><strong>Size:</strong> M,14cm</span><br><span><strong>Item Type:</strong> Model</span><br><span><strong>Brand Name:</strong> wiben</span><br><span><strong>Gender:</strong> Boys</span><br><span><strong>Soldier Accessories:</strong> Soldier Finished Product</span><br><span><strong>By Animation Source:</strong> Western Animiation</span><br><span><strong>Animals:</strong> Dinosaurs</span><br><span><strong>Condition:</strong> In-Stock Items</span><br><span><strong>Material:</strong> Plastic</span><br><span><strong>Version Type:</strong> First Edition</span><br><span><strong>Mfg Series Number:</strong> Model</span><br><span><strong>Remote Control:</strong> No</span><br><span><strong>Model Number:</strong> Dinosaur Model</span><br><span><strong>Theme:</strong> Animals</span><br><span><strong>Warning:</strong> keep away from fire</span><br><span><strong>Completion Degree:</strong> Finished Goods</span><br><span><strong>Puppets Type:</strong> Model</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11593387219</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5595068</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11595688211</id>
+    <published>2019-05-21T19:02:28-05:00</published>
+    <updated>2019-05-21T19:02:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/tri-spinner-fidget-and-foldable-flashing-glowing-cat-ear-headphones-gaming-headset-earphone-with-led-light-for-pc-mobile-phone"/>
+    <title>Tri-Spinner Fidget and Foldable Flashing Glowing cat ear headphones Gaming Headset Earphone with LED light For PC Mobile Phone</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-311027922.jpg?v=1578611971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99 - 25.99
+            <a href="https://www.chmelaeon.com/products/tri-spinner-fidget-and-foldable-flashing-glowing-cat-ear-headphones-gaming-headset-earphone-with-led-light-for-pc-mobile-phone">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Function:</strong> For Mobile Phone,For Routine Office Work,Supports music,for Video Game,Noise Cancelling</span><br><span><strong>Support APP:</strong> No</span><br><span><strong>Time to market:</strong> 2016</span><br><span><strong>Connectors:</strong> 3.5mm</span><br><span><strong>Support Apt-x:</strong> No</span><br><span><strong>Brand Name:</strong> mindkoo</span><br><span><strong>Support Memory Card:</strong> No</span><br><span><strong>Sensitivity:</strong> 110±2db</span><br><span><strong>Vocalism Principle:</strong> Dynamic</span><br><span><strong>With Microphone:</strong> No</span><br><span><strong>Control Button:</strong> No</span><br><span><strong>Model Number:</strong> cat ear headphone</span><br><span><strong>Plug Type:</strong> Line Type</span><br><span><strong>Frequency Response Range:</strong> 20-20000Hz</span><br><span><strong>Style:</strong> Headband</span><br><span><strong>Line Length:</strong> 1.5M</span><br><span><strong>Is wireless:</strong> No</span><br><span><strong>Active Noise-Cancellation:</strong> Yes</span><br><span><strong>Wireless Type:</strong> None</span><br><span><strong>Volume Control:</strong> No</span><br><span><strong>Waterproof:</strong> No</span><br><span><strong>Resistance:</strong> 16Ω</span><br><span><strong>Communication:</strong> Wired</span><br><span><strong>Connectors:</strong> AUX</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595688211</id>
+      <title>Black / China</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>3885993-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595688211</id>
+      <title>Pink / China</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>3885993-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595688211</id>
+      <title>White / China</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>3885993-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595688211</id>
+      <title>white with spinner / China</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>3885993-white-with-spinner-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595688211</id>
+      <title>white with spinner 1 / China</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>3885993-white-with-spinner-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595688211</id>
+      <title>white with spinner 2 / China</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>3885993-white-with-spinner-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595688211</id>
+      <title>white with spinner 3 / China</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>3885993-white-with-spinner-3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11595707091</id>
+    <published>2019-05-21T19:02:18-05:00</published>
+    <updated>2019-05-21T19:02:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/new-foldable-flashing-glowing-cat-ear-headphones-gaming-headset-earphone-with-led-light-for-pc-laptop-computer-mobile-phone"/>
+    <title>NEW Foldable Flashing Glowing cat ear headphones Gaming Headset Earphone with LED light For PC Laptop Computer Mobile Phone</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-262090779.jpg?v=1578611975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Communication:</strong> Wired</span><br><span><strong>Connectors:</strong> AUX</span><br><span><strong>Wireless Type:</strong> None</span><br><span><strong>Vocalism Principle:</strong> Dynamic</span><br><span><strong>Brand Name:</strong> SHUOHU</span><br><span><strong>Style:</strong> Headband</span><br><span><strong>Function:</strong> For Mobile Phone,Portable,Sport,Voice control,Supports music</span><br><span><strong>Plug Type:</strong> Line Type</span><br><span><strong>Sensitivity:</strong> 103±3dB</span><br><span><strong>Frequency Response Range:</strong> 20-20000Hz</span><br><span><strong>Line Length:</strong> 1.5M</span><br><span><strong>Resistance:</strong> 32Ω</span><br><span><strong>Waterproof:</strong> No</span><br><span><strong>Model Number:</strong> Foldable Flashing Glowing cat ear headphones</span><br><span><strong>Support Apt-x:</strong> No</span><br><span><strong>Support Memory Card:</strong> No</span><br><span><strong>Support APP:</strong> No</span><br><span><strong>Time to market:</strong> 2016</span><br><span><strong>Is wireless:</strong> No</span><br><span><strong>With Microphone:</strong> No</span><br><span><strong>Earphone type:</strong> Headset</span><br><span><strong>Wearing way:</strong> Head wear</span><br><span><strong>Headphone output audio source:</strong> Portable audio and video</span><br><span><strong>The plug diameter:</strong> 3.5mm</span><br><span><strong>Plug type:</strong> full-sized</span><br><span><strong>Wireless headset:</strong> earphones</span><br><span><strong>vocalism principle:</strong> Moving coil</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595707091</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>5929493-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595707091</id>
+      <title>Blue</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>5929493-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595707091</id>
+      <title>Green</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>5929493-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595707091</id>
+      <title>Pink</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>5929493-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595707091</id>
+      <title>White</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>5929493-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11595707155</id>
+    <published>2019-05-21T19:02:17-05:00</published>
+    <updated>2019-05-21T19:02:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/foldable-flashing-glowing-cat-ears-headphones-gaming-headset-earphone-with-led-light-for-pc-laptop-computer-mobile-phone"/>
+    <title>Foldable Flashing Glowing Cat Ears Headphones Gaming Headset Earphone with LED light For PC Laptop Computer Mobile Phone</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-173779839.jpg?v=1578611975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Function:</strong> For Mobile Phone,For Routine Office Work,Supports music,Portable</span><br><span><strong>Support APP:</strong> No</span><br><span><strong>Time to market:</strong> 2016</span><br><span><strong>Connectors:</strong> 3.5mm</span><br><span><strong>Active Noise-Cancellation:</strong> No</span><br><span><strong>Support Apt-x:</strong> No</span><br><span><strong>Brand Name:</strong> mindkoo</span><br><span><strong>Support Memory Card:</strong> No</span><br><span><strong>Sensitivity:</strong> 120dB</span><br><span><strong>Vocalism Principle:</strong> Dynamic</span><br><span><strong>With Microphone:</strong> No</span><br><span><strong>Control Button:</strong> No</span><br><span><strong>Plug Type:</strong> Line Type</span><br><span><strong>Model Number:</strong> cat ear style headphone</span><br><span><strong>Style:</strong> Headband</span><br><span><strong>Line Length:</strong> 1.5M</span><br><span><strong>Is wireless:</strong> No</span><br><span><strong>Frequency Response Range:</strong> 8-25000Hz</span><br><span><strong>Wireless Type:</strong> None</span><br><span><strong>Volume Control:</strong> No</span><br><span><strong>Waterproof:</strong> No</span><br><span><strong>Communication:</strong> Wired</span><br><span><strong>Resistance:</strong> 32Ω</span><br><span><strong>Connectors:</strong> AUX</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595707155</id>
+      <title>Blue</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>3612233-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595707155</id>
+      <title>Green</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>3612233-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595707155</id>
+      <title>Pink</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>3612233-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595707155</id>
+      <title>White</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>3612233-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11722468883</id>
+    <published>2019-05-21T19:01:13-05:00</published>
+    <updated>2019-05-21T19:01:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/hellozebra-men-rain-boots-autumn-fashion-lace-men-s-short-tube-water-boots-low-shoes-men-outdoor-waterproof-fishing-2017-new"/>
+    <title>Hellozebra Men Rain Boots Autumn Fashion Lace Men &apos;s Short Tube Water Boots Low Shoes Men Outdoor Waterproof Fishing 2017 New</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-217164376.jpg?v=1578611996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            140.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Adult</span><br><span><strong>Item Type:</strong> Boots</span><br><span><strong>Boot Type:</strong> Rainboots</span><br><span><strong>Fit:</strong> Fits true to size, take your normal size</span><br><span><strong>Insole Material:</strong> Rubber</span><br><span><strong>Heel Height:</strong> Low (1cm-3cm)</span><br><span><strong>Shaft Material:</strong> Rubber</span><br><span><strong>Lining Material:</strong> Canvas</span><br><span><strong>is_handmade:</strong> Yes</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Closure Type:</strong> Lace-Up</span><br><span><strong>Fashion Element:</strong> Platform</span><br><span><strong>Model Number:</strong> HB104</span><br><span><strong>Toe Shape:</strong> Round Toe</span><br><span><strong>Brand Name:</strong> Hellozebra</span><br><span><strong>Upper Material:</strong> Rubber</span><br><span><strong>Boot Height:</strong> Ankle</span><br><span><strong>Outsole Material:</strong> Rubber</span><br><span><strong>Season:</strong> Spring/Autumn</span><br><span><strong>Color:</strong> Navy,Green</span><br><span><strong>Size:</strong> 7.5-11</span><br><span><strong>Boot Height:</strong> Mid-Calf</span><br><span><strong>Heel Height:</strong> Flat</span><br><span><strong>Leather Style:</strong> Nubuck Leather</span><br><span><strong>Heel Type:</strong> Hoof Heels</span><br><span><strong>Closure Type:</strong> Slip-On</span><br><span><strong>Toe Shape:</strong> Round Toe</span><br><span><strong>Decorations:</strong> Buckle</span><br><span><strong>Pattern Type:</strong> Solid</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Navy / 7.5</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-navy-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Navy / 8</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-navy-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Navy / 8.5</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-navy-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Navy / 9</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-navy-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Navy / 10</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-navy-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Navy / 11</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-navy-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Green / 7.5</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-green-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Green / 8</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-green-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Green / 8.5</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-green-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Green / 9</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-green-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Green / 10</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-green-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Green / 11</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-green-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11594197203</id>
+    <published>2019-05-21T19:00:22-05:00</published>
+    <updated>2019-05-21T19:00:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/pn532-nfc-rfid-module-near-field-communication-module-13-56mhz-tag-wireless-module"/>
+    <title>PN532 NFC/RFID module near field communication module 13.56MHz tag wireless module</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-343637554.jpg?v=1578611900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Kind:</strong> Internal</span><br><span><strong>Brand Name:</strong> KEFU</span><br><span><strong>Type:</strong> Wireless</span><br><span><strong>Transmission Rate:</strong> .</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11594197203</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.99</s:price>
+      <s:sku>7718887</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

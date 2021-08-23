@@ -1,0 +1,1741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.chmelaeon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.chmelaeon.com/collections/car-accessories.atom"/>
+  <title>Chmelaeon</title>
+  <updated>2020-10-02T18:26:10-05:00</updated>
+  <author>
+    <name>Chmelaeon</name>
+  </author>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4802357559359</id>
+    <published>2020-10-02T18:26:10-05:00</published>
+    <updated>2020-10-02T18:26:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/chmelaeon-com-gift-cards"/>
+    <title>Chmelaeon.com Gift Cards</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00 - 100.00
+            <a href="https://www.chmelaeon.com/products/chmelaeon-com-gift-cards">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4802357559359</id>
+      <title>$10.00</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4802357559359</id>
+      <title>$25.00</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4802357559359</id>
+      <title>$50.00</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4802357559359</id>
+      <title>$100.00</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4601680756799</id>
+    <published>2020-05-10T02:03:54-05:00</published>
+    <updated>2020-05-10T02:03:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/usa-patented-product-kn95-mask-pm2-5-mouth-nose-disconnect-type-mask-n95-anti-dust-masks-antiviral-activated-carbon-dustproof"/>
+    <title>USA Patented Product Kn95 Mask Pm2.5 Mouth Nose Disconnect-type Mask N95 Anti-dust Masks Antiviral Activated Carbon Dustproof</title>
+    <s:type>Other Household Protective Products</s:type>
+    <s:vendor>Dhgate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/d822df15d44a792069a8ff4273c1ff91.jpg?v=1589094245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dhgate<br>
+        <strong>Type: </strong>Other Household Protective Products<br>
+        <strong>Price: </strong>
+            72.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul> <li>
+<strong>Product Name: </strong> USA Patented Product Kn95 Mask Pm2.5 Mouth Nose Disconnect-type Mask N95 Anti-dust Masks Antiviral Activated Carbon Dustproof</li> <li>
+<strong>Item Code: </strong>532652821</li> <li>
+<strong>Category: </strong><h3><a href="https://www.dhgate.com/wholesale/other-household-protective-products/c019042011.html">Other Household Protective Products</a></h3>
+</li> <li>
+<strong>Short Description: </strong><h2 class="shortdes">Please be kindly noted,the listed product is produced and distributed abroad and subject to the laws of its country of origin. MASKS INSTRUCTIONS FOR USE PRECAUTIONS 1.Masks should be replaced in timely manner.long-term use is not recommended 2.It is recommened to discontinue use if there is adverse reaction during wearing. 3.This product is not washable,please make sure to us.</h2>
+</li> <li>
+<strong>Quantity: </strong> 1 Piece </li> <li>
+<strong>Package Size: </strong>10.0 * 10.0 * 10.0 ( cm )</li> <li>
+<strong>Gross Weight/Package: </strong>0.2 ( kg )</li> </ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4601680756799</id>
+      <title>2Mask 20Mask filter</title>
+      <s:price currency="USD">72.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4601680756799</id>
+      <title>5Mask 50Mask filter</title>
+      <s:price currency="USD">72.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4601680756799</id>
+      <title>1Mask 10Mask filter</title>
+      <s:price currency="USD">72.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4596294254655</id>
+    <published>2020-05-06T00:43:21-05:00</published>
+    <updated>2020-05-06T00:43:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/1-50pcs-reusable-face-mask-mouth-masks-pm2-5-anti-dust-pollution-cotton-activated-carbon-filter-valve-facemask-new-die-cut-machines-1"/>
+    <title>1 50pcs Reusable Face Mask Mouth Masks PM2.5 Anti Dust Pollution Cotton Activated Carbon Filter Valve Facemask New|Die-Cut Machines</title>
+    <s:type>Die-Cut Machines</s:type>
+    <s:vendor>Keep Healthy Lifestyle Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/1-50pcs-Reusable-Face-Mask-Mouth-Masks-PM2-5-Anti-Dust-Pollution-Cotton-Activated-Carbon-Filter_cc988c77-49ca-40d7-8c8f-d7f377b879a2.jpg?v=1588743822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Keep Healthy Lifestyle Store<br>
+        <strong>Type: </strong>Die-Cut Machines<br>
+        <strong>Price: </strong>
+            214.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div class="detailmodule_html"> <div class="detail-desc-decorate-richtext"> <div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;"><widget data-widget-type="relatedProduct" id="25035104" title="mask" type="relation"></widget><br> PM2.5 Reusable Washable Face Mask Mouth Masks Anti Dust Pollution Cotton Activated Carbon Filter Valve </span></span> </div> <div> </div> <div> </div> <div> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">Description</span></span> </div> <div> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">1. Mask</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">Material: cotton(reusable and washable)</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">Size: 22*14cm</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">Tips: One mask will ship with 2pcs filter paper</span></span> </div> <div> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">2. Filter Pad</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">Material: non-woven cloth, melt-blown cloth, activated carbon cloth</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">Effect: anti dust, anti second hand smoke, anti automobile exhaust, anti PM2.5</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">Tips: Filter paper can't be cleaned, we recommend to replace it in 1-2 weeks </span></span> </div> <div> </div> <div> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">Package included:</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">1*Mask</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">1*Filter Pad</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">Please be kindly noted, the listed product is produced and distributed abroad and subject to the laws of its country of origin.</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;"><img src="https://ae01.alicdn.com/kf/Hbfdbed1d52ab4d5a91bdf334ca4632aav.jpg"><img alt="JJWK0022 (2)" src="https://ae01.alicdn.com/kf/Hc044e3b241d942b382a248c1d3d6a809u.jpg"><img alt="JJWK0022 (3)" src="https://ae01.alicdn.com/kf/H8d33a65460e6442e92b371e28124752fl.jpg"><img alt="JJWK0022 (4)" src="https://ae01.alicdn.com/kf/H087817493dc145e38bb6aeefa0d98c649.jpg"><img alt="JJWK0022 (5)" src="https://ae01.alicdn.com/kf/Hce7f7c095af24439a4fcf00c8aa09771S.jpg"><img alt="JJWK0022 (6)" src="https://ae01.alicdn.com/kf/H53a1648faffa42069f2c6c4b11b02a92O.jpg"><img src="https://ae01.alicdn.com/kf/He03f05c0b1c24770969c54bbaf919c49u.jpg"></span></span> </div> <div> <p> </p> </div> </div> </div> </div> <script>window.adminAccountId=237049309;</script> </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>CHINA / 20 Pcs gray</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200572147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>United States / 20 Pcs gray</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200572147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>CHINA / 20pcs  Navy</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200572148</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>United States / 20pcs  Navy</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200572148</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>CHINA / 10 Pcs gray</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200572149</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>United States / 10 Pcs gray</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200572149</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>CHINA / 1pcs red</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200572150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>United States / 1pcs red</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200572150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>CHINA / 10 Pcs black</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200572151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>United States / 10 Pcs black</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200572151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>CHINA / 20 Pcs black</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200572153</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>United States / 20 Pcs black</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200572153</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>CHINA / 10 Pcs red</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200572154</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>United States / 10 Pcs red</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200572154</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>CHINA / 50pcs filters</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200572155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>United States / 50pcs filters</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200572155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>CHINA / 50pcs Navy</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200572156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>United States / 50pcs Navy</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200572156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>CHINA / 50 Pcs black</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200006156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>United States / 50 Pcs black</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200006156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>CHINA / 20pcs  red</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200000195</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>United States / 20pcs  red</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200000195</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>CHINA / 1pcs gray</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:365016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>United States / 1pcs gray</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:365016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>CHINA / 50pcs gray</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:350853</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>United States / 50pcs gray</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:350853</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>CHINA / 50pcs red</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>United States / 50pcs red</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>CHINA / 1pcs navy</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>United States / 1pcs navy</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>CHINA / 10PCS  Navy</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:366</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>United States / 10PCS  Navy</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:366</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>CHINA / 10pcs filters</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:496</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>United States / 10pcs filters</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:496</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>CHINA / 1pcs black</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:618</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596294254655</id>
+      <title>United States / 1pcs black</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:618</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4596293369919</id>
+    <published>2020-05-06T00:42:16-05:00</published>
+    <updated>2020-05-06T00:42:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/1-50pcs-reusable-face-mask-mouth-masks-pm2-5-anti-dust-pollution-cotton-activated-carbon-filter-valve-facemask-new-die-cut-machines"/>
+    <title>1 50pcs Reusable Face Mask Mouth Masks PM2.5 Anti Dust Pollution Cotton Activated Carbon Filter Valve Facemask New|Die-Cut Machines</title>
+    <s:type>Die-Cut Machines</s:type>
+    <s:vendor>Keep Healthy Lifestyle Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/1-50pcs-Reusable-Face-Mask-Mouth-Masks-PM2-5-Anti-Dust-Pollution-Cotton-Activated-Carbon-Filter.jpg?v=1588743759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Keep Healthy Lifestyle Store<br>
+        <strong>Type: </strong>Die-Cut Machines<br>
+        <strong>Price: </strong>
+            214.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div class="detailmodule_html"> <div class="detail-desc-decorate-richtext"> <div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;"><widget data-widget-type="relatedProduct" id="25035104" title="mask" type="relation"></widget><br> PM2.5 Reusable Washable Face Mask Mouth Masks Anti Dust Pollution Cotton Activated Carbon Filter Valve </span></span> </div> <div> </div> <div> </div> <div> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">Description</span></span> </div> <div> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">1. Mask</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">Material: cotton(reusable and washable)</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">Size: 22*14cm</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">Tips: One mask will ship with 2pcs filter paper</span></span> </div> <div> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">2. Filter Pad</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">Material: non-woven cloth, melt-blown cloth, activated carbon cloth</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">Effect: anti dust, anti second hand smoke, anti automobile exhaust, anti PM2.5</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">Tips: Filter paper can't be cleaned, we recommend to replace it in 1-2 weeks </span></span> </div> <div> </div> <div> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">Package included:</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">1*Mask</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">1*Filter Pad</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;">Please be kindly noted, the listed product is produced and distributed abroad and subject to the laws of its country of origin.</span></span> </div> <div> <span style="font-size: 18px;"><span style="font-family: arial, helvetica, sans-serif;"><img src="https://ae01.alicdn.com/kf/Hbfdbed1d52ab4d5a91bdf334ca4632aav.jpg"><img alt="JJWK0022 (2)" src="https://ae01.alicdn.com/kf/Hc044e3b241d942b382a248c1d3d6a809u.jpg"><img alt="JJWK0022 (3)" src="https://ae01.alicdn.com/kf/H8d33a65460e6442e92b371e28124752fl.jpg"><img alt="JJWK0022 (4)" src="https://ae01.alicdn.com/kf/H087817493dc145e38bb6aeefa0d98c649.jpg"><img alt="JJWK0022 (5)" src="https://ae01.alicdn.com/kf/Hce7f7c095af24439a4fcf00c8aa09771S.jpg"><img alt="JJWK0022 (6)" src="https://ae01.alicdn.com/kf/H53a1648faffa42069f2c6c4b11b02a92O.jpg"><img src="https://ae01.alicdn.com/kf/He03f05c0b1c24770969c54bbaf919c49u.jpg"></span></span> </div> <div> <p> </p> </div> </div> </div> </div> <script>window.adminAccountId=237049309;</script> </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>CHINA / 20 Pcs gray</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200572147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>United States / 20 Pcs gray</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200572147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>CHINA / 20pcs  Navy</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200572148</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>United States / 20pcs  Navy</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200572148</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>CHINA / 10 Pcs gray</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200572149</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>United States / 10 Pcs gray</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200572149</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>CHINA / 1pcs red</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200572150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>United States / 1pcs red</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200572150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>CHINA / 10 Pcs black</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200572151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>United States / 10 Pcs black</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200572151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>CHINA / 20 Pcs black</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200572153</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>United States / 20 Pcs black</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200572153</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>CHINA / 10 Pcs red</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200572154</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>United States / 10 Pcs red</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200572154</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>CHINA / 50pcs filters</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200572155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>United States / 50pcs filters</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200572155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>CHINA / 50pcs Navy</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200572156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>United States / 50pcs Navy</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200572156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>CHINA / 50 Pcs black</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200006156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>United States / 50 Pcs black</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200006156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>CHINA / 20pcs  red</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:200000195</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>United States / 20pcs  red</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:200000195</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>CHINA / 1pcs gray</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:365016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>United States / 1pcs gray</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:365016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>CHINA / 50pcs gray</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:350853</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>United States / 50pcs gray</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:350853</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>CHINA / 50pcs red</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>United States / 50pcs red</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>CHINA / 1pcs navy</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>United States / 1pcs navy</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>CHINA / 10PCS  Navy</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:366</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>United States / 10PCS  Navy</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:366</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>CHINA / 10pcs filters</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:496</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>United States / 10pcs filters</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:496</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>CHINA / 1pcs black</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336100;14:618</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4596293369919</id>
+      <title>United States / 1pcs black</title>
+      <s:price currency="USD">214.31</s:price>
+      <s:sku>200007763:201336106;14:618</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11595448083</id>
+    <published>2020-04-12T03:59:12-05:00</published>
+    <updated>2020-04-12T03:59:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/cute-car-seat-covers-fit-for-toyota-alphard-2012-car-seat-cover-set-pu-leather-car-seats-protector-styling-seat-cushion-covers"/>
+    <title>Cute Car Seat Covers Fit for Toyota Alphard 2012 Car Seat Cover Set PU Leather Car Seats Protector Styling Seat Cushion Covers</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-316325108.jpg?v=1578611938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            789.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Seat Covers &amp; Supports</span><br><span><strong>Item Height:</strong> 50cm</span><br><span><strong>Material Type:</strong> Deluxe PU leather with sponge composite</span><br><span><strong>Item Width:</strong> 60cm</span><br><span><strong>Mfg Series Number:</strong> car cover seat</span><br><span><strong>Brand Name:</strong> AutoDecorun</span><br><span><strong>Special Features:</strong> easy to install and protect your car inner seat</span><br><span><strong>Item Weight:</strong> 6.50kg</span><br><span><strong>Item Length:</strong> 155cm</span><br><span><strong>Item no :</strong> JK-517</span><br><span><strong>Color:</strong> 13 color as the picture</span><br><span><strong>Special Features:</strong> Make inner seat more beautiful &amp;Car seat protection</span><br><span><strong>The other material:</strong> Breathable Sponge &amp; Quality Non-Woven</span><br><span><strong>Sale way:</strong> PU leather car seats</span><br><span><strong>Feature:</strong> cute car seat covers</span><br><span><strong>Feature1:</strong> car seat cover set</span><br><span><strong>Feature 2:</strong> decorative cushion covers</span><br><span><strong>product name :</strong> car seat protector</span><br><span><strong>Car Make:</strong> For Toyota Alphard 2011-2012 Year Version</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595448083</id>
+      <title>black 1</title>
+      <s:price currency="USD">789.99</s:price>
+      <s:sku>7183690-black-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595448083</id>
+      <title>beige 1</title>
+      <s:price currency="USD">789.99</s:price>
+      <s:sku>7183690-beige-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595448083</id>
+      <title>brown 1</title>
+      <s:price currency="USD">789.99</s:price>
+      <s:sku>7183690-brown-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595448083</id>
+      <title>grey 1</title>
+      <s:price currency="USD">789.99</s:price>
+      <s:sku>7183690-grey-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595448083</id>
+      <title>black 2</title>
+      <s:price currency="USD">789.99</s:price>
+      <s:sku>7183690-black-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595448083</id>
+      <title>beige 2</title>
+      <s:price currency="USD">789.99</s:price>
+      <s:sku>7183690-beige-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595448083</id>
+      <title>brown 2</title>
+      <s:price currency="USD">789.99</s:price>
+      <s:sku>7183690-brown-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595448083</id>
+      <title>grey 2</title>
+      <s:price currency="USD">789.99</s:price>
+      <s:sku>7183690-grey-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595448083</id>
+      <title>black 3</title>
+      <s:price currency="USD">789.99</s:price>
+      <s:sku>7183690-black-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595448083</id>
+      <title>beige 3</title>
+      <s:price currency="USD">789.99</s:price>
+      <s:sku>7183690-beige-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595448083</id>
+      <title>brown 3</title>
+      <s:price currency="USD">789.99</s:price>
+      <s:sku>7183690-brown-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595448083</id>
+      <title>grey 3</title>
+      <s:price currency="USD">789.99</s:price>
+      <s:sku>7183690-grey-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595448083</id>
+      <title>black 4</title>
+      <s:price currency="USD">789.99</s:price>
+      <s:sku>7183690-black-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/20868595731</id>
+    <published>2020-04-12T03:48:45-05:00</published>
+    <updated>2020-04-12T03:48:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/ortilerri-600d-oxford-pet-car-seat-covers-waterproof-back-bench-seat-car-interior-travel-accessories-car-seat-covers-mat"/>
+    <title>Ortilerri 600D Oxford Pet Car Seat Covers Waterproof Back Bench Seat Car Interior Travel Accessories Car Seat Covers Mat</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-397629024.jpg?v=1578612383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Dogs</span><br><span><strong>Pattern:</strong> Solid</span><br><span><strong>Fitable Weight:</strong> Dogs of all kinds</span><br><span><strong>Style:</strong> Classics</span><br><span><strong>Item Type:</strong> "Car Travel Accessories "</span><br><span><strong>Season:</strong> All Seasons</span><br><span><strong>Applicable Dog Breed:</strong> Universal</span><br><span><strong>Brand Name:</strong> Ortilerri</span><br><span><strong>Feature:</strong> Waterproof</span><br><span><strong>Material:</strong> Oxford Fabric and Sponge</span><br><span><strong>Number:</strong> pet-052302B/pet-052302G/pet-052302C</span><br><span><strong>Size:</strong> 140*150CM</span><br><span><strong>Feature:</strong> Car-covers</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/20868595731</id>
+      <title>Black / 140X150CM</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>6420427-black-140x150cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/20868595731</id>
+      <title>Gray / 140X150CM</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>6420427-gray-140x150cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/20868595731</id>
+      <title>Coffee / 140X150CM</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>6420427-coffee-140x150cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/20869840915</id>
+    <published>2020-04-12T03:48:42-05:00</published>
+    <updated>2020-04-12T03:48:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/600d-oxford-pet-car-seat-covers-waterproof-back-bench-seat-car-interior-travel-accessories-car-seat-covers-mat-for-pet-dogs"/>
+    <title>600D Oxford Pet Car Seat Covers Waterproof Back Bench Seat Car Interior Travel Accessories Car Seat Covers Mat for Pet Dogs</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-274932075.jpg?v=1578612384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Dogs</span><br><span><strong>Style:</strong> Fashion</span><br><span><strong>Pattern:</strong> Solid</span><br><span><strong>Brand Name:</strong> KIMHOME PET</span><br><span><strong>Item Type:</strong> "Car Travel Accessories "</span><br><span><strong>Season:</strong> All Seasons</span><br><span><strong>Applicable Dog Breed:</strong> Universal</span><br><span><strong>Fitable Weight:</strong> all kind dogs</span><br><span><strong>Feature:</strong> Waterproof</span><br><span><strong>Material:</strong> Oxford Fabric and Sponge</span><br><span><strong>Color:</strong> Black</span><br><span><strong>Item:</strong> Back Seat Cover</span><br><span><strong>Whole Size:</strong> L150 x W130cm/58x52inch</span><br><span><strong>Fit Seat Size:</strong> 48cm/ 18.72 inch</span><br><span><strong>Fit Backrest Size:</strong> 55cm/ 21.45 inch</span><br><span><strong>Position:</strong> Car Rear Back Seat</span><br><span><strong>dog car seat cover:</strong> Waterproof, Non Slip</span><br><span><strong>dog seat cover:</strong> dog seat covers for cars</span><br><span><strong>dog travel accessories:</strong> dog car mat</span><br><span><strong>Package included:</strong> 1 x Dog Car Seat Cover</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/20869840915</id>
+      <title>Default Title</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1269209-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/20871413779</id>
+    <published>2020-04-12T03:48:36-05:00</published>
+    <updated>2020-04-12T03:48:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/universal-pet-carrier-dog-bag-car-seat-cover-anti-slip-foldable-car-mats-black-hammock-cushion-for-pets-dog"/>
+    <title>Universal  Pet Carrier  Dog Bag Car Seat Cover Anti-slip Foldable Car Mats Black Hammock Cushion For Pets Dog</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-464399939.jpg?v=1578612386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Dogs</span><br><span><strong>Style:</strong> Fashion</span><br><span><strong>Pattern:</strong> Solid</span><br><span><strong>Fitable Weight:</strong> Universal</span><br><span><strong>Brand Name:</strong> PETCOMER</span><br><span><strong>Item Type:</strong> "Car Travel Accessories "</span><br><span><strong>Season:</strong> All Seasons</span><br><span><strong>Applicable Dog Breed:</strong> Universal</span><br><span><strong>Feature:</strong> Eco-Friendly</span><br><span><strong>Material:</strong> Oxford fabric</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/20871413779</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>6420368-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/21043118099</id>
+    <published>2020-04-12T03:45:02-05:00</published>
+    <updated>2020-04-12T03:45:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/dog-carriers-blanket-cover-mat-pet-carrier-convenient-waterproof-pet-dogs-car-seat-cover-non-slip-dog-mats-hammock-accessories"/>
+    <title>Dog Carriers Blanket Cover Mat Pet Carrier convenient Waterproof Pet Dogs Car Seat Cover Non Slip Dog Mats Hammock Accessories</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-183665403.jpg?v=1578612531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            71.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Dogs</span><br><span><strong>Style:</strong> Fashion</span><br><span><strong>Feature:</strong> Breathable</span><br><span><strong>Pattern:</strong> Solid</span><br><span><strong>Brand Name:</strong> DCPET</span><br><span><strong>Fitable Weight:</strong> 1-100kg</span><br><span><strong>Item Type:</strong> "Car Travel Accessories "</span><br><span><strong>Season:</strong> All Seasons</span><br><span><strong>Applicable Dog Breed:</strong> Universal</span><br><span><strong>Material:</strong> Oxford cloth</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21043118099</id>
+      <title>Default Title</title>
+      <s:price currency="USD">71.99</s:price>
+      <s:sku>3917587-black-147x137cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4491295916095</id>
+    <published>2020-02-16T19:27:18-06:00</published>
+    <updated>2020-02-16T19:27:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/1pcs-carabiner-security-padlock-luggage-bag-suitcase-3-dial-lock-travel-combination-lock-random-color"/>
+    <title>1Pcs Carabiner Security padlock Luggage Bag Suitcase 3 Dial lock Travel Combination  Lock Random Color</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1177974221.jpg?v=1581902840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> TONQUU</span><br><span><strong>Type:</strong> Carabiners &amp; Quickdraws</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4491295916095</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31354311</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4294782517311</id>
+    <published>2019-10-21T16:49:04-05:00</published>
+    <updated>2019-10-21T16:49:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/car-heated-cushion-auto-supplies-heated-pad-car-heating-pad-winter-thermal-seat-pad-12v-car-heating-seat-cover"/>
+    <title>car heated cushion auto supplies heated pad car heating pad winter thermal seat pad 12v Car heating seat cover</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1162654734.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> SOJOY</span><br><span><strong>Applicable Season:</strong> Autumn And Winter</span><br><span><strong>Material Type:</strong> Polyester</span><br><span><strong>Item Weight:</strong> 0.9kg</span><br><span><strong>Special Features:</strong> Heating</span><br><span><strong>Set Piece:</strong> 1</span><br><span><strong>Item Height:</strong> 1.5cm</span><br><span><strong>Item Width:</strong> 45cm</span><br><span><strong>Item Type:</strong> Seat Covers &amp; Supports</span><br><span><strong>Item Length:</strong> 105cm</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4294782517311</id>
+      <title>Gray</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>30797869-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4294782517311</id>
+      <title>Black</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>30797869-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4294782484543</id>
+    <published>2019-10-21T16:49:04-05:00</published>
+    <updated>2019-10-21T16:49:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/sojoy-multi-function-car-seat-cushion-drivers-wedge-coccyx-support-for-back-hemorrhoids-hip-leg-pain-orthopedic-memory-foam"/>
+    <title>Sojoy Multi-Function Car Seat Cushion Drivers Wedge Coccyx Support for Back, Hemorrhoids, Hip, Leg Pain Orthopedic Memory Foam</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-977160630.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Seat Covers &amp; Supports</span><br><span><strong>Material Type:</strong> Polyester</span><br><span><strong>Applicable Season:</strong> Four Seasons</span><br><span><strong>Set Piece:</strong> 1</span><br><span><strong>Item Length:</strong> 18.5inch</span><br><span><strong>Item Width:</strong> 16inch</span><br><span><strong>Item Height:</strong> 3inch</span><br><span><strong>Item Weight:</strong> 0.55kg</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4294782484543</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>26481234-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4294782451775</id>
+    <published>2019-10-21T16:49:04-05:00</published>
+    <updated>2019-10-21T16:49:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/sojoy-warmth-12v-heated-travel-electric-blanket-for-car-truck-boats-or-rv-with-45-timer-control-constant-temperature-blanket"/>
+    <title>Sojoy warmth 12V Heated Travel Electric Blanket for Car Truck Boats or RV with 45&apos; Timer control Constant Temperature Blanket</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1162011611.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.99 - 52.99
+            <a href="https://www.chmelaeon.com/products/sojoy-warmth-12v-heated-travel-electric-blanket-for-car-truck-boats-or-rv-with-45-timer-control-constant-temperature-blanket">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Seat Covers &amp; Supports</span><br><span><strong>Item Width:</strong> 39.4inch</span><br><span><strong>Set Piece:</strong> 1</span><br><span><strong>Item Weight:</strong> 0.82kg</span><br><span><strong>Item Length:</strong> 55.1inch</span><br><span><strong>Special Features:</strong> Heating</span><br><span><strong>Applicable Season:</strong> Autumn And Winter</span><br><span><strong>Material Type:</strong> Flocking Cloth</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4294782451775</id>
+      <title>Green</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30774702-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4294782451775</id>
+      <title>White</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>30774702-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4294782451775</id>
+      <title>Red</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>30774702-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4294782419007</id>
+    <published>2019-10-21T16:49:04-05:00</published>
+    <updated>2019-10-21T16:49:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/sojoy-summer-cushion-cooling-car-seat-cushion-12v-comfortable-breathable-fan-cushion-black"/>
+    <title>Sojoy Summer cushion Cooling Car Seat Cushion 12V Comfortable Breathable Fan Cushion (Black)</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1162654625.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            53.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Seat Covers &amp; Supports</span><br><span><strong>Material Type:</strong> Polyester</span><br><span><strong>Applicable Season:</strong> Spring And Summer</span><br><span><strong>Set Piece:</strong> 1</span><br><span><strong>Item Length:</strong> 41inch</span><br><span><strong>Item Width:</strong> 16inch</span><br><span><strong>Item Height:</strong> 1inch</span><br><span><strong>Item Weight:</strong> 1.5kg</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4294782419007</id>
+      <title>Default Title</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>30797865-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4294782386239</id>
+    <published>2019-10-21T16:49:04-05:00</published>
+    <updated>2019-10-21T16:49:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/summer-cooling-mesh-lumbar-ergonomic-car-seat-back-cushion-back-massage-cushion-pad-support-home-office-car-multi-function"/>
+    <title>Summer Cooling Mesh Lumbar Ergonomic Car Seat Back Cushion Back Massage Cushion Pad Support Home Office Car Multi function</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1162654960.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99 - 23.99
+            <a href="https://www.chmelaeon.com/products/summer-cooling-mesh-lumbar-ergonomic-car-seat-back-cushion-back-massage-cushion-pad-support-home-office-car-multi-function">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> SOJOY</span><br><span><strong>Applicable Season:</strong> Four Seasons</span><br><span><strong>Material Type:</strong> Polyester</span><br><span><strong>Item Weight:</strong> 0.3kg</span><br><span><strong>Set Piece:</strong> 2</span><br><span><strong>Item Height:</strong> 40cm</span><br><span><strong>Item Width:</strong> 36cm</span><br><span><strong>Item Type:</strong> Seat Covers &amp; Supports</span><br><span><strong>Item Length:</strong> 40cm</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4294782386239</id>
+      <title>Classic item</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>30797878-classic-item</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4294782386239</id>
+      <title>Massage item</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>30797878-massage-item</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4294782353471</id>
+    <published>2019-10-21T16:49:04-05:00</published>
+    <updated>2019-10-21T16:49:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/ojoy-universal-12v-heated-smart-multifunctional-car-seat-heater-heated-cushion-warmer-high-medium-low-temp-switch-45-minute-tim"/>
+    <title>ojoy Universal 12V Heated Smart Multifunctional Car Seat Heater Heated Cushion Warmer High/Medium/Low Temp Switch, 45 Minute Tim</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1140726074.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> SOJOY</span><br><span><strong>Applicable Season:</strong> Autumn And Winter</span><br><span><strong>Material Type:</strong> Polyester</span><br><span><strong>Item Type:</strong> Seat Covers &amp; Supports</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4294782353471</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>30020906</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4294782320703</id>
+    <published>2019-10-21T16:49:04-05:00</published>
+    <updated>2019-10-21T16:49:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/sojoy-igel-comfort-coccyx-orthopedic-breathable-antislip-gel-seat-cushion-cooling-memory-foam-cushion-for-car-office-home-black"/>
+    <title>Sojoy iGel Comfort Coccyx Orthopedic Breathable Antislip  Gel Seat Cushion Cooling Memory Foam Cushion For Car Office Home Black</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1162654932.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            62.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Seat Covers &amp; Supports</span><br><span><strong>Item Width:</strong> 16inch</span><br><span><strong>Special Features:</strong> Basic Function</span><br><span><strong>Item Weight:</strong> 0.92kg</span><br><span><strong>Mfg Series Number:</strong> SJ164A017</span><br><span><strong>Applicable Season:</strong> Four Seasons</span><br><span><strong>Material Type:</strong> Polyester</span><br><span><strong>Item Length:</strong> 18inch</span><br><span><strong>Set Piece:</strong> 1</span><br><span><strong>Item Height:</strong> 2.5inch</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4294782320703</id>
+      <title>Default Title</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30797877-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4172730826815</id>
+    <published>2019-09-30T18:04:22-05:00</published>
+    <updated>2019-09-30T18:04:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/jakcom-r3-smart-ring-electronic-cnc-metal-mini-magic-rfid-nfc-125khz-13-56mhz-ic-id-rewritable-access-control-key-card-tag-copy"/>
+    <title>Jakcom R3 Smart Ring electronic CNC Metal Mini Magic RFID NFC 125khz 13.56mhz IC/ID Rewritable Access Control Key Card Tag Copy</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1128138029.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Model Number:</strong> R3</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730826815</id>
+      <title>Size 10</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29583312-size-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730826815</id>
+      <title>Size 9</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29583312-size-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730826815</id>
+      <title>Size 12</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29583312-size-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730826815</id>
+      <title>Size 11</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29583312-size-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730826815</id>
+      <title>Size 8</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29583312-size-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730826815</id>
+      <title>Size 7</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29583312-size-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4172730794047</id>
+    <published>2019-09-30T18:04:22-05:00</published>
+    <updated>2019-09-30T18:04:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/13-56mhz-uid-changeable-s50-1k-nfc-phone-sticker-card-anti-metal-laber-nfc-tag-sector-0-block-0-rewritable-blank-card-copy-clone"/>
+    <title>13.56mhz UID changeable S50 1K NFC Phone Sticker Card Anti-metal Laber NFC tag Sector 0 Block 0 Rewritable Blank Card Copy Clone</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1144444751.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99 - 19.99
+            <a href="https://www.chmelaeon.com/products/13-56mhz-uid-changeable-s50-1k-nfc-phone-sticker-card-anti-metal-laber-nfc-tag-sector-0-block-0-rewritable-blank-card-copy-clone">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> EFHH</span><br><span><strong>Model Number:</strong> UID S50</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730794047</id>
+      <title>anti-metal wet inlay</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30146899-anti-metal-wet-inlay</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730794047</id>
+      <title>anti-matal laber</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30146899-anti-matal-laber</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730794047</id>
+      <title>laber</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>30146899-laber</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730794047</id>
+      <title>wet inlay</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>30146899-wet-inlay</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4172730761279</id>
+    <published>2019-09-30T18:04:22-05:00</published>
+    <updated>2019-09-30T18:04:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/10pcs-lot-13-56mhz-uid-changeable-s50-1k-nfc-sticker-card-anti-metal-laber-nfc-tag-rewritable-sector-0-block-0-access-card-copy"/>
+    <title>10Pcs/lot 13.56mhz UID changeable S50 1K NFC Sticker Card Anti-metal Laber NFC tag Rewritable Sector 0 Block 0 Access Card Copy</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1144445362.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99 - 19.99
+            <a href="https://www.chmelaeon.com/products/10pcs-lot-13-56mhz-uid-changeable-s50-1k-nfc-sticker-card-anti-metal-laber-nfc-tag-rewritable-sector-0-block-0-access-card-copy">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> EFHH</span><br><span><strong>Model Number:</strong> UID S50</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730761279</id>
+      <title>anti-metal wet inlay</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30146925-anti-metal-wet-inlay</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730761279</id>
+      <title>anti-matal laber</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30146925-anti-matal-laber</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730761279</id>
+      <title>wet inlay</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>30146925-wet-inlay</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730761279</id>
+      <title>laber</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>30146925-laber</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4172730728511</id>
+    <published>2019-09-30T18:04:22-05:00</published>
+    <updated>2019-09-30T18:04:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/grey-anti-metal-magnetic-nfc-sticker-paster-for-iphone-cell-phone-bus-access-control-card-ic-card-protection-supplies"/>
+    <title>Grey Anti-Metal Magnetic NFC Sticker Paster for iPhone Cell Phone Bus Access Control Card IC Card Protection Supplies</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1144444644.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99 - 6.99
+            <a href="https://www.chmelaeon.com/products/grey-anti-metal-magnetic-nfc-sticker-paster-for-iphone-cell-phone-bus-access-control-card-ic-card-protection-supplies">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Model Number:</strong> NFC TAG Sticker</span><br><span><strong>Brand Name:</strong> XINYUANSHUNTONG</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730728511</id>
+      <title>2</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>30146894-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730728511</id>
+      <title>1</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>30146894-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4172728631359</id>
+    <published>2019-09-30T18:00:29-05:00</published>
+    <updated>2019-09-30T18:00:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/japanese-kimono-cardigan-men-haori-yukata-male-samurai-costume-clothing-kimono-jacket-mens-kimono-shirt-yukata-haori-kk1534"/>
+    <title>Japanese kimono cardigan men haori yukata male samurai costume clothing kimono jacket mens kimono shirt yukata haori KK1534</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-858730415.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Asia &amp; Pacific Islands Clothing</span><br><span><strong>Special Use:</strong> Traditional Clothing</span><br><span><strong>Material:</strong> COTTON</span><br><span><strong>Material:</strong> Linen</span><br><span><strong>Gender:</strong> Men</span><br><span><strong>Type:</strong> Kimono</span><br><span><strong>Model Number:</strong> KK1534</span><br><span><strong>Sleeve Length(cm):</strong> Full</span><br><span><strong>Brand Name:</strong> EASTQUEEN</span><br><span><strong>traditional chinese clothes men:</strong> oriental mens clothing</span><br><span><strong>traditional chinese clothes:</strong> 1</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172728631359</id>
+      <title>1 / M</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>16779835-1-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172728631359</id>
+      <title>1 / L</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>16779835-1-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172728631359</id>
+      <title>1 / XL</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>16779835-1-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172728631359</id>
+      <title>1 / XXL</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>16779835-1-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4172728598591</id>
+    <published>2019-09-30T18:00:29-05:00</published>
+    <updated>2019-09-30T18:00:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/kimono-cardigan-japanese-japan-beach-kimono-shirt-femme-traditional-2018-japanese-kimono-traditional-robe-ladies-dragon-kk097"/>
+    <title>Kimono cardigan japanese japan beach kimono shirt femme traditional 2018 japanese kimono traditional robe ladies dragon   KK097</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-754617839.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.99 - 23.99
+            <a href="https://www.chmelaeon.com/products/kimono-cardigan-japanese-japan-beach-kimono-shirt-femme-traditional-2018-japanese-kimono-traditional-robe-ladies-dragon-kk097">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Asia &amp; Pacific Islands Clothing</span><br><span><strong>Special Use:</strong> Traditional Clothing</span><br><span><strong>Material:</strong> Polyester</span><br><span><strong>Material:</strong> COTTON</span><br><span><strong>Type:</strong> Kimono</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Sleeve Length(cm):</strong> Three Quarter</span><br><span><strong>Model Number:</strong> KK097</span><br><span><strong>Brand Name:</strong> EASTQUEEN</span><br><span><strong>kimono cardigan:</strong> japanese kimono</span><br><span><strong>kimono femme:</strong> kimono shirt</span><br><span><strong>beach kimono:</strong> kimono robe</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172728598591</id>
+      <title>Black / One Size</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>10328724-black-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172728598591</id>
+      <title>White / One Size</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>10328724-white-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1944248614975</id>
+    <published>2019-07-31T10:04:59-05:00</published>
+    <updated>2019-07-31T10:04:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/owgyml-5pcs-lot-125khz-em4100-tk4100-rfid-wristband-bracelet-id-card-silicone-rfid-band-read-only-access-control-card-nfc-tags-1"/>
+    <title>OWGYML 5pcs/lot 125khz EM4100 TK4100 RFID Wristband Bracelet ID Card Silicone RFID Band Read Only Access Control Card NFC Tags</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1023261286.jpg?v=1578614165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> OWGYML</span><br><span><strong>Model Number:</strong> 1411004</span><br><span><strong>name:</strong> ID silicone bracelet</span><br><span><strong>Model Number:</strong> EM4100 TK4100</span><br><span><strong>Frenquency:</strong> 125khz/13.56khz ID card</span><br><span><strong>Chip:</strong> 4100 tag</span><br><span><strong>Funtion:</strong> Readable only</span><br><span><strong>Diameter:</strong> 65mm</span><br><span><strong>type:</strong> rfid wristband</span><br><span><strong>for:</strong> Access Control Card</span><br><span><strong>special:</strong> kid silicone bracelet</span><br><span><strong>feature:</strong> 125khz rfid tags</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1944248614975</id>
+      <title>Red</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>28272199-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1944248614975</id>
+      <title>Blue</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>28272199-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1944248614975</id>
+      <title>Yellow</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>28272199-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1944248582207</id>
+    <published>2019-07-31T10:04:59-05:00</published>
+    <updated>2019-07-31T10:04:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/1pcs-13-56mhz-uid-changeable-mf-1k-s50-nfc-bracelet-rfid-wristband-chinese-magic-card-back-door-rewritable-s50-card-1"/>
+    <title>1pcs 13.56Mhz UID Changeable MF 1K S50 NFC Bracelet RFID Wristband Chinese Magic Card Back Door Rewritable S50 Card</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1023160226.jpg?v=1578614165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Model Number:</strong> lh-UIDwd-01</span><br><span><strong>Brand Name:</strong> zhizaibide</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1944248582207</id>
+      <title>Blue</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>28271942-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1944248582207</id>
+      <title>Red</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>28271942-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1944248582207</id>
+      <title>Green</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>28271942-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1944248582207</id>
+      <title>Black</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>28271942-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1944248582207</id>
+      <title>Yellow</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>28271942-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1944248582207</id>
+      <title>Mixed Color</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>28271942-mixed-color</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

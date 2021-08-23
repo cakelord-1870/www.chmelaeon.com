@@ -1,0 +1,4206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.chmelaeon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.chmelaeon.com/collections/military-survival-outdoor-paintball-airsoft.atom"/>
+  <title>Chmelaeon</title>
+  <updated>2019-05-21T19:02:08-05:00</updated>
+  <author>
+    <name>Chmelaeon</name>
+  </author>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11722446483</id>
+    <published>2019-05-21T19:02:08-05:00</published>
+    <updated>2019-05-21T19:02:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/fashion-cowhide-genuine-leather-military-uniform-boots-mid-calf-platform-motorcycle-martin-boots-steam-punk-combat-boots"/>
+    <title>Fashion Cowhide Genuine Leather Military Uniform Boots Mid-calf Platform Motorcycle Martin Boots Steam Punk Combat Boots</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-341285945.jpg?v=1578611979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            142.99 - 178.99
+            <a href="https://www.chmelaeon.com/products/fashion-cowhide-genuine-leather-military-uniform-boots-mid-calf-platform-motorcycle-martin-boots-steam-punk-combat-boots">(22 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Adult</span><br><span><strong>Item Type:</strong> Boots</span><br><span><strong>Fashion Element:</strong> Ankle Strap</span><br><span><strong>Insole Material:</strong> Pig Split</span><br><span><strong>Boot Type:</strong> Motorcycle boots</span><br><span><strong>Fit:</strong> Fits larger than usual. Please check this store's sizing info</span><br><span><strong>Upper Material:</strong> Genuine Leather</span><br><span><strong>Shaft Material:</strong> Genuine Leather</span><br><span><strong>Lining Material:</strong> Cotton Fabric</span><br><span><strong>Model Number:</strong> 1990</span><br><span><strong>Heel Height:</strong> Low (1cm-3cm)</span><br><span><strong>Brand Name:</strong> Angelic imprint</span><br><span><strong>is_handmade:</strong> Yes</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Closure Type:</strong> Lace-Up</span><br><span><strong>Shaft-Genuine Leather Type:</strong> Cow Leather</span><br><span><strong>Toe Shape:</strong> Round Toe</span><br><span><strong>Outsole Material:</strong> Rubber</span><br><span><strong>Boot Height:</strong> Mid-Calf</span><br><span><strong>Season:</strong> Spring/Autumn</span><br><span><strong>Upper-Genuine Leather Type:</strong> Cow Leather</span><br><span><strong>Shoe Width:</strong> Wide(C,D,W)</span><br><span><strong>With Platforms:</strong> Yes</span><br><span><strong>Decorations:</strong> Buckle</span><br><span><strong>Heel Height:</strong> Low (3/4" to 1 1/2")</span><br><span><strong>Gender:</strong> Men</span><br><span><strong>Heel Type:</strong> Wedges</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">178.99</s:price>
+      <s:sku>1946775-black-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Black / 6.5</title>
+      <s:price currency="USD">178.99</s:price>
+      <s:sku>1946775-black-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Black / 7</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>1946775-black-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Black / 7.5</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>1946775-black-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>1946775-black-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Black / 8.5</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>1946775-black-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Black / 9</title>
+      <s:price currency="USD">178.99</s:price>
+      <s:sku>1946775-black-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Black / 9.5</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>1946775-black-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>1946775-black-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Black / 10.5</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>1946775-black-10-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Brown / 6</title>
+      <s:price currency="USD">178.99</s:price>
+      <s:sku>1946775-brown-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Brown / 6.5</title>
+      <s:price currency="USD">178.99</s:price>
+      <s:sku>1946775-brown-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Brown / 7</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>1946775-brown-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Brown / 7.5</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>1946775-brown-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Brown / 8</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>1946775-brown-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Brown / 8.5</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>1946775-brown-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Brown / 9</title>
+      <s:price currency="USD">178.99</s:price>
+      <s:sku>1946775-brown-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Brown / 9.5</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>1946775-brown-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Brown / 10</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>1946775-brown-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Brown / 10.5</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>1946775-brown-10-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Black / 11</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>1946775-black-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722446483</id>
+      <title>Brown / 11</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>1946775-brown-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11722458451</id>
+    <published>2019-05-21T19:01:40-05:00</published>
+    <updated>2019-05-21T19:01:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/outdoor-sport-army-mens-tactical-boots-camo-male-combat-shoes-military-leather-boots-enthusiasts-marine-shoes"/>
+    <title>Outdoor Sport Army Men&apos;s Tactical Boots Camo Male Combat Shoes Military leather Boots Enthusiasts Marine Shoes</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-116456439.jpg?v=1578611989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            107.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Adult</span><br><span><strong>Item Type:</strong> Boots</span><br><span><strong>Heel Height:</strong> Flat (≤1cm)</span><br><span><strong>Fit:</strong> Fits true to size, take your normal size</span><br><span><strong>Upper Material:</strong> Nylon</span><br><span><strong>Lining Material:</strong> Cotton Fabric</span><br><span><strong>Shaft Material:</strong> Nylon</span><br><span><strong>Insole Material:</strong> Fabric</span><br><span><strong>is_handmade:</strong> Yes</span><br><span><strong>Boot Type:</strong> Western</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Fashion Element:</strong> Platform</span><br><span><strong>Model Number:</strong> 525</span><br><span><strong>Toe Shape:</strong> Round Toe</span><br><span><strong>Boot Height:</strong> Ankle</span><br><span><strong>Outsole Material:</strong> Rubber</span><br><span><strong>Closure Type:</strong> Zip</span><br><span><strong>Season:</strong> Spring/Autumn</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722458451</id>
+      <title>7</title>
+      <s:price currency="USD">107.99</s:price>
+      <s:sku>2399834-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722458451</id>
+      <title>8</title>
+      <s:price currency="USD">107.99</s:price>
+      <s:sku>2399834-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722458451</id>
+      <title>10</title>
+      <s:price currency="USD">107.99</s:price>
+      <s:sku>2399834-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722458451</id>
+      <title>7.5</title>
+      <s:price currency="USD">107.99</s:price>
+      <s:sku>2399834-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722458451</id>
+      <title>8.5</title>
+      <s:price currency="USD">107.99</s:price>
+      <s:sku>2399834-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722458451</id>
+      <title>9.5</title>
+      <s:price currency="USD">107.99</s:price>
+      <s:sku>2399834-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722458451</id>
+      <title>6.5</title>
+      <s:price currency="USD">107.99</s:price>
+      <s:sku>2399834-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11722462867</id>
+    <published>2019-05-21T19:01:28-05:00</published>
+    <updated>2019-05-21T19:01:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/modyf-mens-fall-winter-steel-toe-cap-work-safety-shoes-outdoor-welding-protect-boots-fashion-puncture-proof-footwear-ankle-boots"/>
+    <title>Modyf Mens fall winter Steel Toe Cap work Safety shoes outdoor welding protect boots fashion puncture proof footwear ankle boots</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-349860098.jpg?v=1578611992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            92.99 - 100.99
+            <a href="https://www.chmelaeon.com/products/modyf-mens-fall-winter-steel-toe-cap-work-safety-shoes-outdoor-welding-protect-boots-fashion-puncture-proof-footwear-ankle-boots">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Adult</span><br><span><strong>Item Type:</strong> Boots</span><br><span><strong>Brand Name:</strong> MODYF</span><br><span><strong>Fashion Element:</strong> Ankle Strap</span><br><span><strong>Upper Material:</strong> Cow Suede</span><br><span><strong>Heel Height:</strong> Flat (≤1cm)</span><br><span><strong>Season:</strong> Winter</span><br><span><strong>Fit:</strong> Fits true to size, take your normal size</span><br><span><strong>Insole Material:</strong> Rubber</span><br><span><strong>Shaft Material:</strong> Cow Suede</span><br><span><strong>Model Number:</strong> M160119</span><br><span><strong>is_handmade:</strong> Yes</span><br><span><strong>Lining Material:</strong> Mesh</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Closure Type:</strong> Lace-Up</span><br><span><strong>Toe Shape:</strong> Round Toe</span><br><span><strong>Boot Height:</strong> Ankle</span><br><span><strong>Outsole Material:</strong> Rubber</span><br><span><strong>Boot Type:</strong> Work &amp; Safety</span><br><span><strong>Heel Type:</strong> Flat with</span><br><span><strong>Gender:</strong> Men</span><br><span><strong>Leather Style:</strong> Nubuck Leather</span><br><span><strong>Shoe Width:</strong> Medium(B,M)</span><br><span><strong>With Platforms:</strong> No</span><br><span><strong>Heel Height:</strong> Flat (0 to 1/2</span><br><span><strong>Process:</strong> Adhesive</span><br><span><strong>Decorations:</strong> Plain</span><br><span><strong>Lining Material:</strong> Mesh</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722462867</id>
+      <title>Black / 6.5</title>
+      <s:price currency="USD">93.99</s:price>
+      <s:sku>4977956-black-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722462867</id>
+      <title>Black / 7</title>
+      <s:price currency="USD">93.99</s:price>
+      <s:sku>4977956-black-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722462867</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">100.99</s:price>
+      <s:sku>4977956-black-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722462867</id>
+      <title>Black / 8.5</title>
+      <s:price currency="USD">100.99</s:price>
+      <s:sku>4977956-black-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722462867</id>
+      <title>Black / 9.5</title>
+      <s:price currency="USD">93.99</s:price>
+      <s:sku>4977956-black-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722462867</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">92.99</s:price>
+      <s:sku>4977956-black-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11722468883</id>
+    <published>2019-05-21T19:01:13-05:00</published>
+    <updated>2019-05-21T19:01:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/hellozebra-men-rain-boots-autumn-fashion-lace-men-s-short-tube-water-boots-low-shoes-men-outdoor-waterproof-fishing-2017-new"/>
+    <title>Hellozebra Men Rain Boots Autumn Fashion Lace Men &apos;s Short Tube Water Boots Low Shoes Men Outdoor Waterproof Fishing 2017 New</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-217164376.jpg?v=1578611996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            140.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Adult</span><br><span><strong>Item Type:</strong> Boots</span><br><span><strong>Boot Type:</strong> Rainboots</span><br><span><strong>Fit:</strong> Fits true to size, take your normal size</span><br><span><strong>Insole Material:</strong> Rubber</span><br><span><strong>Heel Height:</strong> Low (1cm-3cm)</span><br><span><strong>Shaft Material:</strong> Rubber</span><br><span><strong>Lining Material:</strong> Canvas</span><br><span><strong>is_handmade:</strong> Yes</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Closure Type:</strong> Lace-Up</span><br><span><strong>Fashion Element:</strong> Platform</span><br><span><strong>Model Number:</strong> HB104</span><br><span><strong>Toe Shape:</strong> Round Toe</span><br><span><strong>Brand Name:</strong> Hellozebra</span><br><span><strong>Upper Material:</strong> Rubber</span><br><span><strong>Boot Height:</strong> Ankle</span><br><span><strong>Outsole Material:</strong> Rubber</span><br><span><strong>Season:</strong> Spring/Autumn</span><br><span><strong>Color:</strong> Navy,Green</span><br><span><strong>Size:</strong> 7.5-11</span><br><span><strong>Boot Height:</strong> Mid-Calf</span><br><span><strong>Heel Height:</strong> Flat</span><br><span><strong>Leather Style:</strong> Nubuck Leather</span><br><span><strong>Heel Type:</strong> Hoof Heels</span><br><span><strong>Closure Type:</strong> Slip-On</span><br><span><strong>Toe Shape:</strong> Round Toe</span><br><span><strong>Decorations:</strong> Buckle</span><br><span><strong>Pattern Type:</strong> Solid</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Navy / 7.5</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-navy-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Navy / 8</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-navy-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Navy / 8.5</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-navy-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Navy / 9</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-navy-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Navy / 10</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-navy-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Navy / 11</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-navy-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Green / 7.5</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-green-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Green / 8</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-green-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Green / 8.5</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-green-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Green / 9</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-green-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Green / 10</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-green-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722468883</id>
+      <title>Green / 11</title>
+      <s:price currency="USD">140.99</s:price>
+      <s:sku>4761445-green-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11722474579</id>
+    <published>2019-05-21T19:00:59-05:00</published>
+    <updated>2019-05-21T19:00:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/classic-black-men-british-motorbike-riding-boots-military-winter-boots-cowboy-martin-boots"/>
+    <title>Classic Black Men British Motorbike Riding Boots Military Winter Boots Cowboy Martin Boots</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-302728409.jpg?v=1578612000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            112.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Adult</span><br><span><strong>Item Type:</strong> Boots</span><br><span><strong>is_handmade:</strong> Yes</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Model Number:</strong> steampunk shoes</span><br><span><strong>Shaft Material:</strong> Microfiber</span><br><span><strong>Toe Shape:</strong> Pointed Toe</span><br><span><strong>Boot Type:</strong> Basic</span><br><span><strong>Outsole Material:</strong> Rubber</span><br><span><strong>Upper Material:</strong> PU</span><br><span><strong>Closure Type:</strong> Zip</span><br><span><strong>Lining Material:</strong> Cotton Fabric</span><br><span><strong>Insole Material:</strong> Rubber</span><br><span><strong>Boot Height:</strong> Knee-High</span><br><span><strong>Season:</strong> Spring/Autumn</span><br><span><strong>Brand Name:</strong> Angelic imprint</span><br><span><strong>Shoe Width:</strong> Medium(B,M)</span><br><span><strong>Process:</strong> Sewing</span><br><span><strong>Platform Height:</strong> 0-3cm</span><br><span><strong>With Platforms:</strong> Yes</span><br><span><strong>Decorations:</strong> Plain</span><br><span><strong>Heel Height:</strong> Med (1 3/4" to 2 3/4")</span><br><span><strong>Leather Style:</strong> Soft Leather</span><br><span><strong>Gender:</strong> Men</span><br><span><strong>Heel Type:</strong> Square heel</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722474579</id>
+      <title>Black / 7</title>
+      <s:price currency="USD">112.99</s:price>
+      <s:sku>1316966-black-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722474579</id>
+      <title>Black / 7.5</title>
+      <s:price currency="USD">112.99</s:price>
+      <s:sku>1316966-black-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722474579</id>
+      <title>Black / 8.5</title>
+      <s:price currency="USD">112.99</s:price>
+      <s:sku>1316966-black-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722474579</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">112.99</s:price>
+      <s:sku>1316966-black-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722474579</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">112.99</s:price>
+      <s:sku>1316966-black-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722474579</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">112.99</s:price>
+      <s:sku>1316966-black-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722474579</id>
+      <title>Black / 9.5</title>
+      <s:price currency="USD">112.99</s:price>
+      <s:sku>1316966-black-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11722494803</id>
+    <published>2019-05-21T19:00:21-05:00</published>
+    <updated>2019-05-21T19:00:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/new-england-fashion-style-casual-leather-martin-boots-unisex-motocykle-short-boots-outdoor-spring-autumn-ankle-martin-shoes"/>
+    <title>New England fashion Style Casual Leather Martin Boots unisex motocykle short boots outdoor spring autumn ankle martin shoes</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-351854037.jpg?v=1578612016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            109.99 - 169.99
+            <a href="https://www.chmelaeon.com/products/new-england-fashion-style-casual-leather-martin-boots-unisex-motocykle-short-boots-outdoor-spring-autumn-ankle-martin-shoes">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Adult</span><br><span><strong>Item Type:</strong> Boots</span><br><span><strong>Heel Height:</strong> Flat (≤1cm)</span><br><span><strong>Boot Type:</strong> Motorcycle boots</span><br><span><strong>Fit:</strong> Fits true to size, take your normal size</span><br><span><strong>Upper Material:</strong> Genuine Leather</span><br><span><strong>Shaft Material:</strong> Genuine Leather</span><br><span><strong>With Platforms:</strong> No</span><br><span><strong>is_handmade:</strong> No</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Closure Type:</strong> Lace-Up</span><br><span><strong>Fashion Element:</strong> Platform</span><br><span><strong>Shaft-Genuine Leather Type:</strong> Cow Leather</span><br><span><strong>Heel Type:</strong> Square heel</span><br><span><strong>Brand Name:</strong> E.POLEM</span><br><span><strong>Insole Material:</strong> TPR</span><br><span><strong>Toe Shape:</strong> Round Toe</span><br><span><strong>Boot Height:</strong> Ankle</span><br><span><strong>Outsole Material:</strong> Rubber</span><br><span><strong>Lining Material:</strong> Pig Suede</span><br><span><strong>Season:</strong> Spring/Autumn</span><br><span><strong>Upper-Genuine Leather Type:</strong> Cow Leather</span><br><span><strong>Shoe Width:</strong> Medium(B,M)</span><br><span><strong>Upper Material:</strong> Full Grain Leather</span><br><span><strong>Decorations:</strong> Plain</span><br><span><strong>Heel Height:</strong> Low (3/4" to 1 1/2")</span><br><span><strong>Gender:</strong> Unisex</span><br><span><strong>Outsole Material:</strong> Cow Muscle</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722494803</id>
+      <title>Black / 5.5</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>7954936-black-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722494803</id>
+      <title>Black / 6.5</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>7954936-black-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722494803</id>
+      <title>Black / 7</title>
+      <s:price currency="USD">169.99</s:price>
+      <s:sku>7954936-black-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722494803</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">169.99</s:price>
+      <s:sku>7954936-black-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722494803</id>
+      <title>Black / 8.5</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>7954936-black-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722494803</id>
+      <title>Black / 9.5</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>7954936-black-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722494803</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">169.99</s:price>
+      <s:sku>7954936-black-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722494803</id>
+      <title>Brown / 5.5</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>7954936-brown-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722494803</id>
+      <title>Brown / 6.5</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>7954936-brown-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722494803</id>
+      <title>Brown / 7</title>
+      <s:price currency="USD">169.99</s:price>
+      <s:sku>7954936-brown-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722494803</id>
+      <title>Brown / 8</title>
+      <s:price currency="USD">169.99</s:price>
+      <s:sku>7954936-brown-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722494803</id>
+      <title>Brown / 8.5</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>7954936-brown-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722494803</id>
+      <title>Brown / 9.5</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>7954936-brown-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722494803</id>
+      <title>Brown / 10</title>
+      <s:price currency="USD">169.99</s:price>
+      <s:sku>7954936-brown-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11592068819</id>
+    <published>2019-05-21T19:00:05-05:00</published>
+    <updated>2019-05-21T19:00:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/outdoor-sports-cycling-bike-camera-mount-holder-bike-torch-holder-support-clip-clamp-bike-bicycle-access-for-gopro-hero-1-2-3-3"/>
+    <title>Outdoor Sports Cycling Bike Camera Mount Holder Bike Torch Holder Support Clip Clamp Bike Bicycle Access For GoPro Hero 1 2 3 3+</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-257940776.jpg?v=1578611772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> CADeN</span><br><span><strong>Folded Length (mm):</strong> 0</span><br><span><strong>Material:</strong> Aluminum</span><br><span><strong>Weight (g):</strong> 34</span><br><span><strong>Use:</strong> Digital Camera</span><br><span><strong>Model Number:</strong> Bike Handlebar</span><br><span><strong>Max Extened Length (mm):</strong> 0</span><br><span><strong>Package:</strong> No</span><br><span><strong>Type:</strong> Camera Mount Holder</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592068819</id>
+      <title>Black</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>5821168-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592068819</id>
+      <title>Blue</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>5821168-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592068819</id>
+      <title>Red</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>5821168-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592068819</id>
+      <title>Sliver</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>5821168-sliver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11548192851</id>
+    <published>2019-05-21T19:00:01-05:00</published>
+    <updated>2019-05-21T19:00:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/soft-light-outdoor-hanging-led-camping-tent-light-bulb-fishing-lantern-lamp-wholesale-free-shipping-1"/>
+    <title>Soft Light Outdoor Hanging LED Camping Tent Light Bulb Fishing Lantern Lamp Wholesale free shipping</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-77107679.jpg?v=1578611757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Pocket, Multi Tools</span><br><span><strong>Brand Name:</strong> cycle zone</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548192851</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1455596-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11548179859</id>
+    <published>2019-05-21T18:59:59-05:00</published>
+    <updated>2019-05-21T18:59:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/ropa-ciclismo-2016-cycling-glasses-uv400-outdoor-sports-windproof-eyewear-mountain-bike-bicycle-motorcycle-glasses-sunglasses"/>
+    <title>Ropa Ciclismo 2016 Cycling Glasses UV400 Outdoor Sports Windproof Eyewear Mountain Bike Bicycle Motorcycle Glasses Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-161908070.jpg?v=1578611752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Eyewear</span><br><span><strong>Sport Type:</strong> Cycling</span><br><span><strong>Gender:</strong> Men</span><br><span><strong>Lenses Optical Attribute:</strong> Mirror,Lens</span><br><span><strong>Frame Material:</strong> Acetate</span><br><span><strong>Frame Color:</strong> Multi</span><br><span><strong>Lens Width:</strong> 6.8cm</span><br><span><strong>Lens Height:</strong> 4.4cm</span><br><span><strong>Lenses Material:</strong> Polycarbonate</span><br><span><strong>Model Number:</strong> 001</span><br><span><strong>Sales Methods:</strong> Factory Direct Sales</span><br><span><strong>Gender:</strong> Man/Women</span><br><span><strong>Sport type:</strong> Cycling / Bike /Bicycle Sports</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ1</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ2</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ3</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ4</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ5</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ6</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ7</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ8</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ9</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ10</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ11</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ12</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11548159443</id>
+    <published>2019-05-21T18:59:58-05:00</published>
+    <updated>2019-05-21T18:59:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/portable-outdoor-hanging-3led-camping-lantern-soft-light-led-camp-lights-bulb-lamp-for-camping-tent-fishing-4-colors-aaa-battery"/>
+    <title>Portable outdoor Hanging 3LED Camping Lantern,Soft Light LED Camp Lights Bulb Lamp For Camping Tent Fishing 4 Colors,AAA Battery</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-101131101.jpg?v=1578611746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Pocket, Multi Tools</span><br><span><strong>Brand Name:</strong> YYEDC</span><br><span><strong>Features1:</strong> camping</span><br><span><strong>Features2:</strong> camping lamp</span><br><span><strong>Features3:</strong> led lantern</span><br><span><strong>Features4:</strong> camping tent</span><br><span><strong>Features5:</strong> naturehike</span><br><span><strong>Features6:</strong> lanterna</span><br><span><strong>Features7:</strong> flashlight</span><br><span><strong>Features8:</strong> led camping light</span><br><span><strong>Features9:</strong> lanterna led</span><br><span><strong>Features10:</strong> camping led</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548159443</id>
+      <title>Blue</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>2128016-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548159443</id>
+      <title>Green</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>2128016-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548159443</id>
+      <title>Red</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>2128016-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548159443</id>
+      <title>Yellow</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>2128016-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11722520531</id>
+    <published>2019-05-21T18:59:34-05:00</published>
+    <updated>2019-05-21T18:59:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/new-breathable-men-mujers-casual-shoes-comfortable-soft-walking-shoes-men-lightweight-outdoor-travel-shoes-big-size-male-sapato"/>
+    <title>New Breathable Men&amp;mujers Casual Shoes Comfortable Soft Walking Shoes Men Lightweight Outdoor Travel Shoes Big Size Male Sapato</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-249029807.jpg?v=1578612039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.99 - 66.99
+            <a href="https://www.chmelaeon.com/products/new-breathable-men-mujers-casual-shoes-comfortable-soft-walking-shoes-men-lightweight-outdoor-travel-shoes-big-size-male-sapato">(84 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Adult</span><br><span><strong>Item Type:</strong> casual shoes</span><br><span><strong>Shoes Type:</strong> Fisherman</span><br><span><strong>Fit:</strong> Fits true to size, take your normal size</span><br><span><strong>Upper Material:</strong> Nylon</span><br><span><strong>Closure Type:</strong> Slip-On</span><br><span><strong>Lining Material:</strong> Cotton Fabric</span><br><span><strong>Insole Material:</strong> EVA</span><br><span><strong>Feature:</strong> Breathable,Massage</span><br><span><strong>Brand Name:</strong> ALEADER</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Outsole Material:</strong> Rubber</span><br><span><strong>Model Number:</strong> 8859 Men casual shoes</span><br><span><strong>Season:</strong> Spring/Autumn</span><br><span><strong>Color:</strong> Black,Red,Blue,Gray ,Purple,</span><br><span><strong>Style:</strong> Fishing Shoes,Walking Shoes,Water,</span><br><span><strong>Gender:</strong> Unisex zapatilla</span><br><span><strong>Feature:</strong> Breathable,Quick Dry,Light</span><br><span><strong>Year :</strong> New 2017</span><br><span><strong>Elements:</strong> Cut-outs</span><br><span><strong>Heel Type:</strong> Flat with</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Black / 4.5</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-black-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Black / 5</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-black-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-black-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Black / 7</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-black-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Black / 7.5</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-black-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-black-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Black / 8.5</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2400140-black-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Black / 9</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-black-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Black / 10.5</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2400140-black-10-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Black / 11</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-black-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-black-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Black / 13</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-black-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Gray / 4.5</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-blue-gray-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Gray / 5</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-blue-gray-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Gray / 6</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-blue-gray-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Gray / 7</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-blue-gray-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Gray / 7.5</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-blue-gray-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Gray / 8</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-blue-gray-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Gray / 8.5</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2400140-blue-gray-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Gray / 9</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-blue-gray-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Gray / 10.5</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2400140-blue-gray-10-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Gray / 11</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-blue-gray-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Gray / 12</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-blue-gray-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Gray / 13</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-blue-gray-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Women / 4.5</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-blue-women-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Women / 5</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-blue-women-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Women / 6</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-blue-women-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Women / 7</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-blue-women-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Women / 7.5</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-blue-women-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Women / 8</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-blue-women-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Women / 8.5</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2400140-blue-women-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Women / 9</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-blue-women-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Women / 10.5</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2400140-blue-women-10-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Women / 11</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-blue-women-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Women / 12</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-blue-women-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Women / 13</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-blue-women-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Yellow Gray / 4.5</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-yellow-gray-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Yellow Gray / 5</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-yellow-gray-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Yellow Gray / 6</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-yellow-gray-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Yellow Gray / 7</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-yellow-gray-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Yellow Gray / 7.5</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-yellow-gray-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Yellow Gray / 8</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-yellow-gray-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Yellow Gray / 8.5</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2400140-yellow-gray-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Yellow Gray / 9</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-yellow-gray-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Yellow Gray / 10.5</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2400140-yellow-gray-10-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Yellow Gray / 11</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-yellow-gray-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Yellow Gray / 12</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-yellow-gray-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Yellow Gray / 13</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-yellow-gray-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Gray Women / 4.5</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-gray-women-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Gray Women / 5</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-gray-women-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Gray Women / 6</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-gray-women-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Gray Women / 7</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-gray-women-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Gray Women / 7.5</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-gray-women-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Gray Women / 8</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-gray-women-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Gray Women / 8.5</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2400140-gray-women-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Gray Women / 9</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-gray-women-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Gray Women / 10.5</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2400140-gray-women-10-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Gray Women / 11</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-gray-women-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Gray Women / 12</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-gray-women-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Gray Women / 13</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-gray-women-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Purple / 4.5</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-purple-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Purple / 5</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-purple-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Purple / 6</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-purple-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Purple / 7</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-purple-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Purple / 7.5</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-purple-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Purple / 8</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-purple-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Purple / 8.5</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2400140-purple-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Purple / 9</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-purple-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Purple / 10.5</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2400140-purple-10-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Purple / 11</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-purple-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Purple / 12</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-purple-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Purple / 13</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-purple-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Red / 4.5</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-blue-red-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Red / 5</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-blue-red-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Red / 6</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-blue-red-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Red / 7</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-blue-red-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Red / 7.5</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-blue-red-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Red / 8</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-blue-red-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Red / 8.5</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2400140-blue-red-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Red / 9</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-blue-red-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Red / 10.5</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2400140-blue-red-10-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Red / 11</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-blue-red-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Red / 12</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>2400140-blue-red-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722520531</id>
+      <title>Blue Red / 13</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2400140-blue-red-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11722545555</id>
+    <published>2019-05-21T18:58:40-05:00</published>
+    <updated>2019-05-21T18:58:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/men-shoes-2017-spring-autumn-winter-warm-leather-casual-shoes-mens-oxfords-outdoor-flat-plus-size-man-hot-sale"/>
+    <title>Men Shoes 2017 Spring Autumn Winter Warm  Leather Casual Shoes Mens Oxfords Outdoor Flat Plus Size Man Hot Sale</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-347892178.jpg?v=1578612064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99 - 45.99
+            <a href="https://www.chmelaeon.com/products/men-shoes-2017-spring-autumn-winter-warm-leather-casual-shoes-mens-oxfords-outdoor-flat-plus-size-man-hot-sale">(77 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> One Bling</span><br><span><strong>Upper Material:</strong> Faux Suede</span><br><span><strong>Outsole Material:</strong> Rubber</span><br><span><strong>Insole Material:</strong> Latex</span><br><span><strong>Lining Material:</strong> Poly Propylene (PP)</span><br><span><strong>Shoes Type:</strong> Basic</span><br><span><strong>Feature:</strong> Breathable</span><br><span><strong>Closure Type:</strong> Lace-Up</span><br><span><strong>Model Number:</strong> X81764/O</span><br><span><strong>Season:</strong> Winter</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Fit:</strong> Fits true to size, take your normal size</span><br><span><strong>Department Name:</strong> Adult</span><br><span><strong>Item Type:</strong> casual shoes</span><br><span><strong>Lining Material:</strong> Synthetic Leather</span><br><span><strong>Upper Height:</strong> Low</span><br><span><strong>Shoes Type:</strong> Men Casual Shoes</span><br><span><strong>Shoes Feature:</strong> Men Shoes</span><br><span><strong>Fashion Style:</strong> Fashion Shoes for Men</span><br><span><strong>Sport Type:</strong> Men Sport Shoes</span><br><span><strong>Casual Shoes:</strong> Men Casual Shoes</span><br><span><strong>Style:</strong> Leisure &amp; Casual &amp; Fashion</span><br><span><strong>Outsole Material:</strong> Cow Muscle</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Blue / 5.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-blue-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Blue / 6.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-blue-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Blue / 7</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-blue-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Blue / 8</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-blue-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Blue / 8.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-blue-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Blue / 9</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-blue-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Blue / 10</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-blue-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Blue / 11</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-blue-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Blue / 12</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-blue-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Blue / 12.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-blue-12-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Blue / 13</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-blue-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Brown / 5.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-brown-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Brown / 6.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-brown-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Brown / 7</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-brown-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Brown / 8</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-brown-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Brown / 8.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-brown-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Brown / 9</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-brown-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Brown / 10</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-brown-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Brown / 11</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-brown-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Brown / 12</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-brown-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Brown / 12.5</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>773260-brown-12-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Brown / 13</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-brown-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Black / 5.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-black-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Black / 6.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-black-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Black / 7</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-black-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-black-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Black / 8.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-black-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Black / 9</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-black-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-black-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Black / 11</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-black-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-black-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Black / 12.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-black-12-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Black / 13</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-black-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Camel Brown / 5.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-camel-brown-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Camel Brown / 6.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-camel-brown-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Camel Brown / 7</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-camel-brown-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Camel Brown / 8</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-camel-brown-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Camel Brown / 8.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-camel-brown-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Camel Brown / 9</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-camel-brown-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Camel Brown / 10</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-camel-brown-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Camel Brown / 11</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-camel-brown-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Camel Brown / 12</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-camel-brown-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Camel Brown / 12.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-camel-brown-12-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Camel Brown / 13</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-camel-brown-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Green / 5.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-green-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Green / 6.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-green-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Green / 7</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-green-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Green / 8</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-green-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Green / 8.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-green-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Green / 9</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-green-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Green / 10</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-green-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Green / 11</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-green-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Green / 12</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-green-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Green / 12.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-green-12-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Green / 13</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-green-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Grey / 5.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-grey-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Grey / 6.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-grey-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Grey / 7</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-grey-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Grey / 8</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-grey-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Grey / 8.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-grey-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Grey / 9</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-grey-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Grey / 10</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-grey-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Grey / 11</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-grey-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Grey / 12</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-grey-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Grey / 12.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-grey-12-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Grey / 13</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-grey-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Khaki / 5.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-khaki-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Khaki / 6.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-khaki-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Khaki / 7</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-khaki-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Khaki / 8</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-khaki-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Khaki / 8.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-khaki-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Khaki / 9</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-khaki-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Khaki / 10</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-khaki-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Khaki / 11</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-khaki-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Khaki / 12</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-khaki-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Khaki / 12.5</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-khaki-12-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722545555</id>
+      <title>Khaki / 13</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>773260-khaki-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11722561875</id>
+    <published>2019-05-21T18:58:07-05:00</published>
+    <updated>2019-05-21T18:58:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/men-shoes-2017-fashion-brand-outdoor-mesh-shoes-high-quality-breathable-slip-on-summer-casual-shoes"/>
+    <title>Men Shoes 2017 Fashion Brand Outdoor Mesh Shoes High Quality Breathable Slip on Summer Casual Shoes</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-304631968.jpg?v=1578612079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.99 - 21.99
+            <a href="https://www.chmelaeon.com/products/men-shoes-2017-fashion-brand-outdoor-mesh-shoes-high-quality-breathable-slip-on-summer-casual-shoes">(44 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Adult</span><br><span><strong>Item Type:</strong> casual shoes</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Lining Material:</strong> Mesh</span><br><span><strong>Brand Name:</strong> zwxlhh</span><br><span><strong>Upper Material:</strong> Mesh (Air mesh)</span><br><span><strong>Outsole Material:</strong> Plastic</span><br><span><strong>Fit:</strong> Fits true to size, take your normal size</span><br><span><strong>Season:</strong> Summer</span><br><span><strong>Model Number:</strong> 321</span><br><span><strong>Closure Type:</strong> Slip-On</span><br><span><strong>Insole Material:</strong> Bonded Leather</span><br><span><strong>Feature:</strong> Height Increasing,Breathable</span><br><span><strong>Shoes Type:</strong> Basic</span><br><span><strong>Vulcanized Shoes:</strong> No</span><br><span><strong>Heel Type:</strong> Flat with</span><br><span><strong>Gender:</strong> Men</span><br><span><strong>Shoe Width:</strong> Medium(B,M)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Blue / 7</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-blue-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Blue / 7.5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-blue-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Blue / 8</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-blue-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Blue / 8.5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-blue-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Blue / 9</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-blue-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Blue / 9.5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-blue-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Blue / 10</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-blue-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Blue / 5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-blue-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Blue / 5.5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-blue-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Blue / 6</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-blue-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Blue / 6.5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-blue-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Gray / 7</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-gray-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Gray / 7.5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-gray-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Gray / 8</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-gray-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Gray / 8.5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-gray-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Gray / 9</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-gray-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Gray / 9.5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-gray-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Gray / 10</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-gray-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Gray / 5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>6247983-gray-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Gray / 5.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>6247983-gray-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Gray / 6</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-gray-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Gray / 6.5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-gray-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Dark Grey / 7</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-dark-grey-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Dark Grey / 7.5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-dark-grey-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Dark Grey / 8</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-dark-grey-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Dark Grey / 8.5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-dark-grey-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Dark Grey / 9</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-dark-grey-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Dark Grey / 9.5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-dark-grey-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Dark Grey / 10</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-dark-grey-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Dark Grey / 5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-dark-grey-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Dark Grey / 5.5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-dark-grey-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Dark Grey / 6</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-dark-grey-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>Dark Grey / 6.5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-dark-grey-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>red female / 7</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-red-female-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>red female / 7.5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-red-female-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>red female / 8</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-red-female-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>red female / 8.5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-red-female-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>red female / 9</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-red-female-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>red female / 9.5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-red-female-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>red female / 10</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-red-female-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>red female / 5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>6247983-red-female-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>red female / 5.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>6247983-red-female-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>red female / 6</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-red-female-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722561875</id>
+      <title>red female / 6.5</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6247983-red-female-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11722577299</id>
+    <published>2019-05-21T18:57:35-05:00</published>
+    <updated>2019-05-21T18:57:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/new-arrived-polyester-brand-non-slip-wear-resistant-round-shoelaces-polka-dot-outdoor-sports-climbing-shoe-lace"/>
+    <title>New Arrived Polyester Brand Non Slip Wear-resistant Round Shoelaces Polka Dot Outdoor Sports Climbing Shoe Lace</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-343945839.jpg?v=1578612093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Shoelaces</span><br><span><strong>Feature:</strong> Fashion</span><br><span><strong>Pattern Type:</strong> Polka Dot</span><br><span><strong>Brand Name:</strong> Leemeimei</span><br><span><strong>Model Number:</strong> LMM-B05</span><br><span><strong>Material:</strong> Polyester</span><br><span><strong>Main Material:</strong> Polyester+Cotton</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722577299</id>
+      <title>red brown yellow</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2405811-red-brown-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722577299</id>
+      <title>black white</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2405811-black-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722577299</id>
+      <title>red brown black</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2405811-red-brown-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722577299</id>
+      <title>dark gray blue</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2405811-dark-gray-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722577299</id>
+      <title>light brown rose red</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2405811-light-brown-rose-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722577299</id>
+      <title>lightbrowngoldyellow</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2405811-lightbrowngoldyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722577299</id>
+      <title>black red</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2405811-black-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722577299</id>
+      <title>dark grey green</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2405811-dark-grey-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722577299</id>
+      <title>black green</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2405811-black-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722577299</id>
+      <title>light grey pink</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2405811-light-grey-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722577299</id>
+      <title>light grey black</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2405811-light-grey-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722577299</id>
+      <title>army green khaki</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2405811-army-green-khaki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722577299</id>
+      <title>light grey green</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2405811-light-grey-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722577299</id>
+      <title>light grey yellow</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2405811-light-grey-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722577299</id>
+      <title>coffee yellow</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2405811-coffee-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722577299</id>
+      <title>army green yellow</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2405811-army-green-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722577299</id>
+      <title>light brown black</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2405811-light-brown-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11722601811</id>
+    <published>2019-05-21T18:56:50-05:00</published>
+    <updated>2019-05-21T18:56:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/new-2016-mens-sandals-genuine-leather-cowhide-sandals-outdoor-casual-men-summer-leather-shoes-for-men"/>
+    <title>New 2016 mens sandals Genuine leather cowhide sandals outdoor casual men summer leather shoes for men</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-177607716.jpg?v=1578612117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Adult</span><br><span><strong>Item Type:</strong> Sandals</span><br><span><strong>Fit:</strong> Fits true to size, take your normal size</span><br><span><strong>Fashion Element:</strong> Sewing</span><br><span><strong>Upper Material:</strong> Genuine Leather</span><br><span><strong>Lining Material:</strong> Synthetic</span><br><span><strong>Style:</strong> Leisure</span><br><span><strong>Insole Material:</strong> Rubber</span><br><span><strong>Heel Height:</strong> Low (1cm-3cm)</span><br><span><strong>Occasion:</strong> Casual</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Outsole Material:</strong> Rubber</span><br><span><strong>Closure Type:</strong> Hook &amp; Loop</span><br><span><strong>Model Number:</strong> men sandals</span><br><span><strong>Upper-Genuine Leather Type:</strong> Cow Leather</span><br><span><strong>Sandal Type:</strong> Ankle-Wrap</span><br><span><strong>Leather Style:</strong> Soft Leather</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Black / 6.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-black-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Black / 7</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-black-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Black / 7.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-black-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-black-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Black / 8.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-black-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Black / 9</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-black-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-black-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Yellow / 6.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-yellow-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Yellow / 7</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-yellow-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Yellow / 7.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-yellow-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Yellow / 8</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-yellow-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Yellow / 8.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-yellow-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Yellow / 9</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-yellow-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Yellow / 10</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-yellow-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Brown / 6.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-brown-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Brown / 7</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-brown-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Brown / 7.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-brown-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Brown / 8</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-brown-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Brown / 8.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-brown-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Brown / 9</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-brown-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722601811</id>
+      <title>Brown / 10</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>3723154-brown-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11764709459</id>
+    <published>2019-05-21T18:56:07-05:00</published>
+    <updated>2019-05-21T18:56:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/toy-gun-wristband-nerf-dart-gun-can-hold-soft-bullets-professional-player-outdoor-game-clip-dart-boy-toy-gun-accessory"/>
+    <title>Toy Gun Wristband Nerf dart Gun Can hold soft bullets professional player Outdoor game Clip Dart boy toy gun Accessory</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-253027264.jpg?v=1578612128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Gender:</strong> Unisex</span><br><span><strong>Age Range:</strong> &gt; 3 years old</span><br><span><strong>Material:</strong> EVA</span><br><span><strong>Warning:</strong> Not for children under 3 years old</span><br><span><strong>Type:</strong> Toy Pistol Gun</span><br><span><strong>Model Number:</strong> soft bullet belt</span><br><span><strong>Features:</strong> Mini</span><br><span><strong>Free Shipping:</strong> CMSOP,Aliexpress Save</span><br><span><strong>Country of origin:</strong> China Zhejiang</span><br><span><strong>DIY:</strong> NO</span><br><span><strong>Material:</strong> Elastic nylon</span><br><span><strong>Fit for:</strong> Standard Nerf Gun Soft Bullets,MEGA Bullets</span><br><span><strong>Package:</strong> Opp Bag</span><br><span><strong>Default Ship Way:</strong> Aliexpress</span><br><span><strong>Applicable age:</strong> All age</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764709459</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2028071-1pcs-wristband</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11764733075</id>
+    <published>2019-05-21T18:55:55-05:00</published>
+    <updated>2019-05-21T18:55:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/original-geekam-s9-action-camera-4k-sport-1080p-wifi-camera-camaras-deportivas-waterproof-outdoor-mini-hd-dv-go-extreme-pro-cam"/>
+    <title>Original GEEKAM S9 action camera 4K sport 1080P WiFi camera camaras deportivas waterproof Outdoor Mini hd dv go extreme pro cam</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-301232273.jpg?v=1578612131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            71.99 - 149.99
+            <a href="https://www.chmelaeon.com/products/original-geekam-s9-action-camera-4k-sport-1080p-wifi-camera-camaras-deportivas-waterproof-outdoor-mini-hd-dv-go-extreme-pro-cam">(28 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Memory Card Support:</strong> 32G</span><br><span><strong>Wideangle:</strong> 170°</span><br><span><strong>Brand Name:</strong> GEEKAM</span><br><span><strong>WIFI Support:</strong> Yes</span><br><span><strong>Waterproof:</strong> Yes</span><br><span><strong>Volume:</strong> (L*W*H)59.3*24.6*41.1mm</span><br><span><strong>Pixels:</strong> 12 million</span><br><span><strong>Optical Zoom:</strong> Fixed Focus</span><br><span><strong>Processor:</strong> GC4603</span><br><span><strong>Battery Capacity:</strong> 900mAh</span><br><span><strong>Screen Size:</strong> 2.0"</span><br><span><strong>Package:</strong> Yes</span><br><span><strong>Additional Function:</strong> Support WIFI</span><br><span><strong>Weight:</strong> 501g-600g</span><br><span><strong>Built-in Memory Size:</strong> Non</span><br><span><strong>Sensor Size (inches):</strong> 1/3.13</span><br><span><strong>Model Number:</strong> S9</span><br><span><strong>Remote Control Support:</strong> No</span><br><span><strong>Image Stabilization:</strong> Optical Image Stabilizer</span><br><span><strong>HDMI Output:</strong> Yes</span><br><span><strong>Image Resolution:</strong> 1080p</span><br><span><strong>NightShot Function:</strong> No</span><br><span><strong>Image Resolution:</strong> 12mp</span><br><span><strong>Application:</strong> Outdoor Sport Activities</span><br><span><strong>Memory Card Type:</strong> MicroSD / TF</span><br><span><strong>Type:</strong> Sports Camera</span><br><span><strong>High Definition Support:</strong> 1080P (Full-HD)</span><br><span><strong>Sensor Type:</strong> CMOS</span><br><span><strong>Bluetooth Support:</strong> No</span><br><span><strong>Display Screen:</strong> Yes</span><br><span><strong>Touch Screen:</strong> No</span><br><span><strong>NFC Support:</strong> No</span><br><span><strong>image resolution:</strong> 4k 10FPS/1080P 30FPS/720P 120FPS</span><br><span><strong>Type:</strong> 4k camera without remote control</span><br><span><strong>package:</strong> yes</span><br><span><strong>touch screen:</strong> no</span><br><span><strong>Support App control:</strong> yes</span><br><span><strong>built-in memory size:</strong> non</span><br><span><strong>remote control support:</strong> no</span><br><span><strong>application 1:</strong> bicycle,mounting,diving and so on</span><br><span><strong>application 2:</strong> extreme sports</span><br><span><strong>Wifi support:</strong> Yes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 white / standard</title>
+      <s:price currency="USD">71.99</s:price>
+      <s:sku>5276701-s9-white-standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 white / option2</title>
+      <s:price currency="USD">90.99</s:price>
+      <s:sku>5276701-s9-white-option2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 white / option3</title>
+      <s:price currency="USD">118.99</s:price>
+      <s:sku>5276701-s9-white-option3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 white / option4</title>
+      <s:price currency="USD">132.99</s:price>
+      <s:sku>5276701-s9-white-option4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 white / option5</title>
+      <s:price currency="USD">106.99</s:price>
+      <s:sku>5276701-s9-white-option5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 white / option6</title>
+      <s:price currency="USD">149.99</s:price>
+      <s:sku>5276701-s9-white-option6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 white / option7</title>
+      <s:price currency="USD">126.99</s:price>
+      <s:sku>5276701-s9-white-option7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 black / standard</title>
+      <s:price currency="USD">71.99</s:price>
+      <s:sku>5276701-s9-black-standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 black / option2</title>
+      <s:price currency="USD">90.99</s:price>
+      <s:sku>5276701-s9-black-option2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 black / option3</title>
+      <s:price currency="USD">118.99</s:price>
+      <s:sku>5276701-s9-black-option3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 black / option4</title>
+      <s:price currency="USD">132.99</s:price>
+      <s:sku>5276701-s9-black-option4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 black / option5</title>
+      <s:price currency="USD">106.99</s:price>
+      <s:sku>5276701-s9-black-option5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 black / option6</title>
+      <s:price currency="USD">149.99</s:price>
+      <s:sku>5276701-s9-black-option6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 black / option7</title>
+      <s:price currency="USD">126.99</s:price>
+      <s:sku>5276701-s9-black-option7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 Silver / standard</title>
+      <s:price currency="USD">71.99</s:price>
+      <s:sku>5276701-s9-silver-standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 Silver / option2</title>
+      <s:price currency="USD">90.99</s:price>
+      <s:sku>5276701-s9-silver-option2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 Silver / option3</title>
+      <s:price currency="USD">118.99</s:price>
+      <s:sku>5276701-s9-silver-option3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 Silver / option4</title>
+      <s:price currency="USD">132.99</s:price>
+      <s:sku>5276701-s9-silver-option4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 Silver / option5</title>
+      <s:price currency="USD">106.99</s:price>
+      <s:sku>5276701-s9-silver-option5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 Silver / option6</title>
+      <s:price currency="USD">149.99</s:price>
+      <s:sku>5276701-s9-silver-option6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 Silver / option7</title>
+      <s:price currency="USD">126.99</s:price>
+      <s:sku>5276701-s9-silver-option7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 Gold / standard</title>
+      <s:price currency="USD">71.99</s:price>
+      <s:sku>5276701-s9-gold-standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 Gold / option2</title>
+      <s:price currency="USD">90.99</s:price>
+      <s:sku>5276701-s9-gold-option2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 Gold / option3</title>
+      <s:price currency="USD">118.99</s:price>
+      <s:sku>5276701-s9-gold-option3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 Gold / option4</title>
+      <s:price currency="USD">132.99</s:price>
+      <s:sku>5276701-s9-gold-option4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 Gold / option5</title>
+      <s:price currency="USD">106.99</s:price>
+      <s:sku>5276701-s9-gold-option5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 Gold / option6</title>
+      <s:price currency="USD">149.99</s:price>
+      <s:sku>5276701-s9-gold-option6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733075</id>
+      <title>S9 Gold / option7</title>
+      <s:price currency="USD">126.99</s:price>
+      <s:sku>5276701-s9-gold-option7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11764733331</id>
+    <published>2019-05-21T18:55:53-05:00</published>
+    <updated>2019-05-21T18:55:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/soocoo-c30-c30r-action-camera-4k-wifi-ultra-hd-1080p-full-hd-go-waterproof-30m-mini-cam-pro-bike-outdoor-dv-gyro-sport-camera"/>
+    <title>SOOCOO C30 / C30R Action Camera 4K Wifi Ultra HD 1080P Full HD Go Waterproof 30M Mini Cam Pro Bike Outdoor Dv Gyro Sport Camera</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-354778553.jpg?v=1578612131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            114.99 - 191.99
+            <a href="https://www.chmelaeon.com/products/soocoo-c30-c30r-action-camera-4k-wifi-ultra-hd-1080p-full-hd-go-waterproof-30m-mini-cam-pro-bike-outdoor-dv-gyro-sport-camera">(80 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Memory Card Support:</strong> 32G</span><br><span><strong>Wideangle:</strong> 170°</span><br><span><strong>WIFI Support:</strong> Yes</span><br><span><strong>NightShot Function:</strong> Yes</span><br><span><strong>Waterproof:</strong> Yes</span><br><span><strong>Image Resolution:</strong> 20MP/16MP/12MP/10MP/8MP/5MP/3MP</span><br><span><strong>Screen Size:</strong> 2.0"</span><br><span><strong>Package:</strong> Yes</span><br><span><strong>Pixels:</strong> 20 million</span><br><span><strong>Additional Function:</strong> Support WIFI</span><br><span><strong>High Definition Support:</strong> 4K</span><br><span><strong>Built-in Memory Size:</strong> Non</span><br><span><strong>Remote Control Support:</strong> Yes</span><br><span><strong>Optical Zoom:</strong> 5x</span><br><span><strong>Image Stabilization:</strong> Optical Image Stabilizer</span><br><span><strong>HDMI Output:</strong> Yes</span><br><span><strong>Image Resolution:</strong> 1080p</span><br><span><strong>Maximum Aperture:</strong> F2.0</span><br><span><strong>Volume:</strong> 6x4x2.5</span><br><span><strong>Application:</strong> Outdoor Sport Activities</span><br><span><strong>Memory Card Type:</strong> MicroSD / TF</span><br><span><strong>Type:</strong> Sports Camera</span><br><span><strong>Model Number:</strong> C30 C30R</span><br><span><strong>Battery Capacity:</strong> 1050mah</span><br><span><strong>Sensor Type:</strong> CMOS</span><br><span><strong>Bluetooth Support:</strong> No</span><br><span><strong>Display Screen:</strong> Yes</span><br><span><strong>Processor:</strong> NTK 96660</span><br><span><strong>Sensor Size (inches):</strong> 1/2.84 inches</span><br><span><strong>Brand Name:</strong> SOOCOO</span><br><span><strong>Touch Screen:</strong> No</span><br><span><strong>NFC Support:</strong> No</span><br><span><strong>Weight:</strong> 100g and below</span><br><span><strong>SOOCOO C30 :</strong> No  Remote Control</span><br><span><strong>SOOCOO C30R:</strong> Include Remote Control</span><br><span><strong>TV Model :</strong> Yes</span><br><span><strong>TV:</strong> Yes</span><br><span><strong>Anti-shaking:</strong> Yes</span><br><span><strong>Diving mode:</strong> Yes</span><br><span><strong>Night Scene:</strong> Yes</span><br><span><strong>Gyroscope:</strong> Yes</span><br><span><strong>Model Number:</strong> SOOCOO C30 / SOOCOO C30R</span><br><span><strong>Pixels:</strong> 20MP(The user manual write 12MP(old version), the correct is 20MP</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Black / Choose 2</title>
+      <s:price currency="USD">131.99</s:price>
+      <s:sku>2270602-c30-black-choose-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Black / Choose 3</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>2270602-c30-black-choose-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Black / Choose 4</title>
+      <s:price currency="USD">156.99</s:price>
+      <s:sku>2270602-c30-black-choose-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Black / Choose 5</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>2270602-c30-black-choose-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Black / Choose 6</title>
+      <s:price currency="USD">153.99</s:price>
+      <s:sku>2270602-c30-black-choose-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Black / Choose 7</title>
+      <s:price currency="USD">165.99</s:price>
+      <s:sku>2270602-c30-black-choose-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Black / Choose 8</title>
+      <s:price currency="USD">183.99</s:price>
+      <s:sku>2270602-c30-black-choose-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Black / Standard</title>
+      <s:price currency="USD">114.99</s:price>
+      <s:sku>2270602-c30-black-standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Blue / Choose 2</title>
+      <s:price currency="USD">135.99</s:price>
+      <s:sku>2270602-c30-blue-choose-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Blue / Choose 3</title>
+      <s:price currency="USD">144.99</s:price>
+      <s:sku>2270602-c30-blue-choose-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Blue / Choose 4</title>
+      <s:price currency="USD">165.99</s:price>
+      <s:sku>2270602-c30-blue-choose-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Blue / Choose 5</title>
+      <s:price currency="USD">172.99</s:price>
+      <s:sku>2270602-c30-blue-choose-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Blue / Choose 6</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>2270602-c30-blue-choose-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Blue / Choose 7</title>
+      <s:price currency="USD">183.99</s:price>
+      <s:sku>2270602-c30-blue-choose-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Blue / Choose 8</title>
+      <s:price currency="USD">165.99</s:price>
+      <s:sku>2270602-c30-blue-choose-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Blue / Standard</title>
+      <s:price currency="USD">121.99</s:price>
+      <s:sku>2270602-c30-blue-standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Pink / Choose 2</title>
+      <s:price currency="USD">135.99</s:price>
+      <s:sku>2270602-c30-pink-choose-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Pink / Choose 3</title>
+      <s:price currency="USD">144.99</s:price>
+      <s:sku>2270602-c30-pink-choose-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Pink / Choose 4</title>
+      <s:price currency="USD">165.99</s:price>
+      <s:sku>2270602-c30-pink-choose-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Pink / Choose 5</title>
+      <s:price currency="USD">172.99</s:price>
+      <s:sku>2270602-c30-pink-choose-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Pink / Choose 6</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>2270602-c30-pink-choose-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Pink / Choose 7</title>
+      <s:price currency="USD">183.99</s:price>
+      <s:sku>2270602-c30-pink-choose-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Pink / Choose 8</title>
+      <s:price currency="USD">165.99</s:price>
+      <s:sku>2270602-c30-pink-choose-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Pink / Standard</title>
+      <s:price currency="USD">121.99</s:price>
+      <s:sku>2270602-c30-pink-standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Black / Choose 2</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>2270602-c30r-black-choose-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Black / Choose 3</title>
+      <s:price currency="USD">146.99</s:price>
+      <s:sku>2270602-c30r-black-choose-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Black / Choose 4</title>
+      <s:price currency="USD">162.99</s:price>
+      <s:sku>2270602-c30r-black-choose-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Black / Choose 5</title>
+      <s:price currency="USD">149.99</s:price>
+      <s:sku>2270602-c30r-black-choose-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Black / Choose 6</title>
+      <s:price currency="USD">160.99</s:price>
+      <s:sku>2270602-c30r-black-choose-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Black / Choose 7</title>
+      <s:price currency="USD">172.99</s:price>
+      <s:sku>2270602-c30r-black-choose-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Black / Choose 8</title>
+      <s:price currency="USD">191.99</s:price>
+      <s:sku>2270602-c30r-black-choose-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Black / Standard</title>
+      <s:price currency="USD">128.99</s:price>
+      <s:sku>2270602-c30r-black-standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Blue / Choose 2</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>2270602-c30r-blue-choose-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Blue / Choose 3</title>
+      <s:price currency="USD">146.99</s:price>
+      <s:sku>2270602-c30r-blue-choose-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Blue / Choose 4</title>
+      <s:price currency="USD">162.99</s:price>
+      <s:sku>2270602-c30r-blue-choose-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Blue / Choose 5</title>
+      <s:price currency="USD">149.99</s:price>
+      <s:sku>2270602-c30r-blue-choose-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Blue / Choose 6</title>
+      <s:price currency="USD">160.99</s:price>
+      <s:sku>2270602-c30r-blue-choose-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Blue / Choose 7</title>
+      <s:price currency="USD">172.99</s:price>
+      <s:sku>2270602-c30r-blue-choose-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Blue / Choose 8</title>
+      <s:price currency="USD">191.99</s:price>
+      <s:sku>2270602-c30r-blue-choose-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Blue / Standard</title>
+      <s:price currency="USD">128.99</s:price>
+      <s:sku>2270602-c30r-blue-standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Pink / Choose 2</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>2270602-c30r-pink-choose-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Pink / Choose 3</title>
+      <s:price currency="USD">151.99</s:price>
+      <s:sku>2270602-c30r-pink-choose-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Pink / Choose 4</title>
+      <s:price currency="USD">171.99</s:price>
+      <s:sku>2270602-c30r-pink-choose-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Pink / Choose 5</title>
+      <s:price currency="USD">178.99</s:price>
+      <s:sku>2270602-c30r-pink-choose-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Pink / Choose 6</title>
+      <s:price currency="USD">167.99</s:price>
+      <s:sku>2270602-c30r-pink-choose-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Pink / Choose 7</title>
+      <s:price currency="USD">183.99</s:price>
+      <s:sku>2270602-c30r-pink-choose-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Pink / Choose 8</title>
+      <s:price currency="USD">174.99</s:price>
+      <s:sku>2270602-c30r-pink-choose-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Pink / Standard</title>
+      <s:price currency="USD">127.99</s:price>
+      <s:sku>2270602-c30r-pink-standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Silver / Choose 2</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>2270602-c30r-silver-choose-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Silver / Choose 3</title>
+      <s:price currency="USD">146.99</s:price>
+      <s:sku>2270602-c30r-silver-choose-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Silver / Choose 4</title>
+      <s:price currency="USD">162.99</s:price>
+      <s:sku>2270602-c30r-silver-choose-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Silver / Choose 5</title>
+      <s:price currency="USD">149.99</s:price>
+      <s:sku>2270602-c30r-silver-choose-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Silver / Choose 6</title>
+      <s:price currency="USD">160.99</s:price>
+      <s:sku>2270602-c30r-silver-choose-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Silver / Choose 7</title>
+      <s:price currency="USD">172.99</s:price>
+      <s:sku>2270602-c30r-silver-choose-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Silver / Choose 8</title>
+      <s:price currency="USD">191.99</s:price>
+      <s:sku>2270602-c30r-silver-choose-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Silver / Standard</title>
+      <s:price currency="USD">128.99</s:price>
+      <s:sku>2270602-c30r-silver-standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Yellow / Choose 2</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>2270602-c30r-yellow-choose-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Yellow / Choose 3</title>
+      <s:price currency="USD">146.99</s:price>
+      <s:sku>2270602-c30r-yellow-choose-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Yellow / Choose 4</title>
+      <s:price currency="USD">162.99</s:price>
+      <s:sku>2270602-c30r-yellow-choose-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Yellow / Choose 5</title>
+      <s:price currency="USD">149.99</s:price>
+      <s:sku>2270602-c30r-yellow-choose-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Yellow / Choose 6</title>
+      <s:price currency="USD">160.99</s:price>
+      <s:sku>2270602-c30r-yellow-choose-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Yellow / Choose 7</title>
+      <s:price currency="USD">172.99</s:price>
+      <s:sku>2270602-c30r-yellow-choose-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Yellow / Choose 8</title>
+      <s:price currency="USD">191.99</s:price>
+      <s:sku>2270602-c30r-yellow-choose-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30R Yellow / Standard</title>
+      <s:price currency="USD">128.99</s:price>
+      <s:sku>2270602-c30r-yellow-standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 silver / Choose 2</title>
+      <s:price currency="USD">131.99</s:price>
+      <s:sku>2270602-c30-silver-choose-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 silver / Choose 3</title>
+      <s:price currency="USD">138.99</s:price>
+      <s:sku>2270602-c30-silver-choose-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 silver / Choose 4</title>
+      <s:price currency="USD">151.99</s:price>
+      <s:sku>2270602-c30-silver-choose-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 silver / Choose 5</title>
+      <s:price currency="USD">142.99</s:price>
+      <s:sku>2270602-c30-silver-choose-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 silver / Choose 6</title>
+      <s:price currency="USD">162.99</s:price>
+      <s:sku>2270602-c30-silver-choose-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 silver / Choose 7</title>
+      <s:price currency="USD">167.99</s:price>
+      <s:sku>2270602-c30-silver-choose-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 silver / Choose 8</title>
+      <s:price currency="USD">181.99</s:price>
+      <s:sku>2270602-c30-silver-choose-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 silver / Standard</title>
+      <s:price currency="USD">120.99</s:price>
+      <s:sku>2270602-c30-silver-standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Yellow / Choose 2</title>
+      <s:price currency="USD">135.99</s:price>
+      <s:sku>2270602-c30-yellow-choose-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Yellow / Choose 3</title>
+      <s:price currency="USD">144.99</s:price>
+      <s:sku>2270602-c30-yellow-choose-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Yellow / Choose 4</title>
+      <s:price currency="USD">165.99</s:price>
+      <s:sku>2270602-c30-yellow-choose-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Yellow / Choose 5</title>
+      <s:price currency="USD">172.99</s:price>
+      <s:sku>2270602-c30-yellow-choose-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Yellow / Choose 6</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>2270602-c30-yellow-choose-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Yellow / Choose 7</title>
+      <s:price currency="USD">183.99</s:price>
+      <s:sku>2270602-c30-yellow-choose-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Yellow / Choose 8</title>
+      <s:price currency="USD">165.99</s:price>
+      <s:sku>2270602-c30-yellow-choose-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11764733331</id>
+      <title>C30 Yellow / Standard</title>
+      <s:price currency="USD">121.99</s:price>
+      <s:sku>2270602-c30-yellow-standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11592795795</id>
+    <published>2019-05-21T18:55:32-05:00</published>
+    <updated>2019-05-21T18:55:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/cool-transformation-tank-military-toys-action-figures-armored-car-robot-plastic-abs-movie-4-anime-classic-toys-boy-gifts"/>
+    <title>Cool Transformation Tank Military Toys Action Figures Armored Car Robot  Plastic ABS Movie 4 Anime Classic Toys Boy Gifts</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-225161436.jpg?v=1578611814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.99 - 23.99
+            <a href="https://www.chmelaeon.com/products/cool-transformation-tank-military-toys-action-figures-armored-car-robot-plastic-abs-movie-4-anime-classic-toys-boy-gifts">(25 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Age Range:</strong> &gt; 3 years old,8-11 Years,12-15 Years,5-7 Years,&gt; 6 years old,Grownups</span><br><span><strong>Item Type:</strong> Model</span><br><span><strong>Soldier Accessories:</strong> Soldier Finished Product</span><br><span><strong>By Animation Source:</strong> Western Animiation</span><br><span><strong>Condition:</strong> In-Stock Items</span><br><span><strong>Material:</strong> Plastic</span><br><span><strong>Remote Control:</strong> No</span><br><span><strong>Version Type:</strong> Remastered Version</span><br><span><strong>Completion Degree:</strong> Finished Goods</span><br><span><strong>Brand Name:</strong> IACCES</span><br><span><strong>Size:</strong> 18cm,M</span><br><span><strong>Gender:</strong> Boys</span><br><span><strong>Warning:</strong> NO</span><br><span><strong>Scale:</strong> 1/12</span><br><span><strong>Theme:</strong> Movie &amp; TV</span><br><span><strong>Dimensions:</strong> 17-19CM</span><br><span><strong>Model Number:</strong> v90</span><br><span><strong>Puppets Type:</strong> Model</span><br><span><strong>Commodity Attribute:</strong> Peripherals</span><br><span><strong>Mfg Series Number:</strong> Robot</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>V901</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>3088402-v901</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>V902</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>3088402-v902</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>V903</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>3088402-v903</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>V904</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>3088402-v904</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>V905</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>3088402-v905</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>V906</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>3088402-v906</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>V907</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>3088402-v907</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>V908</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>3088402-v908</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>H601</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3088402-h601</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>H602</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3088402-h602</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>H603</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3088402-h603</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>H604</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3088402-h604</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>H605</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3088402-h605</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>H606</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3088402-h606</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>V701</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>3088402-v701</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>V702</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>3088402-v702</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>V703</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>3088402-v703</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>V704</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>3088402-v704</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>V705</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>3088402-v705</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>V706</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>3088402-v706</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>Plastic Series 1</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>3088402-plastic-series-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>Plastic Series 2</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>3088402-plastic-series-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>Plastic Series 3</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>3088402-plastic-series-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>Plastic Series 4</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>3088402-plastic-series-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592795795</id>
+      <title>Plastic Series 5</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>3088402-plastic-series-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11869102355</id>
+    <published>2019-05-21T18:55:14-05:00</published>
+    <updated>2019-05-21T18:55:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/outdoor-solar-powered-flower-led-light-garden-christmas-party-way-park-lamp-home-lampe-solaire-exterieur"/>
+    <title>Outdoor Solar Powered Flower LED Light Garden Christmas Party Way Park Lamp Home Lampe Solaire Exterieur</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-213731483.jpg?v=1578612144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Power Source:</strong> Solar</span><br><span><strong>Style:</strong> Modern</span><br><span><strong>Base Type:</strong> None</span><br><span><strong>Solar Cell Type:</strong> Ni-MH</span><br><span><strong>Light Source:</strong> LED Bulbs</span><br><span><strong>Model Number:</strong> LED Light</span><br><span><strong>Is Bulbs Included:</strong> Yes</span><br><span><strong>Is Dimmable:</strong> No</span><br><span><strong>Brand Name:</strong> Mabor</span><br><span><strong>Usage:</strong> Emergency</span><br><span><strong>Features:</strong> see description</span><br><span><strong>Certification:</strong> CCC</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869102355</id>
+      <title>RGB</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>4669001-rgb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869102355</id>
+      <title>Yellow</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>4669001-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869102355</id>
+      <title>Blue</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>4669001-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11548192147</id>
+    <published>2019-05-21T18:55:14-05:00</published>
+    <updated>2019-05-21T18:55:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/gadget-portable-edc-portable-mini-utility-fixr-20-in-1-pocket-multi-tool-keychain-outdoor-camping-key-ring"/>
+    <title>Gadget Portable EDC Portable Mini Utility FIXR 20 in 1 Pocket Multi Tool Keychain Outdoor Camping Key Ring</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-137224429.jpg?v=1578611756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99 - 5.99
+            <a href="https://www.chmelaeon.com/products/gadget-portable-edc-portable-mini-utility-fixr-20-in-1-pocket-multi-tool-keychain-outdoor-camping-key-ring">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Pocket, Multi Tools</span><br><span><strong>Brand Name:</strong> EDCGEAR</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548192147</id>
+      <title>China</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>2815654-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548192147</id>
+      <title>United States</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>2815654-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11869102739</id>
+    <published>2019-05-21T18:55:13-05:00</published>
+    <updated>2019-05-21T18:55:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/enwye-led-solar-power-pir-motion-sensor-wall-light-outdoor-waterproof-energy-saving-street-yard-path-home-garden-security-lamp"/>
+    <title>EnwYe LED Solar Power PIR Motion Sensor Wall Light Outdoor Waterproof Energy Saving Street Yard Path Home Garden Security Lamp</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-261427546.jpg?v=1578612144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Power Source:</strong> Solar</span><br><span><strong>Style:</strong> Modern</span><br><span><strong>Solar Cell Type:</strong> Ni-MH</span><br><span><strong>Certification:</strong> CE,RoHS,CCC</span><br><span><strong>Protection Level:</strong> IP65</span><br><span><strong>Warranty:</strong> 3</span><br><span><strong>Voltage:</strong> 6V</span><br><span><strong>Usage:</strong> Emergency</span><br><span><strong>Brand Name:</strong> EnwYe</span><br><span><strong>Model Number:</strong> B1</span><br><span><strong>Body Material:</strong> ABS</span><br><span><strong>Light Source:</strong> LED Bulbs</span><br><span><strong>Base Type:</strong> Wedge</span><br><span><strong>Is Bulbs Included:</strong> Yes</span><br><span><strong>Is Dimmable:</strong> No</span><br><span><strong>Features:</strong> solar energy</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869102739</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>5910836-cold-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11869104083</id>
+    <published>2019-05-21T18:55:12-05:00</published>
+    <updated>2019-05-21T18:55:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/solar-powered-outdoor-string-lights-dragonfly-6m-19-7ft-30-leds-starry-lighting-christmas-decorations-for-home-garden-light"/>
+    <title>Solar Powered Outdoor String Lights Dragonfly, 6M/19.7ft 30 Leds Starry Lighting christmas decorations for home Garden Light</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-124159265.jpg?v=1578612145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Power Source:</strong> Solar</span><br><span><strong>Features:</strong> B00MVN907I</span><br><span><strong>Style:</strong> Contemporary</span><br><span><strong>Model Number:</strong> 0001</span><br><span><strong>Certification:</strong> CQC,CE,RoHS,CCC</span><br><span><strong>Solar Cell Type:</strong> Ni-MH</span><br><span><strong>Protection Level:</strong> IP65</span><br><span><strong>Voltage:</strong> 6V</span><br><span><strong>Warranty:</strong> 1 Year</span><br><span><strong>Usage:</strong> Holiday</span><br><span><strong>Body Material:</strong> ABS</span><br><span><strong>Light Source:</strong> LED Bulbs</span><br><span><strong>Base Type:</strong> Wedge</span><br><span><strong>Is Bulbs Included:</strong> Yes</span><br><span><strong>Is Dimmable:</strong> No</span><br><span><strong>Brand Name:</strong> LEDERTEK</span><br><span><strong>Suitable place:</strong> Wedding, Hotels,Home,Clubs,Concerts,Karaoke, Dance, Stage,etc</span><br><span><strong>Power Source:</strong> Solar-Powered</span><br><span><strong>Origin:</strong> China</span><br><span><strong>Keyword:</strong> Led Solar-Powered Fairy Lights</span><br><span><strong>Special Features:</strong> Waterproof, Adjustable</span><br><span><strong>Suitable Holidays:</strong> Halloween/Thanksgiving/Valentie's Day/New Years Day</span><br><span><strong>Wattage:</strong> 2W</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869104083</id>
+      <title>Blue</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>2134081-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869104083</id>
+      <title>Pink</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>2134081-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869104083</id>
+      <title>Purple</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>2134081-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869104083</id>
+      <title>Multi Color</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>2134081-multi-color</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869104083</id>
+      <title>Warm White</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>2134081-warm-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869104083</id>
+      <title>White</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>2134081-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11869106771</id>
+    <published>2019-05-21T18:55:08-05:00</published>
+    <updated>2019-05-21T18:55:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/christmas-lights-outdoor-21ft-50-led-solar-string-lights-flower-garden-light-blossom-lighting-for-home-wedding-party-decoration"/>
+    <title>Christmas Lights Outdoor 21ft 50 LED Solar String Lights Flower Garden Light Blossom Lighting for Home Wedding Party Decoration</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-123958862.jpg?v=1578612147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99 - 31.99
+            <a href="https://www.chmelaeon.com/products/christmas-lights-outdoor-21ft-50-led-solar-string-lights-flower-garden-light-blossom-lighting-for-home-wedding-party-decoration">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Power Source:</strong> Solar</span><br><span><strong>Features:</strong> B00MVN907I</span><br><span><strong>Style:</strong> Contemporary</span><br><span><strong>Model Number:</strong> 0001</span><br><span><strong>Certification:</strong> CQC,CE,RoHS,CCC</span><br><span><strong>Solar Cell Type:</strong> Ni-MH</span><br><span><strong>Protection Level:</strong> IP65</span><br><span><strong>Voltage:</strong> 6V</span><br><span><strong>Warranty:</strong> 1 Year</span><br><span><strong>Usage:</strong> Holiday</span><br><span><strong>Body Material:</strong> ABS</span><br><span><strong>Light Source:</strong> LED Bulbs</span><br><span><strong>Base Type:</strong> Wedge</span><br><span><strong>Is Bulbs Included:</strong> Yes</span><br><span><strong>Is Dimmable:</strong> No</span><br><span><strong>Brand Name:</strong> LEDERTEK</span><br><span><strong>Suitable Place:</strong> Wedding, Hotels,Home,Clubs,Concerts,Karaoke, Dance, Stage,etc</span><br><span><strong>Power Source:</strong> Solar-Powered</span><br><span><strong>Wattage :</strong> 2W</span><br><span><strong>Quality:</strong> Premium Quality</span><br><span><strong>Special Features:</strong> Waterproof, Adjustable</span><br><span><strong>Suitable Holidays:</strong> Halloween/Thanksgiving/Valentie's Day/New Years Day</span><br><span><strong>Origin:</strong> China</span><br><span><strong>Product Dimensions:</strong> 5.7 x 3.8 x 3.3 inches</span><br><span><strong>Keyword 1:</strong> Led Solar-Powered Fairy Lights</span><br><span><strong>Keyword 2:</strong> 50 LED Blossom Decorative Garden light</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869106771</id>
+      <title>Pink / China</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1804300-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869106771</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>1804300-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869106771</id>
+      <title>Red / China</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1804300-red-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869106771</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>1804300-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869106771</id>
+      <title>Warm White / China</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1804300-warm-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869106771</id>
+      <title>Warm White / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1804300-warm-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869106771</id>
+      <title>White / China</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1804300-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869106771</id>
+      <title>White / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>1804300-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869106771</id>
+      <title>Purple / China</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1804300-purple-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869106771</id>
+      <title>Purple / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1804300-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869106771</id>
+      <title>Blue / China</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1804300-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869106771</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>1804300-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869106771</id>
+      <title>Changeable / China</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1804300-changeable-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869106771</id>
+      <title>Changeable / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>1804300-changeable-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11160631827</id>
+    <published>2019-05-21T18:55:00-05:00</published>
+    <updated>2019-05-21T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/fusitu-18-rl-18-outdoor-dimmable-photo-video-led-ring-light-kit-with-2m-tripod-light-stand-for-dslr-camera-smartphones"/>
+    <title>Fusitu 18&quot; RL-18 Outdoor Dimmable Photo Video LED Ring Light Kit with 2M Tripod Light Stand for DSLR Camera Smartphones</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-220383935.jpg?v=1578611703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            116.99 - 176.99
+            <a href="https://www.chmelaeon.com/products/fusitu-18-rl-18-outdoor-dimmable-photo-video-led-ring-light-kit-with-2m-tripod-light-stand-for-dslr-camera-smartphones">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Package:</strong> Yes</span><br><span><strong>Model:</strong> RL-18</span><br><span><strong>Color temperature:</strong> 5500K</span><br><span><strong>Outer Diameter:</strong> 18 in / 48 cm</span><br><span><strong>Led Quantity:</strong> 240 pcs</span><br><span><strong>Inner Dimensions / Outer Dimensions:</strong> 375mm / 480mm</span><br><span><strong>Total Power:</strong> 55W</span><br><span><strong>Dimmable:</strong> Stepless dimming</span><br><span><strong>Brightness Adjustment:</strong> 10%-100%</span><br><span><strong>Total illumination:</strong> 4800LM</span><br><span><strong>AC input:</strong> 100-240V</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11160631827</id>
+      <title>Russian Federation</title>
+      <s:price currency="USD">116.99</s:price>
+      <s:sku>3404925-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11160631827</id>
+      <title>China</title>
+      <s:price currency="USD">176.99</s:price>
+      <s:sku>3404925-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

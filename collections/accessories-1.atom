@@ -1,0 +1,2886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.chmelaeon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.chmelaeon.com/collections/accessories-1.atom"/>
+  <title>Chmelaeon</title>
+  <updated>2020-10-02T02:19:07-05:00</updated>
+  <author>
+    <name>Chmelaeon</name>
+  </author>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4801649344575</id>
+    <published>2020-10-02T02:19:07-05:00</published>
+    <updated>2020-10-02T02:19:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/waist-trainer-neoprene-sweat-shapewear-body-shaper-women-slimming-sheath-belly-reducing-shaper-workout-trimmer-belt-corset"/>
+    <title>Waist Trainer Neoprene Sweat Shapewear Body Shaper Women Slimming Sheath Belly Reducing Shaper Workout Trimmer Belt Corset</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1418671757.jpg?v=1601623168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.99 - 34.99
+            <a href="https://www.chmelaeon.com/products/waist-trainer-neoprene-sweat-shapewear-body-shaper-women-slimming-sheath-belly-reducing-shaper-workout-trimmer-belt-corset">(100 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> miss moly</span><br><span><strong>Obscene Picture:</strong> No</span><br><span><strong>Sexually Suggestive:</strong> No</span><br><span><strong>Material:</strong> Polyester</span><br><span><strong>Material:</strong> Neoprene</span><br><span><strong>Item Type:</strong> Shapers</span><br><span><strong>Thickness:</strong> Thick （Winter)</span><br><span><strong>Fabric Type:</strong> Broadcloth</span><br><span><strong>Control Level:</strong> Firm</span><br><span><strong>Gender:</strong> WOMEN</span><br><span><strong>Model Number:</strong> W10</span><br><span><strong>Decoration:</strong> None</span><br><span><strong>Shapewear:</strong> Waist Cinchers</span><br><span><strong>Color:</strong> Black/Grey</span><br><span><strong>Size:</strong> XS/S/M/L/XL/2XL/3XL</span><br><span><strong>Material:</strong> Shell:Polyester100%;Core:Neoprene100%</span><br><span><strong>Occasion:</strong> Everday,Sport.Running.Yoga.Gym.Workout</span><br><span><strong>Feature:</strong> Soft,Elastic,Heat-insulating,Impervious,Airtight</span><br><span><strong>Effect:</strong> Make you sweat more easily in sports.</span><br><span><strong>Design:</strong> Shape your tummy &amp; define your waistline</span><br><span><strong>Bones:</strong> 9 Pieces / 13 Pieces Steel Bones</span><br><span><strong>Advantage:</strong> Weight loss,waist trainer,workout bands,Postpartum recovery</span><br><span><strong>closure:</strong> Weight loss,waist trainer,workout bands,Postpartum recovery</span><br><span><strong>Warehouse Location:</strong> China,United States</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 4 / XXL / CHINA</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>36630595-9-bones-grey-4-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 4 / XXL / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36630595-9-bones-grey-4-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 4 / XL / CHINA</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>36630595-9-bones-grey-4-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 4 / XL / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36630595-9-bones-grey-4-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 4 / XXXL / CHINA</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>36630595-9-bones-grey-4-xxxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 4 / XXXL / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36630595-9-bones-grey-4-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 3 / L / CHINA</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-black-3-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 3 / L / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36630595-9-bones-black-3-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 3 / M / CHINA</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-black-3-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 3 / M / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-black-3-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 3 / XXL / CHINA</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>36630595-9-bones-black-3-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 3 / XXL / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36630595-9-bones-black-3-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 3 / XL / CHINA</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>36630595-9-bones-black-3-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 3 / XL / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36630595-9-bones-black-3-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 4 / S / CHINA</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>36630595-9-bones-grey-4-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 4 / S / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36630595-9-bones-grey-4-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 3 / XXXL / CHINA</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>36630595-9-bones-black-3-xxxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 3 / XXXL / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36630595-9-bones-black-3-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 4 / L / CHINA</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>36630595-9-bones-grey-4-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 4 / L / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36630595-9-bones-grey-4-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 4 / M / CHINA</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>36630595-9-bones-grey-4-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 4 / M / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36630595-9-bones-grey-4-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 2 / S / CHINA</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-grey-2-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 2 / S / United States</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>36630595-9-bones-grey-2-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 1 / XXXL / CHINA</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-black-1-xxxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 1 / XXXL / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-black-1-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 2 / L / CHINA</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-grey-2-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 2 / L / United States</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>36630595-9-bones-grey-2-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 2 / M / CHINA</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-grey-2-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 2 / M / United States</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>36630595-9-bones-grey-2-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 2 / XXL / CHINA</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>36630595-9-bones-grey-2-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 2 / XXL / United States</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>36630595-9-bones-grey-2-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 2 / XL / CHINA</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>36630595-9-bones-grey-2-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 2 / XL / United States</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>36630595-9-bones-grey-2-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 3 / S / CHINA</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-black-3-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 3 / S / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-black-3-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 2 / XXXL / CHINA</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>36630595-9-bones-grey-2-xxxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 2 / XXXL / United States</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>36630595-9-bones-grey-2-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 1 / S / CHINA</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>36630595-9-bones-black-1-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 1 / S / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>36630595-9-bones-black-1-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 1 / L / CHINA</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>36630595-9-bones-black-1-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 1 / L / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>36630595-9-bones-black-1-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 1 / M / CHINA</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>36630595-9-bones-black-1-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 1 / M / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>36630595-9-bones-black-1-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 1 / XXL / CHINA</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-black-1-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 1 / XXL / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-black-1-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 1 / XL / CHINA</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-black-1-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 1 / XL / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-black-1-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 2 / XS / United States</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>36630595-9-bones-grey-2-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 2 / XS / CHINA</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-grey-2-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 1 / XS / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>36630595-9-bones-black-1-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 1 / XS / CHINA</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>36630595-9-bones-black-1-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 4 / XS / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36630595-9-bones-grey-4-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 4 / XS / CHINA</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>36630595-9-bones-grey-4-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 3 / XS / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-black-3-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 3 / XS / CHINA</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-black-3-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 5 / S / United States</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>36630595-9-bones-black-5-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 5 / S / CHINA</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-black-5-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 5 / XS / United States</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>36630595-9-bones-black-5-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 5 / XS / CHINA</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-black-5-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 5 / L / United States</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>36630595-9-bones-black-5-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 5 / L / CHINA</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-black-5-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 5 / M / United States</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>36630595-9-bones-black-5-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 5 / M / CHINA</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>36630595-9-bones-black-5-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 6 / XXXL / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>36630595-9-bones-grey-6-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 6 / XXXL / CHINA</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>36630595-9-bones-grey-6-xxxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 6 / XXL / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>36630595-9-bones-grey-6-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 6 / XXL / CHINA</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>36630595-9-bones-grey-6-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>13 Bones Black 7 / S / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>36630595-13-bones-black-7-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>13 Bones Black 7 / S / CHINA</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>36630595-13-bones-black-7-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>13 Bones Black 7 / XS / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>36630595-13-bones-black-7-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>13 Bones Black 7 / XS / CHINA</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>36630595-13-bones-black-7-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>13 Bones Black 7 / L / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>36630595-13-bones-black-7-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>13 Bones Black 7 / L / CHINA</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>36630595-13-bones-black-7-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>13 Bones Black 7 / M / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>36630595-13-bones-black-7-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>13 Bones Black 7 / M / CHINA</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>36630595-13-bones-black-7-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>13 Bones Black 7 / XXL / United States</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36630595-13-bones-black-7-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>13 Bones Black 7 / XXL / CHINA</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36630595-13-bones-black-7-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>13 Bones Black 7 / XL / United States</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36630595-13-bones-black-7-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>13 Bones Black 7 / XL / CHINA</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36630595-13-bones-black-7-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 5 / XXL / United States</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>36630595-9-bones-black-5-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 5 / XXL / CHINA</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36630595-9-bones-black-5-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 5 / XL / United States</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>36630595-9-bones-black-5-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 5 / XL / CHINA</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36630595-9-bones-black-5-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 6 / XS / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36630595-9-bones-grey-6-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 6 / XS / CHINA</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36630595-9-bones-grey-6-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 5 / XXXL / United States</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>36630595-9-bones-black-5-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Black 5 / XXXL / CHINA</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36630595-9-bones-black-5-xxxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 6 / M / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36630595-9-bones-grey-6-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 6 / M / CHINA</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36630595-9-bones-grey-6-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 6 / S / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36630595-9-bones-grey-6-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 6 / S / CHINA</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36630595-9-bones-grey-6-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 6 / XL / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>36630595-9-bones-grey-6-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 6 / XL / CHINA</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>36630595-9-bones-grey-6-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 6 / L / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36630595-9-bones-grey-6-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>9 Bones Grey 6 / L / CHINA</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36630595-9-bones-grey-6-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>13 Bones Grey 8 / XS / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>36630595-13-bones-grey-8-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>13 Bones Grey 8 / XS / CHINA</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>36630595-13-bones-grey-8-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>13 Bones Black 7 / XXXL / United States</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36630595-13-bones-black-7-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4801649344575</id>
+      <title>13 Bones Black 7 / XXXL / CHINA</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36630595-13-bones-black-7-xxxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/20868595731</id>
+    <published>2020-04-12T03:48:45-05:00</published>
+    <updated>2020-04-12T03:48:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/ortilerri-600d-oxford-pet-car-seat-covers-waterproof-back-bench-seat-car-interior-travel-accessories-car-seat-covers-mat"/>
+    <title>Ortilerri 600D Oxford Pet Car Seat Covers Waterproof Back Bench Seat Car Interior Travel Accessories Car Seat Covers Mat</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-397629024.jpg?v=1578612383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Dogs</span><br><span><strong>Pattern:</strong> Solid</span><br><span><strong>Fitable Weight:</strong> Dogs of all kinds</span><br><span><strong>Style:</strong> Classics</span><br><span><strong>Item Type:</strong> "Car Travel Accessories "</span><br><span><strong>Season:</strong> All Seasons</span><br><span><strong>Applicable Dog Breed:</strong> Universal</span><br><span><strong>Brand Name:</strong> Ortilerri</span><br><span><strong>Feature:</strong> Waterproof</span><br><span><strong>Material:</strong> Oxford Fabric and Sponge</span><br><span><strong>Number:</strong> pet-052302B/pet-052302G/pet-052302C</span><br><span><strong>Size:</strong> 140*150CM</span><br><span><strong>Feature:</strong> Car-covers</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/20868595731</id>
+      <title>Black / 140X150CM</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>6420427-black-140x150cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/20868595731</id>
+      <title>Gray / 140X150CM</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>6420427-gray-140x150cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/20868595731</id>
+      <title>Coffee / 140X150CM</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>6420427-coffee-140x150cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/20869840915</id>
+    <published>2020-04-12T03:48:42-05:00</published>
+    <updated>2020-04-12T03:48:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/600d-oxford-pet-car-seat-covers-waterproof-back-bench-seat-car-interior-travel-accessories-car-seat-covers-mat-for-pet-dogs"/>
+    <title>600D Oxford Pet Car Seat Covers Waterproof Back Bench Seat Car Interior Travel Accessories Car Seat Covers Mat for Pet Dogs</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-274932075.jpg?v=1578612384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Dogs</span><br><span><strong>Style:</strong> Fashion</span><br><span><strong>Pattern:</strong> Solid</span><br><span><strong>Brand Name:</strong> KIMHOME PET</span><br><span><strong>Item Type:</strong> "Car Travel Accessories "</span><br><span><strong>Season:</strong> All Seasons</span><br><span><strong>Applicable Dog Breed:</strong> Universal</span><br><span><strong>Fitable Weight:</strong> all kind dogs</span><br><span><strong>Feature:</strong> Waterproof</span><br><span><strong>Material:</strong> Oxford Fabric and Sponge</span><br><span><strong>Color:</strong> Black</span><br><span><strong>Item:</strong> Back Seat Cover</span><br><span><strong>Whole Size:</strong> L150 x W130cm/58x52inch</span><br><span><strong>Fit Seat Size:</strong> 48cm/ 18.72 inch</span><br><span><strong>Fit Backrest Size:</strong> 55cm/ 21.45 inch</span><br><span><strong>Position:</strong> Car Rear Back Seat</span><br><span><strong>dog car seat cover:</strong> Waterproof, Non Slip</span><br><span><strong>dog seat cover:</strong> dog seat covers for cars</span><br><span><strong>dog travel accessories:</strong> dog car mat</span><br><span><strong>Package included:</strong> 1 x Dog Car Seat Cover</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/20869840915</id>
+      <title>Default Title</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1269209-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/21043118099</id>
+    <published>2020-04-12T03:45:02-05:00</published>
+    <updated>2020-04-12T03:45:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/dog-carriers-blanket-cover-mat-pet-carrier-convenient-waterproof-pet-dogs-car-seat-cover-non-slip-dog-mats-hammock-accessories"/>
+    <title>Dog Carriers Blanket Cover Mat Pet Carrier convenient Waterproof Pet Dogs Car Seat Cover Non Slip Dog Mats Hammock Accessories</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-183665403.jpg?v=1578612531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            71.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Dogs</span><br><span><strong>Style:</strong> Fashion</span><br><span><strong>Feature:</strong> Breathable</span><br><span><strong>Pattern:</strong> Solid</span><br><span><strong>Brand Name:</strong> DCPET</span><br><span><strong>Fitable Weight:</strong> 1-100kg</span><br><span><strong>Item Type:</strong> "Car Travel Accessories "</span><br><span><strong>Season:</strong> All Seasons</span><br><span><strong>Applicable Dog Breed:</strong> Universal</span><br><span><strong>Material:</strong> Oxford cloth</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21043118099</id>
+      <title>Default Title</title>
+      <s:price currency="USD">71.99</s:price>
+      <s:sku>3917587-black-147x137cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4543090360383</id>
+    <published>2020-04-11T21:34:26-05:00</published>
+    <updated>2020-04-11T21:34:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/8pcs-quick-release-propeller-blades-foldable-low-noise-propellers-for-dji-mavic-mini-rc-drone-accessories"/>
+    <title>8PCS Quick Release Propeller Blades Foldable Low Noise Propellers For DJI Mavic Mini RC Drone Accessories</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1322520212.jpg?v=1586658869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99 - 10.99
+            <a href="https://www.chmelaeon.com/products/8pcs-quick-release-propeller-blades-foldable-low-noise-propellers-for-dji-mavic-mini-rc-drone-accessories">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> BRDRC</span><br><span><strong>Camera Features:</strong> 4K HD Video Recording</span><br><span><strong>Camera Integration:</strong> Camera Included</span><br><span><strong>Sensor Size:</strong> 1/6.0 inches</span><br><span><strong>Aerial Photography:</strong> Yes</span><br><span><strong>Model Number:</strong> Foldable Low Noise Propellers for DJI</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4543090360383</id>
+      <title>C</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31861791-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4543090360383</id>
+      <title>B</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>31861791-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4543090360383</id>
+      <title>A</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>31861791-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4543090360383</id>
+      <title>F</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>31861791-f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4543090360383</id>
+      <title>E</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31861791-e</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4543090360383</id>
+      <title>D</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31861791-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4491295883327</id>
+    <published>2020-02-16T19:27:17-06:00</published>
+    <updated>2020-02-16T19:27:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/new-creative-5in1-silicone-remover-caulk-finisher-sealant-smooth-scraper-grout-kit-tools-plastic-hand-tools-set-accessories-007"/>
+    <title>NEW Creative 5In1 Silicone Remover Caulk Finisher Sealant Smooth Scraper Grout Kit Tools Plastic Hand Tools Set Accessories #007</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-990017350.jpg?v=1581902840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Usage:</strong> Silicone Remover Caulk Finisher</span><br><span><strong>Feature:</strong> Stocked</span><br><span><strong>Feature:</strong> Eco-Friendly</span><br><span><strong>Handle Material:</strong> Plastic</span><br><span><strong>Model Number:</strong> FLL90405675</span><br><span><strong>Squeegee Material:</strong> Stainless Steel</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4491295883327</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>26999207-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4172739248191</id>
+    <published>2019-09-30T18:20:21-05:00</published>
+    <updated>2019-09-30T18:20:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/free-shipping-100pcs-blank-ntag-213-dia-30mm-nfc-on-metal-label-sticker-for-smartphone"/>
+    <title>Free Shipping 100pcs Blank NTAG 213 Dia 30mm NFC On Metal label/ sticker for Smartphone</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1144456228.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            187.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> RZX</span><br><span><strong>Model Number:</strong> nfc on metal tag</span><br><span><strong>Item name:</strong> nfc on metal tag</span><br><span><strong>Material:</strong> PVC/PET/Paper+Ferrite</span><br><span><strong>Size:</strong> Dia 30mm</span><br><span><strong>Chip option:</strong> NTAG 213</span><br><span><strong>Protocol:</strong> ISO14443A</span><br><span><strong>Frequency:</strong> 13.56Mhz</span><br><span><strong>Package:</strong> 1000PCS/roll or pieces</span><br><span><strong>MOQ:</strong> 100pcs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172739248191</id>
+      <title>Default Title</title>
+      <s:price currency="USD">187.99</s:price>
+      <s:sku>30147306</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4172730892351</id>
+    <published>2019-09-30T18:04:22-05:00</published>
+    <updated>2019-09-30T18:04:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/13-56mzh-anti-metal-ntag213-nfc-tag-stickers-lable-anti-metal-diameter-25mm-support-any-smart-phone-with-nfc-function"/>
+    <title>13.56MZH Anti-metal Ntag213 NFC Tag Stickers Lable anti metal Diameter 25mm Support any smart phone with nfc function</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1144445455.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Model Number:</strong> Anti</span><br><span><strong>Brand Name:</strong> EFHH</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730892351</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>30146928</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4172730794047</id>
+    <published>2019-09-30T18:04:22-05:00</published>
+    <updated>2019-09-30T18:04:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/13-56mhz-uid-changeable-s50-1k-nfc-phone-sticker-card-anti-metal-laber-nfc-tag-sector-0-block-0-rewritable-blank-card-copy-clone"/>
+    <title>13.56mhz UID changeable S50 1K NFC Phone Sticker Card Anti-metal Laber NFC tag Sector 0 Block 0 Rewritable Blank Card Copy Clone</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1144444751.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99 - 19.99
+            <a href="https://www.chmelaeon.com/products/13-56mhz-uid-changeable-s50-1k-nfc-phone-sticker-card-anti-metal-laber-nfc-tag-sector-0-block-0-rewritable-blank-card-copy-clone">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> EFHH</span><br><span><strong>Model Number:</strong> UID S50</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730794047</id>
+      <title>anti-metal wet inlay</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30146899-anti-metal-wet-inlay</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730794047</id>
+      <title>anti-matal laber</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30146899-anti-matal-laber</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730794047</id>
+      <title>laber</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>30146899-laber</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730794047</id>
+      <title>wet inlay</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>30146899-wet-inlay</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4172730728511</id>
+    <published>2019-09-30T18:04:22-05:00</published>
+    <updated>2019-09-30T18:04:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/grey-anti-metal-magnetic-nfc-sticker-paster-for-iphone-cell-phone-bus-access-control-card-ic-card-protection-supplies"/>
+    <title>Grey Anti-Metal Magnetic NFC Sticker Paster for iPhone Cell Phone Bus Access Control Card IC Card Protection Supplies</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1144444644.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99 - 6.99
+            <a href="https://www.chmelaeon.com/products/grey-anti-metal-magnetic-nfc-sticker-paster-for-iphone-cell-phone-bus-access-control-card-ic-card-protection-supplies">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Model Number:</strong> NFC TAG Sticker</span><br><span><strong>Brand Name:</strong> XINYUANSHUNTONG</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730728511</id>
+      <title>2</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>30146894-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4172730728511</id>
+      <title>1</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>30146894-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1944248287295</id>
+    <published>2019-07-31T10:04:57-05:00</published>
+    <updated>2019-07-31T10:04:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/1pcs-13-56mhz-nfc-wristband-with-ntag213-chip-proximity-plastic-bracelet-for-payment-nfc-phone"/>
+    <title>1pcs 13.56mhz NFC Wristband with NTAG213 chip proximity Plastic Bracelet for Payment NFC phone</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1023263811.jpg?v=1578614165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Model Number:</strong> FR-Wristband</span><br><span><strong>Brand Name:</strong> GZFRZN</span><br><span><strong>Material:</strong> ABS/PVC</span><br><span><strong>Chip:</strong> NTAG213</span><br><span><strong>Frequency:</strong> 13.56 MHz</span><br><span><strong>Capacity:</strong> 144 byte</span><br><span><strong>Protocol:</strong> ISO14443A</span><br><span><strong>Diameter:</strong> 65mm</span><br><span><strong>Color:</strong> Red,Blue,Green,Yellow,option</span><br><span><strong>Product name:</strong> NFC wristband</span><br><span><strong>Type:</strong> adjustable</span><br><span><strong>Application:</strong> Sauna Spa Resort hotel swimming pool waterpark</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1944248287295</id>
+      <title>Blue</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>28272203-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1944248287295</id>
+      <title>Green</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>28272203-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1944248287295</id>
+      <title>Orange</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>28272203-orange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1944248287295</id>
+      <title>Red</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>28272203-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1944248287295</id>
+      <title>Purple</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>28272203-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1944248287295</id>
+      <title>Black</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>28272203-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1944248287295</id>
+      <title>Yellow</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>28272203-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1941583462463</id>
+    <published>2019-07-29T22:18:42-05:00</published>
+    <updated>2019-07-29T22:18:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/motorcycle-moped-petrol-gas-fuel-gasoline-filter-cup-universal-oil-cup-filter-transparent-belt-magnetic-oil-cup-5-7-x-2-5cm-new"/>
+    <title>Motorcycle Moped Petrol Gas Fuel Gasoline Filter Cup Universal Oil Cup Filter Transparent Belt Magnetic Oil Cup 5.7 x 2.5cm New</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1018651761.jpg?v=1578614164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> CAR-partment</span><br><span><strong>Item Type:</strong> Oil Filters</span><br><span><strong>Model Name:</strong> Q03310</span><br><span><strong>Item Width:</strong> 1.8CM</span><br><span><strong>Item Length:</strong> 6.6CM</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583462463</id>
+      <title>Red</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>28231281-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583462463</id>
+      <title>Blue</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>28231281-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1941583265855</id>
+    <published>2019-07-29T22:18:41-05:00</published>
+    <updated>2019-07-29T22:18:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/1m-motorcycle-bike-fuel-gas-oil-delivery-tube-hose-petrol-pipe-5mm-i-d-8mm-o-d-motorcycle-accessories-parts"/>
+    <title>1m Motorcycle Bike Fuel Gas Oil Delivery Tube Hose Petrol Pipe 5mm I/D 8mm O/D Motorcycle Accessories Parts</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-342050274.jpg?v=1578614164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Oil Filters</span><br><span><strong>Model Name:</strong> Motorcycle Bike Fuel Gas Oil Delivery Tube  5A3424-BL</span><br><span><strong>Item Length:</strong> 1m</span><br><span><strong>Item Width:</strong> 0.8cm</span><br><span><strong>Item Height:</strong> 0.8cm</span><br><span><strong>Item Weight:</strong> 55g</span><br><span><strong>Material Type:</strong> Soft rubber</span><br><span><strong>Brand Name:</strong> QILEJVS</span><br><span><strong>Item Type:</strong> Oil Filters</span><br><span><strong>Unit Type:</strong> piece</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583265855</id>
+      <title>BL</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7675062-bl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583265855</id>
+      <title>GN</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7675062-gn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583265855</id>
+      <title>O</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7675062-o</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583265855</id>
+      <title>PK</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7675062-pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583265855</id>
+      <title>PL</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7675062-pl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583265855</id>
+      <title>R</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7675062-r</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583265855</id>
+      <title>W</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7675062-w</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583265855</id>
+      <title>Y</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7675062-y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1941582184511</id>
+    <published>2019-07-29T22:18:39-05:00</published>
+    <updated>2019-07-29T22:18:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/delicate-facial-thin-face-mask-slimming-bandage-skin-care-belt-shape-and-lift-reduce-double-chin-face-mask-face-thining-band"/>
+    <title>Delicate Facial Thin Face Mask Slimming Bandage Skin Care Belt Shape And Lift Reduce Double Chin Face Mask Face Thining Band</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1000583795.jpg?v=1578614163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>False Eyelash Craft:</strong> Machine Made</span><br><span><strong>Model Number:</strong> A305</span><br><span><strong>Size:</strong> S,M,L,XL</span><br><span><strong>Type:</strong> face slimming</span><br><span><strong>Brand Name:</strong> GEONYIEEK</span><br><span><strong>Material:</strong> cloth</span><br><span><strong>For:</strong> Women ,Men</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582184511</id>
+      <title>L</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>14359168-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582184511</id>
+      <title>M</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>14359168-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582184511</id>
+      <title>S</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>14359168-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582184511</id>
+      <title>XL</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>14359168-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582184511</id>
+      <title>Orange one size</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>14359168-orange-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582184511</id>
+      <title>Rosered one size</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>14359168-rosered-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1875994771519</id>
+    <published>2019-06-17T23:26:57-05:00</published>
+    <updated>2019-06-17T23:26:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/black-nfc-ntag216-label-sticker-tag-protocol-iso14443a-888-bytes-30mm-diameter-for-all-nfc-phones"/>
+    <title>Black NFC NTAG216 Label Sticker Tag Protocol ISO14443A 888 Bytes 30mm Diameter For All NFC Phones</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-989335362.jpg?v=1578614162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> MochuaRFID</span><br><span><strong>Model Number:</strong> MC-NFC-Ntag216</span><br><span><strong>Company:</strong> Mochua</span><br><span><strong>is_customized:</strong> Yes</span><br><span><strong>Chip:</strong> Ntag216 (NFC Forum Type 2 Tag)</span><br><span><strong>Frequency:</strong> 13.56Mhz</span><br><span><strong>Protocol:</strong> 14443A</span><br><span><strong>Feature:</strong> Self-adhesive</span><br><span><strong>Memory:</strong> 888bytes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1875994771519</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>26975827</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11548100243</id>
+    <published>2019-05-21T19:06:43-05:00</published>
+    <updated>2019-05-21T19:06:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/u-i-brand-thin-luxury-natural-wood-phone-case-for-iphone-5-5s-6-6s-6plus-6s-plus-7-7plus-cover-wooden-high-quality-shockproof"/>
+    <title>U&amp;I Brand Thin Luxury Natural Wood Phone Case For Iphone 5 5S 6 6S 6Plus 6S Plus 7 7Plus Cover Wooden High Quality Shockproof</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-268199228.jpg?v=1578611734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Compatible iPhone Model:</strong> iPhone 6s plus,iphone 7,iPhone 5,iPhone 6 Plus,iPhone 6s,iPhone 5s,iphone 7 Plus,iPhone 6,iPhone SE</span><br><span><strong>Design:</strong> Matte,Cute,Abstract,Sports,Plain,Exotic,Animal,Vintage,Geometric,Glossy,Business,Patterned</span><br><span><strong>Size:</strong> 4.7 inch,5.5 inch</span><br><span><strong>Retail Package:</strong> Yes</span><br><span><strong>Function:</strong> Dirt-resistant,Anti-knock</span><br><span><strong>Type:</strong> Fitted Case</span><br><span><strong>Compatible Brand:</strong> Apple iPhones</span><br><span><strong>Brand Name:</strong> U&amp;I</span><br><span><strong>Features:</strong> Vintage</span><br><span><strong>Mateial:</strong> Real Natural wood</span><br><span><strong>Model Number:</strong> for iPhone 5 5S 6 6S 6Plus 6S Plus 7 7Plus 4.7inch 5.5inch</span><br><span><strong>Feature 1:</strong> New Brand wood phone case for iphone 6 6s</span><br><span><strong>Feature 2:</strong> Ultra Thin Luxury Wood Phone Case for iphone 6 6s</span><br><span><strong>Feature 3:</strong> Soft wooden High quality Phone Case for iphone 6 6s 6plus</span><br><span><strong>Feature 4:</strong> Wood back cover for 5 5S 6 6S 6Plus 6S Plus 7 7Plus 4.7inch 5.5inch</span><br><span><strong>Function6:</strong> Decorate and protect your phone</span><br><span><strong>Function5:</strong> Shock-Proof + Scratch-Resistant + Anti-Skid + Dirt-resistant</span><br><span><strong>Size:</strong> 4.7 inch,5.5 inch</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>skull head / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-skull-head-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>camera / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-camera-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>finger / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-finger-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>anchor / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-anchor-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>Indonesia / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-indonesia-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>tape / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-tape-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>cross / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-cross-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>compass / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-compass-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>flower / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-flower-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>eagle / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-eagle-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>stripe / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-stripe-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>dragon / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-dragon-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>dandelion / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-dandelion-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>tiger / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-tiger-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>bible / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-bible-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>skull head / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-skull-head-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>camera / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-camera-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>finger / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-finger-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>anchor / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-anchor-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>Indonesia / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-indonesia-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>tape / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-tape-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>cross / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-cross-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>compass / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-compass-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>flower / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-flower-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>eagle / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-eagle-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>stripe / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-stripe-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>dragon / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-dragon-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>dandelion / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-dandelion-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>tiger / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-tiger-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>bible / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-bible-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>skull head / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-skull-head-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>skull head / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-skull-head-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>camera / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-camera-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>camera / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-camera-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>finger / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-finger-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>finger / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-finger-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>anchor / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-anchor-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>anchor / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-anchor-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>Indonesia / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-indonesia-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>Indonesia / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-indonesia-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>tape / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-tape-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>tape / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-tape-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>cross / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-cross-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>cross / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-cross-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>chrysanthemum / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-chrysanthemum-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>chrysanthemum / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-chrysanthemum-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>chrysanthemum / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-chrysanthemum-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>chrysanthemum / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-chrysanthemum-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>compass / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-compass-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>compass / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-compass-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>flower / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-flower-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>flower / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-flower-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>eagle / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-eagle-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>eagle / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-eagle-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>stripe / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-stripe-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>stripe / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-stripe-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>dragon / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-dragon-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>dragon / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-dragon-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>dandelion / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-dandelion-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>dandelion / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-dandelion-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>tiger / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-tiger-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>tiger / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-tiger-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>bible / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-bible-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>bible / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-bible-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>panda / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-panda-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>panda / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-panda-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>panda / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-panda-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>panda / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-panda-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>half follow / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-half-follow-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>half follow / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-half-follow-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>half follow / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-half-follow-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>half follow / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-half-follow-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>half follow / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-half-follow-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>skull head / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-skull-head-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>camera / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-camera-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>finger / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-finger-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>anchor / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-anchor-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>Indonesia / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-indonesia-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>tape / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-tape-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>cross / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-cross-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>chrysanthemum / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-chrysanthemum-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>compass / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-compass-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>flower / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-flower-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>eagle / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-eagle-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>stripe / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-stripe-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>dragon / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-dragon-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>dandelion / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-dandelion-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>tiger / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-tiger-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>bible / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-bible-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>panda / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-panda-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>elephant nose / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-elephant-nose-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>elephant nose / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-elephant-nose-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>elephant nose / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-elephant-nose-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>elephant nose / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-elephant-nose-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>elephant nose / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-elephant-nose-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>owl / For iphone 6 6s</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-owl-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>owl / For iphone 7</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-owl-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>owl / For iphone 7 plus</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-owl-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>owl / For iphone 5 5s se</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-owl-for-iphone-5-5s-se</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548100243</id>
+      <title>owl / For iphone 6p 6sp</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>915627-owl-for-iphone-6p-6sp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11548105171</id>
+    <published>2019-05-21T19:06:42-05:00</published>
+    <updated>2019-05-21T19:06:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/transparent-clear-case-for-iphone-7-7-plus-for-iphone-6-6s-plus-soft-silica-gel-tpu-silicone-ultra-thin-phone-case-fundas-capa"/>
+    <title>Transparent Clear Case For iPhone 7 7 Plus For iPhone 6 6s Plus Soft Silica Gel TPU Silicone Ultra Thin Phone Case Fundas Capa</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-310515526.jpg?v=1578611735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Compatible iPhone Model:</strong> iPhone 6 Plus,iPhone 6s,iPhone 6s plus,iphone 7 Plus,iPhone 6,iphone 7</span><br><span><strong>Brand Name:</strong> ELFTEAR</span><br><span><strong>Function:</strong> Dirt-resistant</span><br><span><strong>Retail Package:</strong> No</span><br><span><strong>Type:</strong> Fitted Case</span><br><span><strong>Compatible Brand:</strong> Apple iPhones</span><br><span><strong>Size:</strong> 4.7''5.5''</span><br><span><strong>Design:</strong> Transparent</span><br><span><strong>Features:</strong> Clear  Transparent Case</span><br><span><strong>Color :</strong> Clear</span><br><span><strong>Material:</strong> TPU</span><br><span><strong>Compatible:</strong> iPhone 6 6s / 6 6s plus / 7 7 plus</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548105171</id>
+      <title>For iPhone 7</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>1734875-for-iphone-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548105171</id>
+      <title>For iPhone 7 Plus</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>1734875-for-iphone-7-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548105171</id>
+      <title>For iPhone 6 6S Plus</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>1734875-for-iphone-6-6s-plus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548105171</id>
+      <title>For iPhone 6 6S</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>1734875-for-iphone-6-6s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11548125587</id>
+    <published>2019-05-21T19:06:37-05:00</published>
+    <updated>2019-05-21T19:06:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/veithdia-brand-unisex-retro-aluminum-tr90-sunglasses-polarized-lens-vintage-eyewear-accessories-sun-glasses-for-men-women-6108"/>
+    <title>VEITHDIA Brand Unisex Retro Aluminum+TR90 Sunglasses Polarized Lens Vintage Eyewear Accessories Sun Glasses For Men/Women 6108</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-77305636.jpg?v=1578611741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.99 - 23.99
+            <a href="https://www.chmelaeon.com/products/veithdia-brand-unisex-retro-aluminum-tr90-sunglasses-polarized-lens-vintage-eyewear-accessories-sun-glasses-for-men-women-6108">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Eyewear Type:</strong> Sunglasses</span><br><span><strong>Item Type:</strong> Eyewear</span><br><span><strong>Department Name:</strong> Adult</span><br><span><strong>Lenses Material:</strong> Polycarbonate</span><br><span><strong>Lens Height:</strong> 50 mm</span><br><span><strong>Frame Material:</strong> Aluminum</span><br><span><strong>Gender:</strong> Men</span><br><span><strong>Brand Name:</strong> Veithdia</span><br><span><strong>Style:</strong> Square</span><br><span><strong>Model Number:</strong> 6108</span><br><span><strong>Lens Width:</strong> 63 mm</span><br><span><strong>Lenses Optical Attribute:</strong> Polarized</span><br><span><strong>is_customized:</strong> Yes</span><br><span><strong>Frame material:</strong> TR90+Aluminum</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548125587</id>
+      <title>Blue / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>404890-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548125587</id>
+      <title>Blue / Russian Federation</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>404890-blue-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548125587</id>
+      <title>Green / China</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>404890-green-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548125587</id>
+      <title>Green / Russian Federation</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>404890-green-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548125587</id>
+      <title>Gray / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>404890-gray-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548125587</id>
+      <title>Gray / Russian Federation</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>404890-gray-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548125587</id>
+      <title>Clear / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>404890-clear-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548125587</id>
+      <title>Clear / Russian Federation</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>404890-clear-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11548126739</id>
+    <published>2019-05-21T19:06:35-05:00</published>
+    <updated>2019-05-21T19:06:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/ym-women-men-round-sunglasses-steampunk-shades-multicolor-gradient-mirror-lens-goggles-designer-vintage-sun-glasses-030-263"/>
+    <title>YM Women Men Round Sunglasses Steampunk Shades MultiColor Gradient Mirror Lens Goggles Designer Vintage Sun Glasses 030-263</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-310125731.jpg?v=1578611742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Eyewear Type:</strong> Sunglasses</span><br><span><strong>Item Type:</strong> Eyewear</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Model Number:</strong> 030-263</span><br><span><strong>Frame Material:</strong> Alloy</span><br><span><strong>Lens Width:</strong> 5.3cm / 2.1in</span><br><span><strong>Lenses Material:</strong> Acrylic</span><br><span><strong>Style:</strong> Round</span><br><span><strong>Department Name:</strong> Adult</span><br><span><strong>Lenses Optical Attribute:</strong> Photochromic,Gradient,Mirror,UV400</span><br><span><strong>Lens Height:</strong> 5.3cm / 2.1in</span><br><span><strong>Brand Name:</strong> YM</span><br><span><strong>Total Width:</strong> 14cm / 5.5in</span><br><span><strong>Bridge Width:</strong> 2.5cm / 1in</span><br><span><strong>Temple Length:</strong> 13cm / 5.1in</span><br><span><strong>Weight:</strong> L about 21g, M about 18g, S about 16g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Green / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-green-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Pink / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-pink-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Blue / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-blue-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Yellow / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-yellow-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Purple / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-purple-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Gradient Tea / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-gradient-tea-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Mirror Blue / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-mirror-blue-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Mirror Gold / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-mirror-gold-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Black / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-black-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Gradient Dark / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-gradient-dark-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Clear / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-clear-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Pink / Gold</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-pink-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Pink / Silver</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-pink-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Gradient Tea / Gold</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-gradient-tea-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Gradient Tea / Silver</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-gradient-tea-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Blue / Gold</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-blue-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Blue / Silver</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-blue-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Green / Gold</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-green-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Green / Silver</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-green-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Black / Gold</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-black-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Black / Silver</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-black-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Clear / Gold</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-clear-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Clear / Silver</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-clear-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Mirror Gold / Gold</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-mirror-gold-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Mirror Gold / Silver</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-mirror-gold-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Mirror Blue / Gold</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-mirror-blue-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Mirror Blue / Silver</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-mirror-blue-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Yellow / Gold</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-yellow-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Yellow / Silver</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-yellow-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Purple / Gold</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-purple-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Purple / Silver</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-purple-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Gradient Dark / Gold</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-gradient-dark-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Gradient Dark / Silver</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-gradient-dark-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Mirror Silver / Gold</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-mirror-silver-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Mirror Silver / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-mirror-silver-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548126739</id>
+      <title>Mirror Silver / Silver</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>1234388-mirror-silver-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11548150547</id>
+    <published>2019-05-21T19:06:33-05:00</published>
+    <updated>2019-05-21T19:06:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/zuan-mei-brand-polarized-sunglasses-men-driving-sun-glasses-for-women-hot-sale-quality-goggle-glasses-men-gafas-de-sol-zms-01"/>
+    <title>Zuan Mei Brand Polarized Sunglasses Men Driving Sun Glasses For Women Hot Sale Quality Goggle Glasses Men Gafas De Sol ZMS-01</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-246664676.jpg?v=1578611744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99 - 14.99
+            <a href="https://www.chmelaeon.com/products/zuan-mei-brand-polarized-sunglasses-men-driving-sun-glasses-for-women-hot-sale-quality-goggle-glasses-men-gafas-de-sol-zms-01">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Eyewear Type:</strong> Sunglasses</span><br><span><strong>Item Type:</strong> Eyewear</span><br><span><strong>Gender:</strong> Men</span><br><span><strong>Style:</strong> Goggle</span><br><span><strong>Frame Material:</strong> Plastic</span><br><span><strong>Department Name:</strong> Adult</span><br><span><strong>Lenses Optical Attribute:</strong> Photochromic,Polarized,Anti-Reflective,UV400</span><br><span><strong>Lenses Material:</strong> Polycarbonate</span><br><span><strong>Brand Name:</strong> Zuan Mei</span><br><span><strong>Lens Width:</strong> 6.5 cm</span><br><span><strong>Lens Height:</strong> 4.5 cm</span><br><span><strong>Model Number:</strong> Z.MS-01</span><br><span><strong>Lens color:</strong> Red Grey Blue Blue&amp;Green</span><br><span><strong>Applicable occasions:</strong> Cycling Eyewear Fishing Eyewear Hiking Eyewear Skiing Eyewear</span><br><span><strong>The lens optical properties:</strong> UV 400 Polarized</span><br><span><strong>Suitable for style:</strong> Sports Eyewear Outdoor Sunglasses</span><br><span><strong>Gender:</strong> Unisex</span><br><span><strong>is_customized:</strong> Yes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548150547</id>
+      <title>Red lens / The picture color</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>7485-red-lens-the-picture-color</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548150547</id>
+      <title>Black Gray lens / The picture color</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>7485-black-gray-lens-the-picture-color</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548150547</id>
+      <title>Blue lens / The picture color</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>7485-blue-lens-the-picture-color</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548150547</id>
+      <title>Black Gray lens 1 / The picture color</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>7485-black-gray-lens-1-the-picture-color</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548150547</id>
+      <title>Blue and green lens / The picture color</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>7485-blue-and-green-lens-the-picture-color</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548150547</id>
+      <title>red Gray / The picture color</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>7485-red-gray-the-picture-color</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548150547</id>
+      <title>Night vision lens / The picture color</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>7485-night-vision-lens-the-picture-color</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11592038739</id>
+    <published>2019-05-21T19:05:59-05:00</published>
+    <updated>2019-05-21T19:05:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/vamson-for-gopro-accessories-chest-strap-belt-body-tripod-harness-mount-for-gopro-hero-5-4-3-for-xiaomi-for-yi-4k-camera-vp203"/>
+    <title>Vamson for Gopro Accessories Chest Strap Belt Body Tripod Harness Mount For Gopro Hero 5 4 3+for Xiaomi for Yi 4K Camera VP203</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-241080496.jpg?v=1578611764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99 - 18.99
+            <a href="https://www.chmelaeon.com/products/vamson-for-gopro-accessories-chest-strap-belt-body-tripod-harness-mount-for-gopro-hero-5-4-3-for-xiaomi-for-yi-4k-camera-vp203">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Compatible Action Camera Brand:</strong> SOOCOO,GoPro,Garmin,EKEN,Sjcam,SONY,NIKON</span><br><span><strong>Brand Name:</strong> Vamson</span><br><span><strong>Type:</strong> Straps &amp; Mounts</span><br><span><strong>Model Number:</strong> VP203</span><br><span><strong>Material:</strong> Pc and Elastic</span><br><span><strong>Compatible Action Camera Brand:</strong> Xiaomi Yi</span><br><span><strong>Color:</strong> Black</span><br><span><strong>Item Use For:</strong> Action Camera/Sport Camera</span><br><span><strong>For Gopro Camera:</strong> Gopro Hero 5 4 4s 3+ 3 2 1</span><br><span><strong>For Xiaomi Camera:</strong> Xiaomi Yi Xiaomi Yi2 4K</span><br><span><strong>For SJ Camera:</strong> SJCAM SJ4000 SJ5000 SJ6000 SJ7000</span><br><span><strong>For Other Camera:</strong> Eken H9/H9R  H8 W9</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592038739</id>
+      <title>VP203</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>2475158-vp203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592038739</id>
+      <title>VP203X</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>2475158-vp203x</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11592055443</id>
+    <published>2019-05-21T19:05:52-05:00</published>
+    <updated>2019-05-21T19:05:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/telesin-6-dome-port-waterproof-case-floating-trigger-for-gopro-hero-4-hero-3-hero-3-lens-dome-cover-housing-accessories"/>
+    <title>TELESIN 6&quot; Dome Port Waterproof Case + Floating + Trigger for GoPro Hero 4, Hero 3, Hero 3+ Lens Dome Cover Housing Accessories</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-302236196.jpg?v=1578611768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.99 - 84.99
+            <a href="https://www.chmelaeon.com/products/telesin-6-dome-port-waterproof-case-floating-trigger-for-gopro-hero-4-hero-3-hero-3-lens-dome-cover-housing-accessories">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Model Number:</strong> GP-DMP-T03-YL</span><br><span><strong>Bundle:</strong> Bundle 1</span><br><span><strong>Compatible Action Camera Brand:</strong> GoPro</span><br><span><strong>Brand Name:</strong> TELESIN</span><br><span><strong>Type:</strong> Waterproof Housings</span><br><span><strong>Material:</strong> PC</span><br><span><strong>Item Type:</strong> Underwater Photography TELESIN 6 Inch Dome Port</span><br><span><strong>Apply for:</strong> Gopro Hero 4, Hero 3, Hero 3 Plus</span><br><span><strong>Material:</strong> Acrylic &amp; Plastic</span><br><span><strong>Waterproof Depth:</strong> 30M</span><br><span><strong>Suits for:</strong> Scuba Diving, Swimming, Submarine, Snorkeling, etc</span><br><span><strong>Color:</strong> Yellow</span><br><span><strong>Sold as:</strong> TELESIN T03 Dome Port Set</span><br><span><strong>Waterproof:</strong> Yes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592055443</id>
+      <title>Basic Kit</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>1362510-basic-kit</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592055443</id>
+      <title>Super Kit</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>1362510-super-kit</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11592061331</id>
+    <published>2019-05-21T19:05:49-05:00</published>
+    <updated>2019-05-21T19:05:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/tekcam-action-camera-accessories-set-for-gopro-hero-sjcam-sj6-legend-xiaomi-yi-4k-plus-eken-h9r-h8r-gitup-git2-video-sports-cam"/>
+    <title>Tekcam Action Camera accessories Set for Gopro Hero SJCAM SJ6 Legend XIAOMI YI 4K plus Eken H9R H8R Gitup Git2 Video Sports Cam</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-300855299.jpg?v=1578611770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Compatible Action Camera Brand:</strong> SOOCOO,GoPro,EKEN,Sjcam</span><br><span><strong>Material:</strong> ABS</span><br><span><strong>Brand Name:</strong> TEKCAM</span><br><span><strong>Bundle:</strong> Bundle 1</span><br><span><strong>Type:</strong> Action Camera Car accessories</span><br><span><strong>Model Number:</strong> action camera accessories</span><br><span><strong>Compatible Action Camera Brand:</strong> xioami yi , gitup, thieye</span><br><span><strong>Name:</strong> Action Camera Accessories</span><br><span><strong>For:</strong> Gopro hero5 hero4 session hero4 hero3 plus hero3</span><br><span><strong>For 1:</strong> SJ4000 SJ5000 SJ6 legend SJ6000 SJ7000 SJ8000 SJ9000</span><br><span><strong>For2:</strong> Xiaomi yi xiaomi yi 4k 2, yi 4k plus</span><br><span><strong>For 3:</strong> Eken H9 H8 H3 H2 w9 F60 F68 Gitup Git2</span><br><span><strong>For 4:</strong> Soocoo c30 Gitup 2 sony</span><br><span><strong>Item 1:</strong> Action Cam Strap</span><br><span><strong>Item 2:</strong> Action Cam Selfie Stick Monopod</span><br><span><strong>Item 3:</strong> Action Cam car Mount</span><br><span><strong>Item 4:</strong> Action Cam Bike Mount</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592061331</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>2744279</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11592518419</id>
+    <published>2019-05-21T19:05:31-05:00</published>
+    <updated>2019-05-21T19:05:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/td-zw-8pcs-lot-pepe-sad-frog-funny-sticker-for-car-laptop-luggage-skateboard-motorcycle-snowboard-phone-decal-toy-stickers"/>
+    <title>TD ZW 8Pcs/Lot  Pepe Sad Frog Funny Sticker For Car Laptop Luggage Skateboard Motorcycle Snowboard Phone Decal Toy Stickers</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-242585424.jpg?v=1578611783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Length:</strong> 6-10cm</span><br><span><strong>Height:</strong> 6-10cm</span><br><span><strong>Features:</strong> waterproof sticker</span><br><span><strong>Brand Name:</strong> TD ZW</span><br><span><strong>Weight:</strong> 0.03</span><br><span><strong>Warranty:</strong> 0</span><br><span><strong>Model Number:</strong> car sticker</span><br><span><strong>Diameter:</strong> 6-10cm</span><br><span><strong>Width:</strong> 6-10</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592518419</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>3354246-sad-frog</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11594000531</id>
+    <published>2019-05-21T19:04:35-05:00</published>
+    <updated>2019-05-21T19:04:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/100pcs-ntag215-nfc-forum-type-2-tag-for-all-nfc-mobile-phone-high-performance-nfc-card"/>
+    <title>100pcs NTAG215 NFC Forum Type 2 Tag for All NFC Mobile Phone High Performance NFC Card</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-311025902.jpg?v=1578611832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Model Number:</strong> NTAG215</span><br><span><strong>Brand Name:</strong> HITEIOT</span><br><span><strong>is_customized:</strong> Yes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11594000531</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>7043547</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

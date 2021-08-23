@@ -1,0 +1,4129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.chmelaeon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.chmelaeon.com/collections/maternity.atom"/>
+  <title>Chmelaeon</title>
+  <updated>2019-05-21T18:57:43-05:00</updated>
+  <author>
+    <name>Chmelaeon</name>
+  </author>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11722574547</id>
+    <published>2019-05-21T18:57:43-05:00</published>
+    <updated>2019-05-21T18:57:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/new-summer-woman-shoes-sandals-genuine-leather-soft-outsole-open-toe-flat-female-sandals-maternity-womens-shoes-casual-sandals"/>
+    <title>New Summer Woman Shoes Sandals Genuine Leather Soft Outsole Open Toe Flat Female Sandals Maternity Women&apos;s Shoes Casual Sandals</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-351938508.jpg?v=1578612091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            96.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Adult</span><br><span><strong>Item Type:</strong> Sandals</span><br><span><strong>Lining Material:</strong> PU</span><br><span><strong>Model Number:</strong> 5583</span><br><span><strong>Heel Type:</strong> Flat with</span><br><span><strong>Heel Height:</strong> Flat (≤1cm)</span><br><span><strong>Fashion Element:</strong> Rome</span><br><span><strong>Fit:</strong> Fits true to size, take your normal size</span><br><span><strong>Brand Name:</strong> MUYANG MIE MIE</span><br><span><strong>Upper Material:</strong> Genuine Leather</span><br><span><strong>Style:</strong> Leisure</span><br><span><strong>With Platforms:</strong> No</span><br><span><strong>Insole Material:</strong> PU</span><br><span><strong>Occasion:</strong> Casual</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Side Vamp Type:</strong> Covered</span><br><span><strong>Outsole Material:</strong> Rubber</span><br><span><strong>Closure Type:</strong> Hook &amp; Loop</span><br><span><strong>Sandal Type:</strong> Ankle-Wrap</span><br><span><strong>Upper-Genuine Leather Type:</strong> Cow Leather</span><br><span><strong>Back Counter Type:</strong> Ankle Strap</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Light Green / 6</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-light-green-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Light Green / 6.5</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-light-green-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Light Green / 7</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-light-green-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Light Green / 7.5</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-light-green-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Light Green / 8</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-light-green-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Light Green / 8.5</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-light-green-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Light Yellow / 5.5</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-light-yellow-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Light Yellow / 6</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-light-yellow-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Light Yellow / 6.5</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-light-yellow-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Light Yellow / 7</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-light-yellow-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Light Yellow / 7.5</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-light-yellow-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Light Yellow / 8</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-light-yellow-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Light Yellow / 8.5</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-light-yellow-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Deep Purple / 5.5</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-deep-purple-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Deep Purple / 6</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-deep-purple-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Deep Purple / 6.5</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-deep-purple-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Deep Purple / 7</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-deep-purple-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Deep Purple / 7.5</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-deep-purple-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Deep Purple / 8</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-deep-purple-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Deep Purple / 8.5</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-deep-purple-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Chocolate / 5.5</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-chocolate-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Chocolate / 6</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-chocolate-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Chocolate / 6.5</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-chocolate-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Chocolate / 7</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-chocolate-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Chocolate / 7.5</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-chocolate-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Chocolate / 8</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-chocolate-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Chocolate / 8.5</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-chocolate-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722574547</id>
+      <title>Light Green / 5.5</title>
+      <s:price currency="USD">96.99</s:price>
+      <s:sku>7957225-light-green-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48790732819</id>
+    <published>2019-05-21T17:22:54-05:00</published>
+    <updated>2019-05-21T17:22:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/large-capacity-maternity-backpack-nappy-diaper-backpacks-for-travel-multifunctional-mother-mummy-mom-baby-bebe-bags-maternidade"/>
+    <title>Large Capacity Maternity Backpack Nappy Diaper Backpacks For Travel Multifunctional Mother Mummy Mom Baby Bebe Bags Maternidade</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-346317588.jpg?v=1578613360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            62.99 - 98.99
+            <a href="https://www.chmelaeon.com/products/large-capacity-maternity-backpack-nappy-diaper-backpacks-for-travel-multifunctional-mother-mummy-mom-baby-bebe-bags-maternidade">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Diaper Bags</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Brand Name:</strong> Lekebaby</span><br><span><strong>Closure Type:</strong> Zipper</span><br><span><strong>Size:</strong> (30cm</span><br><span><strong>Item Height:</strong> 46cm</span><br><span><strong>Item Length:</strong> 29cm</span><br><span><strong>Main Material:</strong> Denim</span><br><span><strong>Style:</strong> Backpack</span><br><span><strong>Item Weight:</strong> 0.9kg</span><br><span><strong>Model Number:</strong> MB1302G01</span><br><span><strong>Item Width:</strong> 16.5cm</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48790732819</id>
+      <title>red</title>
+      <s:price currency="USD">98.99</s:price>
+      <s:sku>4028739-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48790732819</id>
+      <title>blue</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>4028739-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48790732819</id>
+      <title>purple</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>4028739-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48790732819</id>
+      <title>black</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>4028739-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48790732819</id>
+      <title>gray</title>
+      <s:price currency="USD">80.99</s:price>
+      <s:sku>4028739-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48791945235</id>
+    <published>2019-05-21T17:22:47-05:00</published>
+    <updated>2019-05-21T17:22:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/maternity-nursing-bra-for-feeding-bamboo-fiber-cotton-lace-underwear-pregnant-clothes-anti-sagging-pregnancy-women-gravidas"/>
+    <title>Maternity Nursing Bra For Feeding Bamboo Fiber Cotton Lace Underwear Pregnant Clothes Anti Sagging Pregnancy Women Gravidas</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-79159566.jpg?v=1578613362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99 - 13.99
+            <a href="https://www.chmelaeon.com/products/maternity-nursing-bra-for-feeding-bamboo-fiber-cotton-lace-underwear-pregnant-clothes-anti-sagging-pregnancy-women-gravidas">(60 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Feature:</strong> Nursing,Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Brand Name:</strong> XEIOBB</span><br><span><strong>Model Number:</strong> 201402</span><br><span><strong>Closure Type:</strong> Three Hook-and-eye,Front Closure,Back Closure</span><br><span><strong>Support Type:</strong> Underwire</span><br><span><strong>Strap Type:</strong> Convertible Straps,Adjusted-straps</span><br><span><strong>Material:</strong> Cotton,Bamboo Fiber</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>color:</strong> black pink</span><br><span><strong>size:</strong> 34 36 38 40 42</span><br><span><strong>cup:</strong> 3/4</span><br><span><strong>maternity:</strong> maternity clothes</span><br><span><strong>nursing:</strong> nursing bra</span><br><span><strong>clothes:</strong> bra for feeding</span><br><span><strong>maternity bra:</strong> for feeding</span><br><span><strong>breast feeding:</strong> breast feeding bra</span><br><span><strong>pregnant:</strong> pregnant bra</span><br><span><strong>pregnancy:</strong> pregnancy clothes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>01 / B / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-01-b-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>01 / B / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-01-b-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>01 / B / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-01-b-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>01 / B / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-01-b-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>01 / B / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-01-b-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>01 / C / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-01-c-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>01 / C / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-01-c-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>01 / C / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-01-c-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>01 / C / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-01-c-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>01 / C / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-01-c-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>02 / B / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-02-b-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>02 / B / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-02-b-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>02 / B / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-02-b-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>02 / B / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-02-b-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>02 / B / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-02-b-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>02 / C / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-02-c-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>02 / C / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-02-c-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>02 / C / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-02-c-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>02 / C / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-02-c-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>02 / C / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-02-c-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>03 / B / 34</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-03-b-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>03 / B / 36</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>174889-03-b-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>03 / B / 38</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-03-b-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>03 / B / 40</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-03-b-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>03 / B / 42</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-03-b-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>03 / C / 34</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-03-c-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>03 / C / 36</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-03-c-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>03 / C / 38</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-03-c-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>03 / C / 40</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-03-c-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>03 / C / 42</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-03-c-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>04 / B / 34</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-04-b-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>04 / B / 36</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-04-b-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>04 / B / 38</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-04-b-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>04 / B / 40</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-04-b-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>04 / B / 42</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-04-b-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>04 / C / 34</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-04-c-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>04 / C / 36</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-04-c-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>04 / C / 38</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-04-c-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>04 / C / 40</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-04-c-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>04 / C / 42</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>174889-04-c-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>05 / B / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-05-b-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>05 / B / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-05-b-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>05 / B / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-05-b-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>05 / B / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-05-b-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>05 / B / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-05-b-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>05 / C / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-05-c-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>05 / C / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-05-c-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>05 / C / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-05-c-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>05 / C / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-05-c-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>05 / C / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-05-c-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>06 / B / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-06-b-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>06 / B / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-06-b-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>06 / B / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-06-b-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>06 / B / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-06-b-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>06 / B / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-06-b-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>06 / C / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-06-c-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>06 / C / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-06-c-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>06 / C / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-06-c-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>06 / C / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-06-c-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48791945235</id>
+      <title>06 / C / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>174889-06-c-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48792502291</id>
+    <published>2019-05-21T17:22:44-05:00</published>
+    <updated>2019-05-21T17:22:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/new-wire-free-prevent-sagging-pregnant-women-nursing-bra-underwear-maternity-front-closure-breastfeeding-bras"/>
+    <title>New Wire Free Prevent Sagging Pregnant Women Nursing Bra Underwear Maternity Front Closure Breastfeeding Bras</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-130480929.jpg?v=1578613363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Feature:</strong> Nursing,Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Brand Name:</strong> JOCESTYLE</span><br><span><strong>Support Type:</strong> Wire Free</span><br><span><strong>Material:</strong> Spandex,Cotton</span><br><span><strong>Model Number:</strong> 105193</span><br><span><strong>Closure Type:</strong> Front Closure</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>Strap Type:</strong> Adjusted-straps</span><br><span><strong>Cup Size:</strong> B C</span><br><span><strong>Cup Shape:</strong> Full</span><br><span><strong>Size:</strong> 34.36,38,40 (75,80,85,90)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48792502291</id>
+      <title>Khaki / B / 34</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2672758-khaki-b-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48792502291</id>
+      <title>Khaki / C / 34</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2672758-khaki-c-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48792502291</id>
+      <title>Khaki / B / 36</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2672758-khaki-b-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48792502291</id>
+      <title>Khaki / C / 36</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2672758-khaki-c-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48792502291</id>
+      <title>Khaki / B / 38</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2672758-khaki-b-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48792502291</id>
+      <title>Khaki / C / 38</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2672758-khaki-c-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48792502291</id>
+      <title>Khaki / B / 40</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2672758-khaki-b-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48792502291</id>
+      <title>Khaki / C / 40</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2672758-khaki-c-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48792502291</id>
+      <title>Grey / B / 34</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2672758-grey-b-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48792502291</id>
+      <title>Grey / C / 34</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2672758-grey-c-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48792502291</id>
+      <title>Grey / B / 36</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2672758-grey-b-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48792502291</id>
+      <title>Grey / C / 36</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2672758-grey-c-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48792502291</id>
+      <title>Grey / B / 38</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2672758-grey-b-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48792502291</id>
+      <title>Grey / C / 38</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2672758-grey-c-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48792502291</id>
+      <title>Grey / B / 40</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2672758-grey-b-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48792502291</id>
+      <title>Grey / C / 40</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2672758-grey-c-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48793714707</id>
+    <published>2019-05-21T17:22:37-05:00</published>
+    <updated>2019-05-21T17:22:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/new-style-women-mum-maternity-feeding-cotton-nursing-bra-breastfeeding-bras-cup-b-c-b-new-arrival"/>
+    <title>New Style Women Mum Maternity Feeding Cotton Nursing Bra Breastfeeding Bras Cup B C B New Arrival</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-76908689.jpg?v=1578613366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99 - 10.99
+            <a href="https://www.chmelaeon.com/products/new-style-women-mum-maternity-feeding-cotton-nursing-bra-breastfeeding-bras-cup-b-c-b-new-arrival">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Material:</strong> Cotton,Spandex</span><br><span><strong>Support Type:</strong> Wire Free</span><br><span><strong>Strap Type:</strong> Non-Convertible Straps</span><br><span><strong>Closure Type:</strong> Front Closure</span><br><span><strong>Model Number:</strong> Feeding Cotton Wire Free Bra</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>Feature:</strong> Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Brand Name:</strong> WEIXINBUY</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48793714707</id>
+      <title>F / B / 34</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>367775-f-b-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48793714707</id>
+      <title>F / C / 34</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>367775-f-c-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48793714707</id>
+      <title>F / B / 36</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>367775-f-b-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48793714707</id>
+      <title>F / C / 36</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>367775-f-c-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48793714707</id>
+      <title>F / B / 38</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>367775-f-b-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48793714707</id>
+      <title>F / C / 38</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>367775-f-c-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48793714707</id>
+      <title>F / B / 40</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>367775-f-b-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48793714707</id>
+      <title>F / C / 40</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>367775-f-c-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48793714707</id>
+      <title>H / B / 34</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>367775-h-b-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48793714707</id>
+      <title>H / C / 34</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>367775-h-c-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48793714707</id>
+      <title>H / B / 36</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>367775-h-b-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48793714707</id>
+      <title>H / C / 36</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>367775-h-c-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48793714707</id>
+      <title>H / B / 38</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>367775-h-b-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48793714707</id>
+      <title>H / C / 38</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>367775-h-c-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48793714707</id>
+      <title>H / B / 40</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>367775-h-b-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48793714707</id>
+      <title>H / C / 40</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>367775-h-c-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48794238995</id>
+    <published>2019-05-21T17:22:36-05:00</published>
+    <updated>2019-05-21T17:22:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/women-pregnant-maternity-bra-wire-free-nursing-wide-straps-bralette-easy-feeding-sleep-tops-vest"/>
+    <title>Women Pregnant Maternity Bra Wire Free Nursing Wide Straps Bralette Easy Feeding Sleep Tops Vest</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-490787034.jpg?v=1578613367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Feature:</strong> Nursing,Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Closure Type:</strong> Three Hook-and-eye,Front Closure</span><br><span><strong>Support Type:</strong> Wire Free</span><br><span><strong>Material:</strong> Spandex,Cotton</span><br><span><strong>Strap Type:</strong> Non-adjusted Straps,Non-Convertible Straps</span><br><span><strong>Model Number:</strong> 642</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>Brand Name:</strong> WEIXINBUY</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794238995</id>
+      <title>Gray / 44</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1982496-gray-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794238995</id>
+      <title>Gray / 34</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1982496-gray-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794238995</id>
+      <title>Gray / 36</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1982496-gray-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794238995</id>
+      <title>Gray / 38</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1982496-gray-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794238995</id>
+      <title>Gray / 40</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1982496-gray-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794238995</id>
+      <title>Gray / 42</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1982496-gray-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794238995</id>
+      <title>Pink / 44</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1982496-pink-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794238995</id>
+      <title>Pink / 34</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1982496-pink-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794238995</id>
+      <title>Pink / 36</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1982496-pink-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794238995</id>
+      <title>Pink / 38</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1982496-pink-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794238995</id>
+      <title>Pink / 40</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1982496-pink-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794238995</id>
+      <title>Pink / 42</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1982496-pink-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794238995</id>
+      <title>Beige / 44</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1982496-beige-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794238995</id>
+      <title>Beige / 34</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1982496-beige-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794238995</id>
+      <title>Beige / 36</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1982496-beige-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794238995</id>
+      <title>Beige / 38</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1982496-beige-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794238995</id>
+      <title>Beige / 40</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1982496-beige-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794238995</id>
+      <title>Beige / 42</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1982496-beige-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48794533907</id>
+    <published>2019-05-21T17:22:34-05:00</published>
+    <updated>2019-05-21T17:22:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/seamless-nursing-bra-pregnant-maternity-breast-feeding-bralette-stretchy-health-wire-free-stretchy-soft-bras"/>
+    <title>Seamless Nursing Bra pregnant Maternity Breast-feeding Bralette Stretchy Health Wire Free Stretchy Soft Bras</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-491914230.jpg?v=1578613369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99 - 12.99
+            <a href="https://www.chmelaeon.com/products/seamless-nursing-bra-pregnant-maternity-breast-feeding-bralette-stretchy-health-wire-free-stretchy-soft-bras">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Feature:</strong> Nursing,Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Closure Type:</strong> Three Hook-and-eye,Back Closure</span><br><span><strong>Model Number:</strong> 80</span><br><span><strong>Support Type:</strong> Wire Free</span><br><span><strong>Material:</strong> Nylon,Cotton</span><br><span><strong>Strap Type:</strong> Convertible Straps,Adjusted-straps</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>Brand Name:</strong> WEIXINBUY</span><br><span><strong>TYPE:</strong> LQ1145HL</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794533907</id>
+      <title>Yellow / 38</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>8859342-yellow-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794533907</id>
+      <title>Yellow / 34</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>8859342-yellow-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794533907</id>
+      <title>Yellow / 42</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>8859342-yellow-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794533907</id>
+      <title>Lavender / 38</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>8859342-lavender-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794533907</id>
+      <title>Lavender / 34</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>8859342-lavender-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794533907</id>
+      <title>Lavender / 42</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>8859342-lavender-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794533907</id>
+      <title>Gray / 38</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>8859342-gray-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794533907</id>
+      <title>Gray / 34</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>8859342-gray-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794533907</id>
+      <title>Gray / 42</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>8859342-gray-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48794828819</id>
+    <published>2019-05-21T17:22:32-05:00</published>
+    <updated>2019-05-21T17:22:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/2017-maternity-photography-props-summer-black-lace-transperant-pregnant-props-pregnancy-summer-long-style-beach-dress"/>
+    <title>2017 Maternity Photography Props Summer Black Lace Transperant Pregnant Props Pregnancy Summer Long Style beach dress</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-364349915.jpg?v=1578613370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.99 - 30.99
+            <a href="https://www.chmelaeon.com/products/2017-maternity-photography-props-summer-black-lace-transperant-pregnant-props-pregnancy-summer-long-style-beach-dress">(28 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> Wisstt</span><br><span><strong>Material:</strong> Cotton,Lace,Acrylic</span><br><span><strong>Fabric Type:</strong> Lace</span><br><span><strong>Sleeve Length(cm):</strong> Full</span><br><span><strong>Silhouette:</strong> Beach</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Dresses Length:</strong> Mid-Calf</span><br><span><strong>Collar:</strong> V-Neck</span><br><span><strong>Style:</strong> Cute</span><br><span><strong>Decoration:</strong> Lace</span><br><span><strong>Color Style:</strong> Gradient</span><br><span><strong>Department Name:</strong> Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Silhouette:</strong> Beath</span><br><span><strong>sexy:</strong> Maternity photography props lace dress</span><br><span><strong>Lace:</strong> schwangerschaftsmode</span><br><span><strong>Transperant:</strong> maternity photography props black</span><br><span><strong>cute:</strong> maternity photography props black lace</span><br><span><strong>Color:</strong> white, black</span><br><span><strong>sku:</strong> GQZ111/024</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Black / L</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>2013469-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Black / M</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>2013469-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Black / S</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>2013469-black-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>2013469-black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>2013469-black-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Black / 3XL</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>2013469-black-3xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Black / 4XL</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>2013469-black-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Dark blue / L</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>2013469-dark-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Dark blue / M</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>2013469-dark-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Dark blue / S</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>2013469-dark-blue-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Dark blue / XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>2013469-dark-blue-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Dark blue / XXL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>2013469-dark-blue-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Dark blue / 3XL</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>2013469-dark-blue-3xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Dark blue / 4XL</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>2013469-dark-blue-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>White / L</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>2013469-white-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>White / M</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>2013469-white-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>White / S</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>2013469-white-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>White / XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>2013469-white-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>White / XXL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>2013469-white-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>White / 3XL</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>2013469-white-3xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>White / 4XL</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>2013469-white-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Wine red / L</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>2013469-wine-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Wine red / M</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>2013469-wine-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Wine red / S</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>2013469-wine-red-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Wine red / XL</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>2013469-wine-red-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Wine red / XXL</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>2013469-wine-red-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Wine red / 3XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>2013469-wine-red-3xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48794828819</id>
+      <title>Wine red / 4XL</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>2013469-wine-red-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48795680787</id>
+    <published>2019-05-21T17:22:29-05:00</published>
+    <updated>2019-05-21T17:22:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/wisstt-plus-size-nursing-bra-breast-feeding-maternity-wire-free-bra-breastfeeding-push-up-pregnant-underwear-tank-top-cross"/>
+    <title>Wisstt Plus size Nursing Bra Breast Feeding Maternity Wire free Bra Breastfeeding Push Up Pregnant Underwear Tank Top cross</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-239023932.jpg?v=1578613371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> Wisstt</span><br><span><strong>Material:</strong> Spandex,Nylon,Cotton</span><br><span><strong>Support Type:</strong> Wire Free</span><br><span><strong>Strap Type:</strong> Adjusted-straps,Convertible Straps</span><br><span><strong>Closure Type:</strong> Back Closure,Three Hook-and-eye</span><br><span><strong>Model Number:</strong> GNY145</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>Feature:</strong> Maternity</span><br><span><strong>Gender:</strong> Women</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48795680787</id>
+      <title>Gray / 42</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>5358372-gray-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48795680787</id>
+      <title>Gray / 38</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>5358372-gray-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48795680787</id>
+      <title>Gray / 34</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>5358372-gray-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48795680787</id>
+      <title>Gray / 46</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>5358372-gray-46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48795680787</id>
+      <title>Pink / 42</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>5358372-pink-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48795680787</id>
+      <title>Pink / 38</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>5358372-pink-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48795680787</id>
+      <title>Pink / 34</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>5358372-pink-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48795680787</id>
+      <title>Pink / 46</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>5358372-pink-46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48796139539</id>
+    <published>2019-05-21T17:22:28-05:00</published>
+    <updated>2019-05-21T17:22:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/maternity-maxi-dresses-2017-maternity-photography-props-chiffon-vestidos-off-shoulders-maxi-pregnant-dress-pregnancy-photo-shoot"/>
+    <title>Maternity Maxi Dresses 2017 Maternity Photography Props Chiffon Vestidos Off Shoulders Maxi Pregnant Dress Pregnancy Photo Shoot</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-443497611.jpg?v=1578613372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.99 - 27.99
+            <a href="https://www.chmelaeon.com/products/maternity-maxi-dresses-2017-maternity-photography-props-chiffon-vestidos-off-shoulders-maxi-pregnant-dress-pregnancy-photo-shoot">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Style:</strong> Bohemian</span><br><span><strong>Sleeve Length(cm):</strong> Full</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Silhouette:</strong> Straight</span><br><span><strong>Collar:</strong> Shoulderless</span><br><span><strong>Dresses Length:</strong> Ankle-Length</span><br><span><strong>Fabric Type:</strong> Broadcloth</span><br><span><strong>Material:</strong> Cotton,Polyester</span><br><span><strong>Brand Name:</strong> Emmababy</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>Decoration:</strong> None</span><br><span><strong>style:</strong> Off Shoulders Maxi Pregnant Dress</span><br><span><strong>Maternity Maxi Dresses:</strong> Chiffon Vestidos</span><br><span><strong>Maternity Photography Props:</strong> Pregnancy Photo Shoot</span><br><span><strong>women dress:</strong> Pregnant women Dress</span><br><span><strong>Women dresses:</strong> Pregnant women Dresses</span><br><span><strong>Dress:</strong> Pregnant women Long Sleeve Dresses</span><br><span><strong>Dresses:</strong> Pregnant women Long Sleeve Dress</span><br><span><strong>Quality:</strong> High Quality</span><br><span><strong>Season: :</strong> Spring,Autumn,Winter</span><br><span><strong>Price:</strong> Factory Price</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show / S</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>10481457-as-photo-show-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show / M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>10481457-as-photo-show-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10481457-as-photo-show-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show / XL</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>10481457-as-photo-show-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show 1 / S</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>10481457-as-photo-show-1-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show 1 / M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>10481457-as-photo-show-1-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show 1 / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10481457-as-photo-show-1-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show 1 / XL</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>10481457-as-photo-show-1-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show 2 / S</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>10481457-as-photo-show-2-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show 2 / M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>10481457-as-photo-show-2-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show 2 / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10481457-as-photo-show-2-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show 2 / XL</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>10481457-as-photo-show-2-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show 3 / S</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>10481457-as-photo-show-3-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show 3 / M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>10481457-as-photo-show-3-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show 3 / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10481457-as-photo-show-3-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show 3 / XL</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>10481457-as-photo-show-3-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show 4 / S</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>10481457-as-photo-show-4-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show 4 / M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>10481457-as-photo-show-4-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show 4 / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10481457-as-photo-show-4-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796139539</id>
+      <title>As Photo Show 4 / XL</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>10481457-as-photo-show-4-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48796008467</id>
+    <published>2019-05-21T17:22:28-05:00</published>
+    <updated>2019-05-21T17:22:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/vogue-women-padded-bra-nursing-maternity-bras-full-coverage-brassiere-tops-hot-2016"/>
+    <title>Vogue Women Padded Bra Nursing Maternity Bras Full Coverage Brassiere Tops Hot 2016</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-298940794.jpg?v=1578613372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99 - 11.99
+            <a href="https://www.chmelaeon.com/products/vogue-women-padded-bra-nursing-maternity-bras-full-coverage-brassiere-tops-hot-2016">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Feature:</strong> Nursing,Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Brand Name:</strong> COCKCON</span><br><span><strong>Material:</strong> Nylon,Spandex</span><br><span><strong>Support Type:</strong> Wire Free</span><br><span><strong>Closure Type:</strong> Side Closure</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>Strap Type:</strong> Adjusted-straps</span><br><span><strong>Model Number:</strong> X-000</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796008467</id>
+      <title>Black / C</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>6717852-black-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796008467</id>
+      <title>Black / B</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>6717852-black-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796008467</id>
+      <title>Black / A</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>6717852-black-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796008467</id>
+      <title>Skin / C</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>6717852-skin-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796008467</id>
+      <title>Skin / B</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>6717852-skin-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796008467</id>
+      <title>Skin / A</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>6717852-skin-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796008467</id>
+      <title>Green / C</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>6717852-green-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796008467</id>
+      <title>Green / B</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>6717852-green-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796008467</id>
+      <title>Green / A</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>6717852-green-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48796696595</id>
+    <published>2019-05-21T17:22:26-05:00</published>
+    <updated>2019-05-21T17:22:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/wisstt-new-front-closure-high-grade-seamless-cotton-maternity-bra-clothes-for-pregnant-women-gestante-breastfeeding-nursing-bra"/>
+    <title>Wisstt New Front Closure High Grade Seamless Cotton Maternity Bra Clothes For Pregnant Women Gestante Breastfeeding Nursing Bra</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-427991700.jpg?v=1578613373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.99 - 21.99
+            <a href="https://www.chmelaeon.com/products/wisstt-new-front-closure-high-grade-seamless-cotton-maternity-bra-clothes-for-pregnant-women-gestante-breastfeeding-nursing-bra">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Feature:</strong> Nursing,Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Closure Type:</strong> Three Hook-and-eye</span><br><span><strong>Model Number:</strong> GNY016/085</span><br><span><strong>Support Type:</strong> Wire Free</span><br><span><strong>Material:</strong> Spandex,Nylon,Cotton</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>Brand Name:</strong> Wisstt</span><br><span><strong>Strap Type:</strong> Adjusted-straps</span><br><span><strong>Lining:</strong> Cotton Nursing bra</span><br><span><strong>Design style:</strong> Breast Feeding Nursing bra Front Closure</span><br><span><strong>Closure Type:</strong> Back Closure,Three Hook-and-eye</span><br><span><strong>Mode of cup:</strong> Thin cup Maternity Clothes</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>Feature:</strong> Nursing,Maternity</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796696595</id>
+      <title>Pink / 40</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>637558-pink-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796696595</id>
+      <title>Pink / 36</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>637558-pink-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796696595</id>
+      <title>Pink / 42</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>637558-pink-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796696595</id>
+      <title>Black / 40</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>637558-black-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796696595</id>
+      <title>Black / 36</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>637558-black-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796696595</id>
+      <title>Black / 42</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>637558-black-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796696595</id>
+      <title>beige / 40</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>637558-beige-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796696595</id>
+      <title>beige / 36</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>637558-beige-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796696595</id>
+      <title>beige / 42</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>637558-beige-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48796991507</id>
+    <published>2019-05-21T17:22:24-05:00</published>
+    <updated>2019-05-21T17:22:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/9077-2017-maternity-clothing-summer-twinset-lace-maternity-one-piece-dress-white-embroidery-maternity-dress-for-pregnant"/>
+    <title>9077 2017 maternity clothing summer twinset lace maternity one-piece dress white embroidery maternity dress For Pregnant</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-368956911.jpg?v=1578613374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Dresses Length:</strong> Knee-Length</span><br><span><strong>Silhouette:</strong> A-Line</span><br><span><strong>Pattern Type:</strong> Floral</span><br><span><strong>Style:</strong> Casual</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>Decoration:</strong> None</span><br><span><strong>Collar:</strong> Boat Neck</span><br><span><strong>Sleeve Length(cm):</strong> Short</span><br><span><strong>Fabric Type:</strong> Lace</span><br><span><strong>Material:</strong> Polyester</span><br><span><strong>Listing of the year season:</strong> summer</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796991507</id>
+      <title>White / M</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>8430569-white-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796991507</id>
+      <title>White / L</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>8430569-white-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796991507</id>
+      <title>White / XL</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>8430569-white-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48796991507</id>
+      <title>White / XXL</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>8430569-white-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48797450259</id>
+    <published>2019-05-21T17:22:22-05:00</published>
+    <updated>2019-05-21T17:22:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/women-summer-bohemian-style-long-chiffon-dress-ladies-clothes-pregnant-maternity-dresses-maternidade-pregnancy-clothing"/>
+    <title>Women Summer Bohemian Style Long Chiffon Dress Ladies Clothes Pregnant Maternity Dresses Maternidade Pregnancy Clothing</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-301630985.jpg?v=1578613375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Decoration:</strong> None</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Style:</strong> Casual</span><br><span><strong>Brand Name:</strong> XEIOBB</span><br><span><strong>Fabric Type:</strong> Chiffon</span><br><span><strong>Material:</strong> Polyester</span><br><span><strong>Dresses Length:</strong> Ankle-Length</span><br><span><strong>Silhouette:</strong> A-Line</span><br><span><strong>Collar:</strong> Boat Neck</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>Sleeve Length(cm):</strong> Sleeveless</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797450259</id>
+      <title>Green / free size</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>6791689-green-free-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797450259</id>
+      <title>Khaki / free size</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>6791689-khaki-free-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797450259</id>
+      <title>Pink / free size</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>6791689-pink-free-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797450259</id>
+      <title>Purple / free size</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>6791689-purple-free-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797450259</id>
+      <title>Red / free size</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>6791689-red-free-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797450259</id>
+      <title>Wine red / free size</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>6791689-wine-red-free-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797450259</id>
+      <title>Black / free size</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>6791689-black-free-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797450259</id>
+      <title>Blue / free size</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>6791689-blue-free-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48797777939</id>
+    <published>2019-05-21T17:22:21-05:00</published>
+    <updated>2019-05-21T17:22:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/fashion-women-nursing-pregnant-breastfeeding-maternity-feeding-cotton-bra-36-38-40-42-b-cup"/>
+    <title>Fashion Women Nursing Pregnant Breastfeeding Maternity Feeding Cotton Bra 36 38 40 42 B Cup</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-491915460.jpg?v=1578613376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Material:</strong> Cotton</span><br><span><strong>Support Type:</strong> Underwire</span><br><span><strong>Strap Type:</strong> Adjusted-straps</span><br><span><strong>Closure Type:</strong> Front Closure</span><br><span><strong>Model Number:</strong> Maternity bra</span><br><span><strong>Color Style:</strong> Gradient</span><br><span><strong>Feature:</strong> Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Brand Name:</strong> qianquhui</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797777939</id>
+      <title>Pink / B / 36</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>11761813-pink-b-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797777939</id>
+      <title>Pink / B / 38</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>11761813-pink-b-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797777939</id>
+      <title>Pink / B / 40</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>11761813-pink-b-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797777939</id>
+      <title>Pink / B / 42</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>11761813-pink-b-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797777939</id>
+      <title>Yellow / B / 36</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>11761813-yellow-b-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797777939</id>
+      <title>Yellow / B / 38</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>11761813-yellow-b-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797777939</id>
+      <title>Yellow / B / 40</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>11761813-yellow-b-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797777939</id>
+      <title>Yellow / B / 42</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>11761813-yellow-b-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48797876243</id>
+    <published>2019-05-21T17:22:20-05:00</published>
+    <updated>2019-05-21T17:22:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/new-pregnant-mum-maternity-bra-baby-feeding-wireless-cotton-nursing-bras-breastfeeding-underwear-brassiere-xv3"/>
+    <title>New Pregnant Mum Maternity Bra Baby Feeding Wireless Cotton Nursing Bras Breastfeeding Underwear Brassiere XV3</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-409396963.jpg?v=1578613376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> Jspoir Melodiz</span><br><span><strong>Support Type:</strong> Wire Free</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>Strap Type:</strong> Adjusted-straps</span><br><span><strong>Model Number:</strong> 139941</span><br><span><strong>Closure Type:</strong> Back Closure</span><br><span><strong>Material:</strong> Nylon</span><br><span><strong>Feature:</strong> Maternity</span><br><span><strong>Gender:</strong> Women</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797876243</id>
+      <title>Beige / 34</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9564914-beige-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797876243</id>
+      <title>Beige / 40</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9564914-beige-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797876243</id>
+      <title>Black / 40</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9564914-black-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797876243</id>
+      <title>White / 40</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9564914-white-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797876243</id>
+      <title>Black / 34</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9564914-black-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797876243</id>
+      <title>White / 34</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9564914-white-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797876243</id>
+      <title>Beige / 36</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9564914-beige-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797876243</id>
+      <title>Black / 36</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9564914-black-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797876243</id>
+      <title>White / 36</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9564914-white-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797876243</id>
+      <title>Beige / 38</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9564914-beige-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797876243</id>
+      <title>Black / 38</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9564914-black-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48797876243</id>
+      <title>White / 38</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9564914-white-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48798269459</id>
+    <published>2019-05-21T17:22:18-05:00</published>
+    <updated>2019-05-21T17:22:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/le-couple-maternity-dresses-photography-props-wear-fashion-summer-ruffles-maternity-dress-clothing-slash-neck-lace-dresses"/>
+    <title>Le Couple Maternity Dresses Photography Props Wear Fashion Summer Ruffles Maternity Dress Clothing Slash Neck Lace Dresses</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-467896441.jpg?v=1578613377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Dresses Length:</strong> Knee-Length</span><br><span><strong>Brand Name:</strong> Le Couple</span><br><span><strong>Silhouette:</strong> Beach</span><br><span><strong>Style:</strong> Cute</span><br><span><strong>Fabric Type:</strong> Lace</span><br><span><strong>Material:</strong> Polyester,Spandex,Rayon,Lace</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Collar:</strong> Shoulderless</span><br><span><strong>Sleeve Length(cm):</strong> Sleeveless</span><br><span><strong>Decoration:</strong> Lace</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>Color Style:</strong> white</span><br><span><strong>sexy:</strong> maternity photography props</span><br><span><strong>V neck:</strong> lace beach long dress</span><br><span><strong>black lace :</strong> robe longue femme</span><br><span><strong>plus size:</strong> maternity lace dress</span><br><span><strong>solid floor length:</strong> pregnancy dress</span><br><span><strong>fancy photography props:</strong> lace dress</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798269459</id>
+      <title>White / M</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>2003795-white-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798269459</id>
+      <title>White / L</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>2003795-white-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798269459</id>
+      <title>White / XL</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>2003795-white-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798269459</id>
+      <title>Black / M</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>2003795-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798269459</id>
+      <title>Black / L</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>2003795-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798269459</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>2003795-black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48798138387</id>
+    <published>2019-05-21T17:22:18-05:00</published>
+    <updated>2019-05-21T17:22:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/2017-pregnant-women-cotton-soft-wire-free-breastfeeding-bra-maternity-nursing-feeding-bra-a-b-c-d-cup"/>
+    <title>2017 Pregnant Women Cotton Soft Wire Free Breastfeeding Bra Maternity Nursing Feeding Bra A B C D Cup</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-290044587.jpg?v=1578613377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99 - 10.99
+            <a href="https://www.chmelaeon.com/products/2017-pregnant-women-cotton-soft-wire-free-breastfeeding-bra-maternity-nursing-feeding-bra-a-b-c-d-cup">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Feature:</strong> Nursing,Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Support Type:</strong> Underwire</span><br><span><strong>Closure Type:</strong> Side Closure</span><br><span><strong>Material:</strong> Cotton</span><br><span><strong>Model Number:</strong> LY2383</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>Brand Name:</strong> WEIXINBUY</span><br><span><strong>Strap Type:</strong> Adjusted-straps</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798138387</id>
+      <title>Black / D</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>6587991-black-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798138387</id>
+      <title>Black / B</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>6587991-black-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798138387</id>
+      <title>Black / A</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>6587991-black-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798138387</id>
+      <title>Black / C</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>6587991-black-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798138387</id>
+      <title>Beige / D</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>6587991-beige-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798138387</id>
+      <title>Beige / B</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>6587991-beige-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798138387</id>
+      <title>Beige / A</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>6587991-beige-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798138387</id>
+      <title>Beige / C</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>6587991-beige-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798138387</id>
+      <title>Pink / D</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>6587991-pink-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798138387</id>
+      <title>Pink / B</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>6587991-pink-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798138387</id>
+      <title>Pink / A</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>6587991-pink-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798138387</id>
+      <title>Pink / C</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>6587991-pink-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48798597139</id>
+    <published>2019-05-21T17:22:14-05:00</published>
+    <updated>2019-05-21T17:22:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/gravidas-jumpsuit-maternity-pants-long-pregnancy-clothes-for-pregnant-women-overalls-roupa-gestante-trousers-autumn-winter"/>
+    <title>Gravidas Jumpsuit Maternity Pants Long Pregnancy Clothes For Pregnant Women Overalls Roupa Gestante Trousers Autumn Winter</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-461685312.jpg?v=1578613378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.99 - 38.99
+            <a href="https://www.chmelaeon.com/products/gravidas-jumpsuit-maternity-pants-long-pregnancy-clothes-for-pregnant-women-overalls-roupa-gestante-trousers-autumn-winter">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Decoration:</strong> Pattern</span><br><span><strong>Model Number:</strong> PANT01</span><br><span><strong>Brand Name:</strong> Envsoll</span><br><span><strong>Fabric Type:</strong> Broadcloth</span><br><span><strong>Material:</strong> Cotton</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>Fit Type:</strong> Straight</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798597139</id>
+      <title>only pant / M</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2308201-only-pant-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798597139</id>
+      <title>only pant / L</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2308201-only-pant-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798597139</id>
+      <title>only pant / XL</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2308201-only-pant-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798597139</id>
+      <title>only pant / XXL</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2308201-only-pant-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798597139</id>
+      <title>White / XL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>2308201-white-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798597139</id>
+      <title>White / L</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>2308201-white-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798597139</id>
+      <title>White / M</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>2308201-white-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798597139</id>
+      <title>White / XXL</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2308201-white-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48798695443</id>
+    <published>2019-05-21T17:22:13-05:00</published>
+    <updated>2019-05-21T17:22:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/2017-new-breast-feeding-maternity-nursing-bra-sleep-bra-for-nursing-pregnant-women-breastfeeding-cotton-wire-free-bras-underwear"/>
+    <title>2017 New Breast Feeding Maternity Nursing Bra sleep bra for nursing pregnant women Breastfeeding cotton Wire free Bras underwear</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-307535932.jpg?v=1578613378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99 - 16.99
+            <a href="https://www.chmelaeon.com/products/2017-new-breast-feeding-maternity-nursing-bra-sleep-bra-for-nursing-pregnant-women-breastfeeding-cotton-wire-free-bras-underwear">(36 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Feature:</strong> Nursing,Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Closure Type:</strong> Three Hook-and-eye</span><br><span><strong>Support Type:</strong> Wire Free</span><br><span><strong>Model Number:</strong> AZ929</span><br><span><strong>Brand Name:</strong> Bear Leader</span><br><span><strong>Material:</strong> Cotton</span><br><span><strong>Strap Type:</strong> Non-Convertible Straps,Adjusted-straps</span><br><span><strong>Color Style:</strong> Natural Color</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>green / One Size / 34</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6946539-green-one-size-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>green / One Size / 36</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-green-one-size-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>green / One Size / 38</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-green-one-size-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>green / One Size / 40</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-green-one-size-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>purple / One Size / 34</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-purple-one-size-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>purple / One Size / 36</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-purple-one-size-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>purple / One Size / 38</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-purple-one-size-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>purple / One Size / 40</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-purple-one-size-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>lavender / One Size / 34</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6946539-lavender-one-size-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>lavender / One Size / 36</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-lavender-one-size-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>lavender / One Size / 38</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-lavender-one-size-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>lavender / One Size / 40</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-lavender-one-size-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>pink / One Size / 34</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6946539-pink-one-size-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>pink / One Size / 36</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-pink-one-size-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>pink / One Size / 38</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-pink-one-size-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>pink / One Size / 40</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-pink-one-size-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>beige / One Size / 34</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6946539-beige-one-size-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>beige / One Size / 36</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-beige-one-size-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>beige / One Size / 38</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-beige-one-size-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>beige / One Size / 40</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-beige-one-size-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>ivory white / One Size / 34</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-ivory-white-one-size-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>ivory white / One Size / 36</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-ivory-white-one-size-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>ivory white / One Size / 38</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-ivory-white-one-size-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>ivory white / One Size / 40</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-ivory-white-one-size-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>khaki / One Size / 34</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6946539-khaki-one-size-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>khaki / One Size / 36</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-khaki-one-size-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>khaki / One Size / 38</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-khaki-one-size-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>khaki / One Size / 40</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-khaki-one-size-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>navy blue / One Size / 34</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6946539-navy-blue-one-size-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>navy blue / One Size / 36</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-navy-blue-one-size-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>navy blue / One Size / 38</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-navy-blue-one-size-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>navy blue / One Size / 40</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-navy-blue-one-size-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>rose red / One Size / 34</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6946539-rose-red-one-size-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>rose red / One Size / 36</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-rose-red-one-size-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>rose red / One Size / 38</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-rose-red-one-size-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798695443</id>
+      <title>rose red / One Size / 40</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6946539-rose-red-one-size-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48798826515</id>
+    <published>2019-05-21T17:22:12-05:00</published>
+    <updated>2019-05-21T17:22:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/fashoin-maternity-dresses-long-chiffon-bohemian-dress-clothes-for-pregnant-women-maternity-pregnancy-clothing-q92"/>
+    <title>Fashoin Maternity Dresses long Chiffon Bohemian Dress Clothes For Pregnant Women Maternity Pregnancy Clothing Q92</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-461466337.jpg?v=1578613379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Style:</strong> Bohemian</span><br><span><strong>Silhouette:</strong> Asymmetrical</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Dresses Length:</strong> Ankle-Length</span><br><span><strong>Sleeve Length(cm):</strong> Sleeveless</span><br><span><strong>Collar:</strong> V-Neck</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>Fabric Type:</strong> Chiffon</span><br><span><strong>Decoration:</strong> None</span><br><span><strong>Brand Name:</strong> RQjplou</span><br><span><strong>Material:</strong> Polyester,Lace</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>1 / L</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-1-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>1 / M</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-1-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>1 / S</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-1-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>1 / XL</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-1-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>1 / XXL</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-1-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>2 / L</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-2-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>2 / M</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-2-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>2 / S</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-2-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>2 / XL</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-2-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>2 / XXL</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-2-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>3 / L</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-3-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>3 / M</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-3-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>3 / S</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-3-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>3 / XL</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-3-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>3 / XXL</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-3-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>4 / L</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-4-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>4 / M</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-4-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>4 / S</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-4-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>4 / XL</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-4-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798826515</id>
+      <title>4 / XXL</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>7671677-4-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48798760979</id>
+    <published>2019-05-21T17:22:12-05:00</published>
+    <updated>2019-05-21T17:22:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/large-capacity-baby-diaper-bag-travel-backpack-nappy-changing-stroller-bag-organizer-mummy-mother-maternity-baby-nursing-bag"/>
+    <title>Large Capacity Baby Diaper Bag Travel Backpack Nappy Changing Stroller Bag Organizer Mummy Mother Maternity Baby Nursing Bag</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-382802678.jpg?v=1578613379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Diaper Bags</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Item Height:</strong> 40cm</span><br><span><strong>Brand Name:</strong> aboutbaby</span><br><span><strong>Model Number:</strong> ws264</span><br><span><strong>Closure Type:</strong> Zipper</span><br><span><strong>Size:</strong> (30cm</span><br><span><strong>Main Material:</strong> Polyester</span><br><span><strong>Item Width:</strong> 12cm</span><br><span><strong>Style:</strong> Backpack</span><br><span><strong>Item Weight:</strong> 0.59kg</span><br><span><strong>Item Length:</strong> 30cm</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798760979</id>
+      <title>Blue</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>8838547-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798760979</id>
+      <title>Gray</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>8838547-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48798760979</id>
+      <title>Black</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>8838547-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48799744019</id>
+    <published>2019-05-21T17:22:03-05:00</published>
+    <updated>2019-05-21T17:22:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/maternity-nursing-bras-wireless-lace-open-button-underwear-woman-breast-feeding-for-pregnant-women-gestante-clothes-cup-a-e"/>
+    <title>Maternity Nursing Bras Wireless Lace Open Button UNDERWEAR WOMAN Breast Feeding For Pregnant Women Gestante Clothes Cup A-E</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-238727675.jpg?v=1578613381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Feature:</strong> Nursing,Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Closure Type:</strong> Three Hook-and-eye,Front Closure,Back Closure</span><br><span><strong>Model Number:</strong> nursing</span><br><span><strong>Brand Name:</strong> XEIOBB</span><br><span><strong>Support Type:</strong> Wire Free</span><br><span><strong>Material:</strong> Cotton</span><br><span><strong>Strap Type:</strong> Non-Convertible Straps,Adjusted-straps</span><br><span><strong>Color Style:</strong> Natural Color</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / A / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-a-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / A / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-a-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / A / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-a-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / A / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-a-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / A / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-a-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / B / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-b-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / B / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-b-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / B / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-b-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / B / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-b-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / B / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-b-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / C / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-c-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / C / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-c-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / C / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-c-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / C / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-c-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / C / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-c-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / D / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-d-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / D / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-d-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / D / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-d-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / D / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-d-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / D / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-d-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / E / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-e-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / E / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-e-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / E / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-e-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / E / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-e-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>01 / E / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-01-e-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / A / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-a-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / A / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-a-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / A / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-a-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / A / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-a-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / A / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-a-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / B / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-b-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / B / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-b-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / B / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-b-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / B / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-b-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / B / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-b-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / C / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-c-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / C / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-c-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / C / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-c-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / C / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-c-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / C / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-c-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / D / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-d-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / D / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-d-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / D / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-d-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / D / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-d-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / D / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-d-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / E / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-e-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / E / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-e-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / E / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-e-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / E / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-e-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>02 / E / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-02-e-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / A / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-a-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / A / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-a-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / A / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-a-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / A / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-a-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / A / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-a-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / B / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-b-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / B / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-b-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / B / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-b-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / B / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-b-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / B / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-b-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / C / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-c-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / C / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-c-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / C / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-c-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / C / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-c-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / C / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-c-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / D / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-d-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / D / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-d-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / D / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-d-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / D / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-d-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / D / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-d-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / E / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-e-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / E / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-e-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / E / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-e-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / E / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-e-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>03 / E / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-03-e-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / A / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-a-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / A / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-a-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / A / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-a-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / A / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-a-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / A / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-a-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / B / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-b-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / B / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-b-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / B / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-b-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / B / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-b-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / B / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-b-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / C / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-c-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / C / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-c-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / C / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-c-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / C / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-c-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / C / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-c-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / D / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-d-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / D / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-d-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / D / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-d-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / D / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-d-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / D / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-d-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / E / 34</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-e-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / E / 36</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-e-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / E / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-e-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / E / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-e-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48799744019</id>
+      <title>04 / E / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>5350641-04-e-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48800235539</id>
+    <published>2019-05-21T17:22:00-05:00</published>
+    <updated>2019-05-21T17:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/elastic-waist-maternity-leisure-trousers-for-pregnancy-clothes-for-pregnant-women-spring-autumn-2017maternity-plus-size-5color"/>
+    <title>Elastic Waist Maternity Leisure trousers For Pregnancy Clothes For Pregnant Women  spring/autumn 2017Maternity Plus Size 5color</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-279493112.jpg?v=1578613382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Decoration:</strong> Pockets,Ruched,Patchwork,Button</span><br><span><strong>Model Number:</strong> NY-16</span><br><span><strong>Brand Name:</strong> LOW LUV</span><br><span><strong>Material:</strong> Spandex,Cotton</span><br><span><strong>Fabric Type:</strong> Knitted</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>Fit Type:</strong> Regular</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>BLACK / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>BLACK / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>BLACK / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>BLACK / XXL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-black-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>NAVY / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-navy-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>NAVY / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-navy-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>NAVY / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-navy-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>NAVY / XXL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-navy-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>dark grey / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-dark-grey-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>dark grey / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-dark-grey-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>dark grey / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-dark-grey-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>dark grey / XXL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-dark-grey-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>PINK / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-pink-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>PINK / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-pink-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>PINK / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-pink-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>PINK / XXL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-pink-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>Light grey / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-light-grey-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>Light grey / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-light-grey-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>Light grey / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-light-grey-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800235539</id>
+      <title>Light grey / XXL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2247291-light-grey-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/48800759827</id>
+    <published>2019-05-21T17:21:58-05:00</published>
+    <updated>2019-05-21T17:21:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/fiber-nursing-bra-maternity-breast-feeding-bras-for-pregnant-women-new"/>
+    <title>Fiber Nursing Bra Maternity Breast Feeding Bras For Pregnant Women NEW</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-250205579.jpg?v=1578613383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99 - 7.99
+            <a href="https://www.chmelaeon.com/products/fiber-nursing-bra-maternity-breast-feeding-bras-for-pregnant-women-new">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Feature:</strong> Nursing,Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>Brand Name:</strong> KLV</span><br><span><strong>Material:</strong> Cotton</span><br><span><strong>Support Type:</strong> Wire Free</span><br><span><strong>Closure Type:</strong> Front Closure,Three Hook-and-eye</span><br><span><strong>Color Style:</strong> Natural Color</span><br><span><strong>Strap Type:</strong> Adjusted-straps</span><br><span><strong>Model Number:</strong> 101838</span><br><span><strong>Feature:</strong> Nursing,Maternity</span><br><span><strong>Gender:</strong> Women</span><br><span><strong>size:</strong> XXXL (for 90(40)B/C/D, 100(42)B/C/D )</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Beige / 32</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5618477-beige-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Beige / 34</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5618477-beige-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Beige / 36</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5618477-beige-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Beige / 38</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5618477-beige-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Beige / 40</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5618477-beige-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Black / 32</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>5618477-black-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Black / 34</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5618477-black-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Black / 36</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>5618477-black-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Black / 38</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>5618477-black-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Black / 40</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>5618477-black-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Blue / 32</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>5618477-blue-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Blue / 34</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5618477-blue-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Blue / 36</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>5618477-blue-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Blue / 38</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>5618477-blue-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Blue / 40</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>5618477-blue-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Sky Blue / 32</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5618477-sky-blue-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Sky Blue / 34</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5618477-sky-blue-34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Sky Blue / 36</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5618477-sky-blue-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Sky Blue / 38</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5618477-sky-blue-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/48800759827</id>
+      <title>Sky Blue / 40</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5618477-sky-blue-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

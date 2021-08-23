@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.chmelaeon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.chmelaeon.com/collections/tools.atom"/>
+  <title>Chmelaeon</title>
+  <updated>2020-04-23T00:22:41-05:00</updated>
+  <author>
+    <name>Chmelaeon</name>
+  </author>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4573863379007</id>
+    <published>2020-04-23T00:22:41-05:00</published>
+    <updated>2020-04-23T00:22:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/braun-all-in-one-trimmer-7-barber-hair-clippers-10-in-1-shave-trim-kit-mgk7221"/>
+    <title>Braun all in One Trimmer 7 Barber Hair Clippers 10 In 1 Shave &amp; Trim Kit MGK7221</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/20200423-002650.jpg?v=1587619740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b><span face="Georgia" size="5" style="font-family: Georgia; font-size: x-large;">Braun all in One Trimmer 7 MGK7221 Barber Hair Clippers 10 In 1 Shave &amp; Trim Kit.</span></b></p>
+<p> </p>
+<p><b><span face="Georgia" size="5" style="font-family: Georgia; font-size: x-large;">New in box ! </span></b></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4573863379007</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4516401512511</id>
+    <published>2020-03-20T18:19:39-05:00</published>
+    <updated>2020-03-20T18:19:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/ttlife-1pc-bear-claws-barbecue-fork-manual-pull-meat-shred-pork-clamp-roasting-fork-kitchen-bbq-tools"/>
+    <title>TTLIFE 1pc Bear Claws Barbecue Fork Manual Pull Meat Shred Pork Clamp Roasting Fork Kitchen BBQ Tools</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99 - 19.99
+            <a href="https://www.chmelaeon.com/products/ttlife-1pc-bear-claws-barbecue-fork-manual-pull-meat-shred-pork-clamp-roasting-fork-kitchen-bbq-tools">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> TTLIFE</span><br><span><strong>Tool Type:</strong> Forks</span><br><span><strong>Feature:</strong> Easily Cleaned</span><br><span><strong>Feature:</strong> Heat Resistance</span><br><span><strong>Material:</strong> Other</span><br><span><strong>Kit Number:</strong> 2</span><br><span><strong>Finishing:</strong> Not Coated</span><br><span><strong>For The Number:</strong> 1</span><br><span><strong>Model Number:</strong> HWYS006602001</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4516401512511</id>
+      <title>1pc</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18668177-1pc</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4516401512511</id>
+      <title>2pcs</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>18668177-2pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4516401512511</id>
+      <title>3pcs</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>18668177-3pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4516401479743</id>
+    <published>2020-03-20T18:19:39-05:00</published>
+    <updated>2020-03-20T18:19:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/meijuner-1pc-bear-claws-barbecue-fork-manual-pull-meat-shred-pork-clamp-roasting-fork-kitchen-bbq-tools-pull-shred-pork-shredde"/>
+    <title>Meijuner 1pc Bear Claws Barbecue Fork Manual Pull Meat Shred Pork Clamp Roasting Fork Kitchen BBQ Tools Pull Shred Pork Shredde</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1271460797.jpg?v=1584746382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> Meijuner</span><br><span><strong>Tool Type:</strong> Forks</span><br><span><strong>Kit Number:</strong> 2</span><br><span><strong>Finishing:</strong> Not Coated</span><br><span><strong>Feature:</strong> Easily Cleaned</span><br><span><strong>Feature:</strong> Heat Resistance</span><br><span><strong>Feature:</strong> Non-Stick</span><br><span><strong>Material:</strong> Plastic</span><br><span><strong>Plastic Type:</strong> PEVA</span><br><span><strong>Model Number:</strong> MR009</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4516401479743</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>29252711-1pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4491295883327</id>
+    <published>2020-02-16T19:27:17-06:00</published>
+    <updated>2020-02-16T19:27:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/new-creative-5in1-silicone-remover-caulk-finisher-sealant-smooth-scraper-grout-kit-tools-plastic-hand-tools-set-accessories-007"/>
+    <title>NEW Creative 5In1 Silicone Remover Caulk Finisher Sealant Smooth Scraper Grout Kit Tools Plastic Hand Tools Set Accessories #007</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-990017350.jpg?v=1581902840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Usage:</strong> Silicone Remover Caulk Finisher</span><br><span><strong>Feature:</strong> Stocked</span><br><span><strong>Feature:</strong> Eco-Friendly</span><br><span><strong>Handle Material:</strong> Plastic</span><br><span><strong>Model Number:</strong> FLL90405675</span><br><span><strong>Squeegee Material:</strong> Stainless Steel</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4491295883327</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>26999207-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1941583396927</id>
+    <published>2019-07-29T22:18:42-05:00</published>
+    <updated>2019-07-29T22:18:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/premium-aluminum-alloy-cap-oil-filter-wrench-car-hand-tool-housing-tool-remover-for-btw-chery-golf-dropship-11-20"/>
+    <title>Premium Aluminum Alloy Cap Oil Filter Wrench Car Hand Tool Housing Tool Remover for BTW /Chery /Golf Dropship 11.20</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-990081363.jpg?v=1578614164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99 - 13.99
+            <a href="https://www.chmelaeon.com/products/premium-aluminum-alloy-cap-oil-filter-wrench-car-hand-tool-housing-tool-remover-for-btw-chery-golf-dropship-11-20">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Special Type</span><br><span><strong>Set Piece:</strong> 1PCS</span><br><span><strong>901:</strong> Inner diameter 65mm</span><br><span><strong>902:</strong> Inner diameter 67mm</span><br><span><strong>903:</strong> Inner diameter 74mm</span><br><span><strong>904:</strong> Inner diameter 79mm</span><br><span><strong>Dropship:</strong> support</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583396927</id>
+      <title>65mm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>27001778-65mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583396927</id>
+      <title>67mm</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>27001778-67mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583396927</id>
+      <title>74mm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>27001778-74mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583396927</id>
+      <title>79mm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>27001778-79mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1941583298623</id>
+    <published>2019-07-29T22:18:42-05:00</published>
+    <updated>2019-07-29T22:18:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/64-5mm-aluminum-oil-filter-wrench-cap-socket-remover-tool-for-lexus-toyota-lexus-corolla-highlander-rav4-camry-universal-housing"/>
+    <title>64.5mm Aluminum Oil Filter Wrench Cap Socket Remover Tool for Lexus Toyota Lexus Corolla Highlander RAV4 Camry Universal Housing</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-868174174.jpg?v=1578614164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99 - 16.99
+            <a href="https://www.chmelaeon.com/products/64-5mm-aluminum-oil-filter-wrench-cap-socket-remover-tool-for-lexus-toyota-lexus-corolla-highlander-rav4-camry-universal-housing">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Set Piece:</strong> 1</span><br><span><strong>Type:</strong> Special Type</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583298623</id>
+      <title>Silver</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>22382553-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583298623</id>
+      <title>Black</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>22382553-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1941583036479</id>
+    <published>2019-07-29T22:18:40-05:00</published>
+    <updated>2019-07-29T22:18:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/new-car-motorcycle-brake-bleeder-clutch-bleeding-hose-tool-kit-one-way-valve-tube-dxy88"/>
+    <title>New Car Motorcycle Brake Bleeder Clutch Bleeding Hose Tool Kit One Way Valve &amp;Tube DXY88</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-452419431.jpg?v=1578614164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Oil Filters</span><br><span><strong>Model Name:</strong> -</span><br><span><strong>Item Length:</strong> 45</span><br><span><strong>Item Weight:</strong> 40</span><br><span><strong>Material Type:</strong> -</span><br><span><strong>Brand Name:</strong> Vecligt</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941583036479</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>10729576-clear</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1933425246271</id>
+    <published>2019-07-24T19:18:13-05:00</published>
+    <updated>2019-07-24T19:18:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/50pcs-hss-titanium-coated-drill-bits-high-speed-steel-drill-bit-set-high-quality-power-drilling-tools-for-wood-1-1-5-2-2-5-3mm"/>
+    <title>50Pcs HSS Titanium Coated Drill Bits High Speed Steel Drill Bit Set High Quality Power Drilling Tools for Wood 1/1.5/2/2.5/3mm</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-937838098.jpg?v=1578614163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Twist Drill Bit</span><br><span><strong>DIY Supplies:</strong> Woodworking</span><br><span><strong>Model Number:</strong> Extractor Drill Bits Set</span><br><span><strong>Material:</strong> High Speed Steel</span><br><span><strong>Use:</strong> Wood Drilling</span><br><span><strong>is_customized:</strong> Yes</span><br><span><strong>length:</strong> 1mm,1.5mm,2mm,2.5mm,3mm Drill Bit</span><br><span><strong>Brand Name:</strong> Mayitr</span><br><span><strong>Quantities:</strong> Titanium Coated Drill Bit</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1933425246271</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>6057504</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1917462183999</id>
+    <published>2019-07-13T13:32:05-05:00</published>
+    <updated>2019-07-13T13:32:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/bike-tire-tubeless-sealant-60ml-syringe-rubber-hose-kit-for-inner-tube-mtb-road-bicycle-tire-tubeless-valves"/>
+    <title>Bike tire tubeless sealant 60ml syringe rubber hose kit for inner tube mtb road bicycle tire tubeless valves</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-782942721.jpg?v=1578614162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Tire</span><br><span><strong>Width:</strong> 2.125"</span><br><span><strong>Use:</strong> Mountain Bikes</span><br><span><strong>Use:</strong> Cruisers</span><br><span><strong>Use:</strong> Road Bicycles</span><br><span><strong>Use:</strong> Kids' Bikes</span><br><span><strong>Use:</strong> BMX</span><br><span><strong>Size:</strong> 22-28inches</span><br><span><strong>Model Number:</strong> Bicycle tubeless syringe and rubber hose</span><br><span><strong>Brand Name:</strong> DRIFT MANIAC</span><br><span><strong>Name :</strong> Bicycle tubeless syringe and rubber hose</span><br><span><strong>Bicycle syringe volume:</strong> 60ml</span><br><span><strong>Bicycle rubber hose length:</strong> 20cm</span><br><span><strong>Tubeless valve stem diameter :</strong> 6mm</span><br><span><strong>Compatible for 01:</strong> mtb tire</span><br><span><strong>Compatible for 02:</strong> bmx tire</span><br><span><strong>Compatible for 03:</strong> road tire</span><br><span><strong>Compatible for 04:</strong> Bicycle accessary</span><br><span><strong>Sale unit :</strong> 1 piece of syringe and 1 piece of rubber hose</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462183999</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>19099988-syringe-rubber-hose</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1917462151231</id>
+    <published>2019-07-13T13:32:05-05:00</published>
+    <updated>2019-07-13T13:32:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/bike-tire-tubeless-sealant-60ml-syringe-rubber-hose-kit-for-inner-tube-mtb-road-bicycle-tire-tubeless-valves-core-tools"/>
+    <title>Bike tire tubeless sealant 60ml syringe rubber hose kit for inner tube mtb road bicycle tire tubeless valves core tools</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1012134214.jpg?v=1578614162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Tire</span><br><span><strong>Width:</strong> 2.125"</span><br><span><strong>Use:</strong> Mountain Bikes,Cruisers,Road Bicycles,BMX</span><br><span><strong>Size:</strong> 24 * 1.50</span><br><span><strong>Model Number:</strong> Bicycle tubeless tool</span><br><span><strong>Brand Name:</strong> DRIFT MANIAC</span><br><span><strong>Name:</strong> Bicycle tubeless syringe and valve core tool kit</span><br><span><strong>Bicycle syringe volume:</strong> 60ml</span><br><span><strong>Bicycle rubber hose length:</strong> 20cm</span><br><span><strong>Tubeless valve stem diameter:</strong> 6mm</span><br><span><strong>Valve core tool weight:</strong> 9g</span><br><span><strong>Valve core tool feature:</strong> 3 in 1 tool</span><br><span><strong>Compatible:</strong> Presta valve</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462151231</id>
+      <title>syringe black tool</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>27776200-syringe-black-tool</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462151231</id>
+      <title>syringe red tool</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>27776200-syringe-red-tool</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1875994869823</id>
+    <published>2019-06-17T23:26:58-05:00</published>
+    <updated>2019-06-17T23:26:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/cofoe-rechargeable-bte-hearing-aid-for-the-elderly-hearing-loss-sound-amplifier-ear-care-tools-2-color-adjustable-hearing-aids"/>
+    <title>Cofoe Rechargeable BTE Hearing Aid for The Elderly  Hearing Loss Sound Amplifier Ear Care Tools 2 Color Adjustable Hearing Aids</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-937943075.jpg?v=1578614162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Ear Care</span><br><span><strong>Material:</strong> SAP</span><br><span><strong>Model Number:</strong> ZDB-100M</span><br><span><strong>Size:</strong> 40mm*35mm*8mm</span><br><span><strong>Brand Name:</strong> Cofoe</span><br><span><strong>Product Name :</strong> BTE Hearing Aid</span><br><span><strong>Battery Capacity:</strong> 30</span><br><span><strong>Charging Time:</strong> 4~8 h</span><br><span><strong>Working Time:</strong> 11-16 h</span><br><span><strong>Color:</strong> Blue &amp; Skin</span><br><span><strong>Mainframe Weight :</strong> 7g</span><br><span><strong>Ear Plug :</strong> 3 sizes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1875994869823</id>
+      <title>China / Skin</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>11982121-china-skin</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1875994869823</id>
+      <title>Russian Federation / Skin</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>11982121-russian-federation-skin</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1875994869823</id>
+      <title>China / Blue</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>11982121-china-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1875994869823</id>
+      <title>Russian Federation / Blue</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>11982121-russian-federation-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11548160851</id>
+    <published>2019-05-21T19:06:29-05:00</published>
+    <updated>2019-05-21T19:06:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/xcan-hot-sale-1pcs-3-13mm-hss-titanium-coated-stepped-drill-power-tools-carbide-drill-mini-drill-bit-drill-bit-set"/>
+    <title>Xcan Hot Sale 1pcs 3-13mm HSS Titanium coated stepped drill Power Tools  carbide drill mini drill bit drill bit set</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-299227376.jpg?v=1578611747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>length:</strong> 40mm</span><br><span><strong>is_customized:</strong> Yes</span><br><span><strong>DIY Supplies:</strong> Metalworking</span><br><span><strong>Type:</strong> Center Drill Bit</span><br><span><strong>Model Number:</strong> DB025BT6Z313</span><br><span><strong>Brand Name:</strong> xcan</span><br><span><strong>Use:</strong> Metal Drilling</span><br><span><strong>Material:</strong> High Speed Steel</span><br><span><strong>step drill:</strong> HSS Spiral Grooved</span><br><span><strong>stepped drill:</strong> metal drilling</span><br><span><strong>drill bit:</strong> woodworking tools</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548160851</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3692697</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11548170259</id>
+    <published>2019-05-21T19:06:23-05:00</published>
+    <updated>2019-05-21T19:06:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/0-3-3-2mm-multi-for-dremel-rotary-tools-useful-keyless-drill-bit-chuck-adapter"/>
+    <title>0.3-3.2MM Multi For Dremel Rotary Tools Useful Keyless Drill Bit Chuck Adapter</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-339286316.jpg?v=1578611749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>is_customized:</strong> Yes</span><br><span><strong>Model Number:</strong> Dremel Rotary Tool</span><br><span><strong>DIY Supplies:</strong> Metalworking</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548170259</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>7597811</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11548189011</id>
+    <published>2019-05-21T19:06:15-05:00</published>
+    <updated>2019-05-21T19:06:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/stainless-steel-alloy-four-sided-ruler-measuring-instrument-template-angle-izer-tool-mechanism-slides"/>
+    <title>Stainless Steel Alloy Four-Sided Ruler Measuring Instrument Template Angle-izer Tool Mechanism Slides</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-269848267.jpg?v=1578611754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Hand Tools</span><br><span><strong>DIY Supplies:</strong> Woodworking</span><br><span><strong>Application:</strong> Wood Working Tool</span><br><span><strong>Model Number:</strong> AJ_0041</span><br><span><strong>Number of Pieces:</strong> 1</span><br><span><strong>Size:</strong> as the photo show</span><br><span><strong>Type:</strong> ruler</span><br><span><strong>Package:</strong> OPP bag</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548189011</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>6140757</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11548257235</id>
+    <published>2019-05-21T19:06:05-05:00</published>
+    <updated>2019-05-21T19:06:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/worldwide-1pcs-50kg-10g-lcd-digital-electronic-portable-hanging-luggage-weight-wide-hook-scale"/>
+    <title>Worldwide 1pcs 50Kg/10g LCD Digital Electronic Portable Hanging Luggage Weight Wide Hook Scale</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-331574416.jpg?v=1578611761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Power Supply:</strong> AAA</span><br><span><strong>Brand Name:</strong> OUTAD</span><br><span><strong>Capacity:</strong> 50Kg/10g</span><br><span><strong>Accuracy:</strong> g</span><br><span><strong>Model Number:</strong> CA00100</span><br><span><strong>Size:</strong> 12x8.3x2.5cm</span><br><span><strong>Type:</strong> Pocket Scale</span><br><span><strong>Display Type:</strong> Digital</span><br><span><strong>Rated Load:</strong> 50kg</span><br><span><strong>Color:</strong> Black</span><br><span><strong>Dimensions:</strong> 12x8.3x2.5cm</span><br><span><strong>Unit:</strong> g, Kg, lb, oz</span><br><span><strong>Capacity &amp; accuracy:</strong> 50kg*10g</span><br><span><strong>Power supply:</strong> 3V AAA batteries-2pcs (battery not included)</span><br><span><strong>Scale Use:</strong> other</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548257235</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>7401599</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11548260499</id>
+    <published>2019-05-21T19:06:02-05:00</published>
+    <updated>2019-05-21T19:06:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/worldwide-portable-lcd-display-electronic-hanging-digital-luggage-weighting-scale-50kg-10g-50kg-110lb-weight-scales"/>
+    <title>Worldwide Portable LCD Display Electronic Hanging Digital Luggage Weighting Scale 50kg*10g 50kg /110lb Weight Scales</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-339303215.jpg?v=1578611763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> OUTAD</span><br><span><strong>Accuracy:</strong> 10g</span><br><span><strong>Power Supply:</strong> 2 * AAA batteries (not included)</span><br><span><strong>Display Type:</strong> LCD</span><br><span><strong>Model Number:</strong> PC05200</span><br><span><strong>Type:</strong> Hanging Scale</span><br><span><strong>Rated Load:</strong> 50kg</span><br><span><strong>4 selectable units:</strong> g, lb, oz,kg</span><br><span><strong>Accuracy:</strong> 10g</span><br><span><strong>Material:</strong> ABS plastic</span><br><span><strong>Item weight:</strong> 164g / 5.78oz (battery not included)</span><br><span><strong>Item size:</strong> 12 * 8.2 * 2.5cm / 4.72 * 3.23 * 0.98in</span><br><span><strong>Product Weight:</strong> about 129g</span><br><span><strong>Package size:</strong> 14.5 * 14.5 * 3.2cm / 5.71 * 5.71 * 1.26in</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548260499</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>7598340</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11595425619</id>
+    <published>2019-05-21T19:03:43-05:00</published>
+    <updated>2019-05-21T19:03:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/super-mini-elm327-bluetooth-obd2-v1-5-elm-327-v-1-5-obd-2-car-diagnostic-tool-scanner-elm-327-obdii-adapter-auto-diagnostic-tool"/>
+    <title>Super Mini Elm327 Bluetooth OBD2 V1.5 Elm 327 V 1.5 OBD 2 Car Diagnostic-Tool Scanner Elm-327 OBDII Adapter Auto Diagnostic Tool</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-293674014.jpg?v=1578611905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Code Readers &amp; Scan Tools</span><br><span><strong>Language:</strong> English,Russian</span><br><span><strong>Software Update:</strong> No</span><br><span><strong>Hardware Version:</strong> elm327 V1.5</span><br><span><strong>Software Version:</strong> elm327 V2.1</span><br><span><strong>Brand Name:</strong> ylsfc</span><br><span><strong>Special Features:</strong> Bluetooth</span><br><span><strong>Name:</strong> Elm327 Bluetooth v1.5 obd2 adapter</span><br><span><strong>Features:</strong> ELM 327 V1.5 Auto Scan tool</span><br><span><strong>special function:</strong> elm327 bluetooth obd2 scanner</span><br><span><strong>elm327 bluetooth apps:</strong> elm327 obdii obd2 bluetooth auto car diagnostic interface scanner</span><br><span><strong>ELM327 BluetoothFunction:</strong> elm327 obd2 bluetooth adapter</span><br><span><strong>ELM327 Bluetooth obd2 Protocols:</strong> Support Almost OBDII Protocols</span><br><span><strong>Elm327 Bluetooth OBD2 V1.5:</strong> chip:PIC18F25K80</span><br><span><strong>ELM327 Bluetooth V1.5:</strong> Elm327 obd2 Bluetooth V1.5</span><br><span><strong>elm327 v1.5 Bluetooth:</strong> car Diagnostic-Tool</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595425619</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>5256068</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11595452755</id>
+    <published>2019-05-21T19:03:30-05:00</published>
+    <updated>2019-05-21T19:03:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/0805-smd-free-shipping-ceramic-capacitor-assorted-kit-1pf-10uf-50values-50pcs-2500pcs-chip-ceramic-capacitor-samples-ki"/>
+    <title>0805 SMD Free shipping Ceramic Capacitor Assorted Kit 1pF~10uF 50values*50pcs=2500pcs Chip Ceramic Capacitor Samples ki</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-162644863.jpg?v=1578611939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Rated Voltage:</strong> 1</span><br><span><strong>Model Number:</strong> 1</span><br><span><strong>Application:</strong> Automotive</span><br><span><strong>Package Type:</strong> Surface Mount</span><br><span><strong>Type:</strong> Ceramic Capacitor</span><br><span><strong>Structure:</strong> Trimmer Capacitor</span><br><span><strong>is_customized:</strong> Yes</span><br><span><strong>Operating Temperature:</strong> 1</span><br><span><strong>Color:</strong> White</span><br><span><strong>Capacitance:</strong> 1</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595452755</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>3316693</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11595575955</id>
+    <published>2019-05-21T19:03:28-05:00</published>
+    <updated>2019-05-21T19:03:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/tu-12-engine-oil-pressure-tester-pressure-gauge-test-tool-kit-auto-car-pressure-tester-automotive-diagnostic-tool"/>
+    <title>TU-12 Engine Oil Pressure Tester Pressure Gauge Test Tool Kit Auto Car Pressure Tester Automotive Diagnostic Tool</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-257001847.jpg?v=1578611940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> stenzhorn</span><br><span><strong>Item Type:</strong> Pressure &amp; Vacuum Testers</span><br><span><strong>Hardware Version:</strong> null</span><br><span><strong>Software Version:</strong> null</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595575955</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>5794786</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11595624019</id>
+    <published>2019-05-21T19:03:10-05:00</published>
+    <updated>2019-05-21T19:03:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/diesel-injector-flow-testing-kit-common-rail-automotive-tools"/>
+    <title>Diesel injector flow testing kit common rail automotive tools</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-326487338.jpg?v=1578611957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            78.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Multimeters &amp; Analyzers</span><br><span><strong>Voltage:</strong> 0~100 PSI</span><br><span><strong>Electronic:</strong> No</span><br><span><strong>Item Width:</strong> 20inch</span><br><span><strong>Item Weight:</strong> 1.5kg</span><br><span><strong>Brand Name:</strong> HTL</span><br><span><strong>Item Height:</strong> 10inch</span><br><span><strong>External Testing Certification:</strong> ISO9000</span><br><span><strong>Power:</strong> 0~100 PSI</span><br><span><strong>Material Type:</strong> steel</span><br><span><strong>Item Length:</strong> 30inch</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595624019</id>
+      <title>Default Title</title>
+      <s:price currency="USD">78.99</s:price>
+      <s:sku>7312036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11595624915</id>
+    <published>2019-05-21T19:03:08-05:00</published>
+    <updated>2019-05-21T19:03:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/100pcs-car-door-panels-bumper-cover-fender-automotive-plastic-fasteners-boxed-kit-auto-fastener-clip-set-auto-fasteners-for-cars"/>
+    <title>100PCS Car Door Panels Bumper Cover Fender Automotive Plastic Fasteners Boxed Kit Auto Fastener Clip Set Auto Fasteners For Cars</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-155699663.jpg?v=1578611957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Fastener &amp; Clip</span><br><span><strong>Brand Name:</strong> LARATH</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595624915</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>3194819</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11595626899</id>
+    <published>2019-05-21T19:03:06-05:00</published>
+    <updated>2019-05-21T19:03:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/in-line-inginition-spark-testser-automotive-engine-diagnose-tester-car-repair-tool"/>
+    <title>In-line Inginition Spark Testser Automotive Engine Diagnose Tester Car Repair Tool</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-343760938.jpg?v=1578611958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Electronic:</strong> No</span><br><span><strong>Hardware Version:</strong> null</span><br><span><strong>Brand Name:</strong> stenzhorn</span><br><span><strong>Model Name:</strong> E070001</span><br><span><strong>Software Version:</strong> null</span><br><span><strong>Item Type:</strong> Ignition Testers</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595626899</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>7722420</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11595633683</id>
+    <published>2019-05-21T19:03:02-05:00</published>
+    <updated>2019-05-21T19:03:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/durable-quality-6-24v-circuit-tester-voltage-electrical-car-automotive-light-probe-pen-test-tool-voltage-tester"/>
+    <title>Durable Quality 6-24V Circuit Tester Voltage Electrical Car Automotive Light Probe Pen Test Tool Voltage Tester</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-294172805.jpg?v=1578611959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> ZEAST</span><br><span><strong>DIY Supplies:</strong> Electrical</span><br><span><strong>Measuring Range:</strong> 6V-12V-24V</span><br><span><strong>Model Number:</strong> M6</span><br><span><strong>Dimensions:</strong> 19.5cm</span><br><span><strong>Display Type:</strong> other</span><br><span><strong>Power Supply:</strong> other</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595633683</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>6625509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11595633875</id>
+    <published>2019-05-21T19:03:01-05:00</published>
+    <updated>2019-05-21T19:03:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/gm200-digital-automotive-coating-ultrasonic-paint-iron-thickness-gauge-meter-tool-measuring-range-from-0-1-80mm-0-to-71-0-mil-1"/>
+    <title>GM200 Digital Automotive Coating Ultrasonic Paint Iron Thickness Gauge Meter Tool Measuring Range From 0~1.80mm/0 To 71.0 mil</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-343746336.jpg?v=1578611959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> ACEHE</span><br><span><strong>With Backlight Or Not:</strong> No</span><br><span><strong>Model Number:</strong> GM200</span><br><span><strong>Weight:</strong> 119g (without battery)</span><br><span><strong>Special Feature:</strong> Measure the thickness of non-metal coatings on metal surface</span><br><span><strong>Measuring Range:</strong> 0~1.80mm/0~71.0 mil nonmetal coating on metal surface</span><br><span><strong>Accuracy:</strong> 0.03mm</span><br><span><strong>Power Supply:</strong> 2 x 1.5V AAA battery(without battery)</span><br><span><strong>Minimum base diameter:</strong> 50mm</span><br><span><strong>Critical base thickness:</strong> 0.5mm</span><br><span><strong>Display resolution:</strong> 0.01mm/1mil</span><br><span><strong>Operating Temperature:</strong> 0~40C</span><br><span><strong>Operating Humidity:</strong> 10~95%RH</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595633875</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>7721928</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11595638291</id>
+    <published>2019-05-21T19:02:57-05:00</published>
+    <updated>2019-05-21T19:02:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/free-shipping-5sets-kit-2pin-male-sealed-automotive-connectors-3b0-973-852-a-3b0973852a"/>
+    <title>Free shipping 5sets kit  2pin male sealed automotive connectors 3B0 973 852 A 3B0973852A</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-343758488.jpg?v=1578611961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Model Number:</strong> 3B0 973 852A</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595638291</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>7722332</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

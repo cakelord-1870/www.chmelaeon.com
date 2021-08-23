@@ -1,0 +1,4177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.chmelaeon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.chmelaeon.com/collections/home-improvement.atom"/>
+  <title>Chmelaeon</title>
+  <updated>2019-10-21T16:49:04-05:00</updated>
+  <author>
+    <name>Chmelaeon</name>
+  </author>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4294782386239</id>
+    <published>2019-10-21T16:49:04-05:00</published>
+    <updated>2019-10-21T16:49:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/summer-cooling-mesh-lumbar-ergonomic-car-seat-back-cushion-back-massage-cushion-pad-support-home-office-car-multi-function"/>
+    <title>Summer Cooling Mesh Lumbar Ergonomic Car Seat Back Cushion Back Massage Cushion Pad Support Home Office Car Multi function</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1162654960.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99 - 23.99
+            <a href="https://www.chmelaeon.com/products/summer-cooling-mesh-lumbar-ergonomic-car-seat-back-cushion-back-massage-cushion-pad-support-home-office-car-multi-function">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> SOJOY</span><br><span><strong>Applicable Season:</strong> Four Seasons</span><br><span><strong>Material Type:</strong> Polyester</span><br><span><strong>Item Weight:</strong> 0.3kg</span><br><span><strong>Set Piece:</strong> 2</span><br><span><strong>Item Height:</strong> 40cm</span><br><span><strong>Item Width:</strong> 36cm</span><br><span><strong>Item Type:</strong> Seat Covers &amp; Supports</span><br><span><strong>Item Length:</strong> 40cm</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4294782386239</id>
+      <title>Classic item</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>30797878-classic-item</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4294782386239</id>
+      <title>Massage item</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>30797878-massage-item</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/4294782320703</id>
+    <published>2019-10-21T16:49:04-05:00</published>
+    <updated>2019-10-21T16:49:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/sojoy-igel-comfort-coccyx-orthopedic-breathable-antislip-gel-seat-cushion-cooling-memory-foam-cushion-for-car-office-home-black"/>
+    <title>Sojoy iGel Comfort Coccyx Orthopedic Breathable Antislip  Gel Seat Cushion Cooling Memory Foam Cushion For Car Office Home Black</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-1162654932.jpg?v=1578614166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            62.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Seat Covers &amp; Supports</span><br><span><strong>Item Width:</strong> 16inch</span><br><span><strong>Special Features:</strong> Basic Function</span><br><span><strong>Item Weight:</strong> 0.92kg</span><br><span><strong>Mfg Series Number:</strong> SJ164A017</span><br><span><strong>Applicable Season:</strong> Four Seasons</span><br><span><strong>Material Type:</strong> Polyester</span><br><span><strong>Item Length:</strong> 18inch</span><br><span><strong>Set Piece:</strong> 1</span><br><span><strong>Item Height:</strong> 2.5inch</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/4294782320703</id>
+      <title>Default Title</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30797877-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1941582348351</id>
+    <published>2019-07-29T22:18:39-05:00</published>
+    <updated>2019-07-29T22:18:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/50-pcs-lot-dia-8mm-x-1mm-small-thin-neodymium-magnet-magnets-n52-fridge-magnetic-materials-home-decorations"/>
+    <title>50 pcs/Lot Dia 8mm x 1mm Small Thin Neodymium Magnet Magnets N52 Fridge Magnetic Materials Home Decorations</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-843664859.jpg?v=1578614163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Permanent</span><br><span><strong>Shape:</strong> Stick</span><br><span><strong>Model Number:</strong> KZ247</span><br><span><strong>Composite:</strong> Rare Earth Magnet</span><br><span><strong>Application:</strong> Industrial Magnet</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1941582348351</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>8227666</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11595647827</id>
+    <published>2019-05-21T19:02:46-05:00</published>
+    <updated>2019-05-21T19:02:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/waterproof-material-small-size-240-200-mm-gaming-mouse-pad-soft-office-mouse-mat-for-office-home-use"/>
+    <title>Waterproof Material Small Size 240*200 mm gaming Mouse Pad Soft office Mouse Mat For Office/Home Use</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-175424032.jpg?v=1578611963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Size:</strong> S</span><br><span><strong>Style:</strong> Radiation Protection</span><br><span><strong>Products Status:</strong> Stock</span><br><span><strong>Material:</strong> Rubber</span><br><span><strong>Model Number:</strong> SBD-240</span><br><span><strong>Package:</strong> No</span><br><span><strong>Brand Name:</strong> Batianda</span><br><span><strong>Size (mm):</strong> 240*200*1.5</span><br><span><strong>Size (inch):</strong> 9.45*7.87*0.06</span><br><span><strong>Support Customized:</strong> Yes</span><br><span><strong>Fit For:</strong> Game's player</span><br><span><strong>Printing:</strong> Heat Transfer</span><br><span><strong>Thickness:</strong> 1.5CM/0.06Inch</span><br><span><strong>Use:</strong> Mouse Pad</span><br><span><strong>Edge Thread:</strong> No</span><br><span><strong>Patterns No.1:</strong> Open Book/Butterfly/Grip</span><br><span><strong>Pattern No.2:</strong> Dream catcher/Skulls/girls</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595647827</id>
+      <title>M134</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>3659996-m134</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595647827</id>
+      <title>M357</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>3659996-m357</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595647827</id>
+      <title>M379</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>3659996-m379</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595647827</id>
+      <title>M388</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>3659996-m388</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595647827</id>
+      <title>M434</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>3659996-m434</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595647827</id>
+      <title>M438</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>3659996-m438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595647827</id>
+      <title>M469</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>3659996-m469</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595647827</id>
+      <title>M539</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>3659996-m539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595647827</id>
+      <title>Y009</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>3659996-y009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11595647827</id>
+      <title>Y011</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>3659996-y011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11548187731</id>
+    <published>2019-05-21T19:00:00-05:00</published>
+    <updated>2019-05-21T19:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/sae-fortion-portable-basket-home-kitchen-hanging-drain-basket-bag-bath-storage-tools-sink-holder-kitchen-accessory-vaciar-cesta"/>
+    <title>SAE Fortion Portable Basket Home Kitchen Hanging Drain Basket Bag Bath Storage Tools Sink Holder Kitchen Accessory vaciar cesta</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-244060444.jpg?v=1578611754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Storage Holders &amp; Racks,Dish Rack</span><br><span><strong>Applicable Space:</strong> Kitchen</span><br><span><strong>Classification:</strong> Non-folding Rack</span><br><span><strong>Feature:</strong> Stocked,Eco-Friendly</span><br><span><strong>Model Number:</strong> DJ0388</span><br><span><strong>Use:</strong> Scouring Pad</span><br><span><strong>Plastic Type:</strong> PVC</span><br><span><strong>No. of Tiers:</strong> Single</span><br><span><strong>Brand Name:</strong> SAE Fortion</span><br><span><strong>Installation Type:</strong> Hook Type</span><br><span><strong>Material:</strong> Plastic</span><br><span><strong>kitchen basket:</strong> drain basket</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548187731</id>
+      <title>Blue</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>1640478-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548187731</id>
+      <title>Pink</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>1640478-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548187731</id>
+      <title>green</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>1640478-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11160875603</id>
+    <published>2019-05-21T18:59:52-05:00</published>
+    <updated>2019-05-21T18:59:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/original-xiaomi-300m-wifi-2-4ghz-300mbs-wireless-router-for-android-tv-box-smartphone-pad-pc-homeplug-mi-smart-home-app-control"/>
+    <title>Original Xiaomi 300M WiFi 2.4GHz 300Mbs Wireless Router For Android TV Box Smartphone Pad PC HomePlug Mi Smart Home App Control</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-306638806.jpg?v=1578611724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            87.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> xiaomi</span><br><span><strong>Standards And Protocols:</strong> Wi-Fi 802.11ac,Wi-Fi 802.11g,Wi-Fi 802.11n</span><br><span><strong>Wi-Fi Transmission Standard:</strong> 802.11n</span><br><span><strong>Function:</strong> Firewall</span><br><span><strong>With Modem Function:</strong> No</span><br><span><strong>Supports WDS:</strong> No</span><br><span><strong>Wi-Fi Supported Frequency:</strong> 2.4G</span><br><span><strong>Package:</strong> Yes</span><br><span><strong>Wired Transfer Rate:</strong> 10/100/1000Mbps</span><br><span><strong>WAN Ports:</strong> 1 x10/100Mbps</span><br><span><strong>2.4G Wi-Fi Transmission Rate:</strong> 300 Mbps</span><br><span><strong>Supports WPS:</strong> No</span><br><span><strong>Application:</strong> Home</span><br><span><strong>Model Number:</strong> Xiaomi 300M WiFi</span><br><span><strong>Max. LAN Data Rate:</strong> 300Mbs</span><br><span><strong>Type:</strong> Wireless</span><br><span><strong>Interface:</strong> LAN</span><br><span><strong>Router Connectivity Type:</strong> Wireless</span><br><span><strong>Transmission Rate:</strong> 300Mbps</span><br><span><strong>Network Protocols:</strong> IEEE 802.11n</span><br><span><strong>Wireless Standard:</strong> Wireless AC,Wireless G,Wireless N</span><br><span><strong>Suitable for:</strong> Andriod TV Box,Mobile,Pad</span><br><span><strong>Covering range:</strong> 200 meters</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11160875603</id>
+      <title>Default Title</title>
+      <s:price currency="USD">87.99</s:price>
+      <s:sku>6921532</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11722527123</id>
+    <published>2019-05-21T18:59:18-05:00</published>
+    <updated>2019-05-21T18:59:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/new-design-2017-spring-summer-men-flat-shoes-soft-split-leather-male-moccasin-driving-loafers-shoes-casual-sapatos-homens"/>
+    <title>New Design 2017 Spring Summer Men Flat Shoes Soft Split Leather Male Moccasin Driving Loafers Shoes Casual Sapatos Homens</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-283763540.jpg?v=1578612045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Adult</span><br><span><strong>Item Type:</strong> casual shoes</span><br><span><strong>Fit:</strong> Fits true to size, take your normal size</span><br><span><strong>Brand Name:</strong> ZXQ</span><br><span><strong>Insole Material:</strong> Rubber</span><br><span><strong>Feature:</strong> Breathable,Massage</span><br><span><strong>Shoes Type:</strong> Basic</span><br><span><strong>Upper Material:</strong> Split Leather</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Outsole Material:</strong> Rubber</span><br><span><strong>Closure Type:</strong> Hook &amp; Loop</span><br><span><strong>Lining Material:</strong> Pig Suede</span><br><span><strong>Model Number:</strong> XQ488</span><br><span><strong>Season:</strong> Spring/Autumn</span><br><span><strong>male shoes:</strong> men shoes leather</span><br><span><strong>men leather flats:</strong> men leather flats</span><br><span><strong>upper material:</strong> cow split</span><br><span><strong>soft leather shoes for men :</strong> men brown loafers</span><br><span><strong>fashion men driving shoes:</strong> men's shoes</span><br><span><strong>2017 new fashion men shoes:</strong> men slip on shoes</span><br><span><strong>men oxford loafers:</strong> men leisure shoes</span><br><span><strong>plus size 38-48 size:</strong> leather men loafers</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-black-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Black / 6.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-black-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Black / 7</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-black-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-black-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Black / 8.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-black-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Black / 9.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-black-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-black-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Black / 10.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-black-10-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Black / 11</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-black-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-black-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Brown / 6</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-brown-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Brown / 6.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-brown-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Brown / 7</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-brown-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Brown / 8</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-brown-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Brown / 8.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-brown-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Brown / 9.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-brown-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Brown / 10</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-brown-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Brown / 10.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-brown-10-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Brown / 11</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-brown-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Brown / 12</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-brown-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Black / 12.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-black-12-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722527123</id>
+      <title>Brown / 12.5</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>4159699-brown-12-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11722531091</id>
+    <published>2019-05-21T18:59:09-05:00</published>
+    <updated>2019-05-21T18:59:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/outad-4-color-winter-warm-soft-indoor-floor-slippers-women-men-shoes-striped-cloth-bottom-universal-couple-lovers-plush-home"/>
+    <title>OUTAD 4 Color Winter Warm Soft indoor floor Slippers Women/Men Shoes Striped Cloth Bottom Universal Couple Lovers Plush Home</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-310174157.jpg?v=1578612048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99 - 6.99
+            <a href="https://www.chmelaeon.com/products/outad-4-color-winter-warm-soft-indoor-floor-slippers-women-men-shoes-striped-cloth-bottom-universal-couple-lovers-plush-home">(25 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Adult</span><br><span><strong>Item Type:</strong> Slippers</span><br><span><strong>Heel Type:</strong> Flat with</span><br><span><strong>Heel Height:</strong> Flat (≤1cm)</span><br><span><strong>Season:</strong> Winter</span><br><span><strong>Fit:</strong> Fits true to size, take your normal size</span><br><span><strong>Lining Material:</strong> Velvet</span><br><span><strong>Insole Material:</strong> Rubber</span><br><span><strong>Brand Name:</strong> OUTAD</span><br><span><strong>With Platforms:</strong> No</span><br><span><strong>Shoes Type:</strong> Basic</span><br><span><strong>Pattern Type:</strong> Striped</span><br><span><strong>Fashion Element:</strong> Shallow</span><br><span><strong>Applicable Place:</strong> Indoor</span><br><span><strong>Upper Material:</strong> Velvet</span><br><span><strong>Outsole Material:</strong> TPR</span><br><span><strong>Model Number:</strong> Home Slippers</span><br><span><strong>Fits women:</strong> us 5.5/6   6.5/7    7.5/8</span><br><span><strong>Fits men:</strong> us 8.5/9      9.5/10</span><br><span><strong>Gender:</strong> Unisex</span><br><span><strong>FASHION:</strong> Women Men Winter Warm Slippers Indoor Floor Shoes</span><br><span><strong>BENIFIT:</strong> Non Slipping Home Shoes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>1 / 9</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>5776270-1-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>1 / 10</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-1-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>2 / 9</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-2-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>2 / 10</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-2-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>3 / 9</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-3-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>3 / 10</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-3-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>5 / 6</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-5-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>5 / 7</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-5-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>5 / 8</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-5-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>4 / 6</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-4-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>4 / 7</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-4-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>4 / 8</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-4-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>1 / 6</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-1-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>1 / 7</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-1-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>1 / 8</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-1-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>2 / 6</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-2-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>2 / 7</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-2-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>2 / 8</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-2-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>3 / 6</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-3-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>3 / 7</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-3-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>3 / 8</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-3-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>4 / 9</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-4-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>4 / 10</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-4-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>5 / 9</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-5-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722531091</id>
+      <title>5 / 10</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5776270-5-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11722556563</id>
+    <published>2019-05-21T18:58:15-05:00</published>
+    <updated>2019-05-21T18:58:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/new-summer-home-slipper-women-indoor-bedroom-slippers-woman-22-gradient-color-plus-size-beach-flat-shoes-women-house-slippers"/>
+    <title>New Summer Home Slipper Women Indoor Bedroom Slippers Woman 22 Gradient Color Plus Size Beach Flat Shoes Women House Slippers</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-310087954.jpg?v=1578612073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99 - 16.99
+            <a href="https://www.chmelaeon.com/products/new-summer-home-slipper-women-indoor-bedroom-slippers-woman-22-gradient-color-plus-size-beach-flat-shoes-women-house-slippers">(100 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Adult</span><br><span><strong>Item Type:</strong> Slippers</span><br><span><strong>Outsole Material:</strong> EVA</span><br><span><strong>Heel Type:</strong> Flat with</span><br><span><strong>Pattern Type:</strong> Mixed Colors</span><br><span><strong>Heel Height:</strong> Flat (≤1cm)</span><br><span><strong>Season:</strong> Summer</span><br><span><strong>Fit:</strong> Fits true to size, take your normal size</span><br><span><strong>Fashion Element:</strong> Sewing</span><br><span><strong>Insole Material:</strong> Hemp</span><br><span><strong>With Platforms:</strong> No</span><br><span><strong>Shoes Type:</strong> Basic</span><br><span><strong>Brand Name:</strong> WADNASO</span><br><span><strong>Applicable Place:</strong> Indoor</span><br><span><strong>Model Number:</strong> ZY28</span><br><span><strong>Upper Material:</strong> Synthetic</span><br><span><strong>Lining Material:</strong> None</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>25 / 6</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-25-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>25 / 10</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-25-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>25 / 4.5</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>7018474-25-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>25 / 5.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-25-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>25 / 6.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-25-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>25 / 8.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-25-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>25 / 9.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-25-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>25 / 7</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-25-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>25 / 5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-25-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>25 / 8</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-25-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>11 / 6</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-11-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>11 / 10</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-11-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>11 / 4.5</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>7018474-11-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>11 / 5.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-11-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>11 / 6.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-11-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>11 / 8.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-11-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>11 / 9.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-11-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>11 / 7</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-11-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>11 / 5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-11-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>11 / 8</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-11-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>22 / 6</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-22-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>22 / 10</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-22-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>22 / 4.5</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>7018474-22-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>22 / 5.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-22-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>22 / 6.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-22-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>22 / 8.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-22-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>22 / 9.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-22-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>22 / 7</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-22-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>22 / 5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-22-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>22 / 8</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-22-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>14 / 6</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-14-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>14 / 10</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-14-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>14 / 4.5</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>7018474-14-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>14 / 5.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-14-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>14 / 6.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-14-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>14 / 8.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-14-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>14 / 9.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-14-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>14 / 7</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-14-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>14 / 5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-14-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>14 / 8</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-14-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>7 / 6</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-7-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>7 / 10</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-7-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>7 / 4.5</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>7018474-7-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>7 / 5.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-7-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>7 / 6.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-7-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>7 / 8.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-7-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>7 / 9.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-7-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>7 / 7</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-7-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>7 / 5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>7 / 8</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-7-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>5 / 6</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-5-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>5 / 10</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-5-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>5 / 4.5</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>7018474-5-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>5 / 5.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-5-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>5 / 6.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-5-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>5 / 8.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-5-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>5 / 9.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-5-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>5 / 7</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-5-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>5 / 5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>5 / 8</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-5-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>17 / 6</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-17-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>17 / 10</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-17-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>17 / 4.5</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>7018474-17-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>17 / 5.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-17-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>17 / 6.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-17-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>17 / 8.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-17-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>17 / 9.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-17-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>17 / 7</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-17-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>17 / 5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-17-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>17 / 8</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-17-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>2 / 6</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-2-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>2 / 10</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-2-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>2 / 4.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-2-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>2 / 5.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-2-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>2 / 6.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-2-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>2 / 8.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-2-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>2 / 9.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-2-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>2 / 7</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-2-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>2 / 5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-2-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>2 / 8</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-2-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>10 / 6</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-10-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>10 / 10</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-10-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>10 / 4.5</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>7018474-10-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>10 / 5.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-10-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>10 / 6.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-10-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>10 / 8.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-10-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>10 / 9.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-10-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>10 / 7</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-10-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>10 / 5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-10-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>10 / 8</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-10-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>19 / 6</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-19-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>19 / 10</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-19-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>19 / 4.5</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>7018474-19-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>19 / 5.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-19-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>19 / 6.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-19-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>19 / 8.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-19-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>19 / 9.5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-19-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>19 / 7</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-19-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>19 / 5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-19-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722556563</id>
+      <title>19 / 8</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7018474-19-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11722578643</id>
+    <published>2019-05-21T18:57:32-05:00</published>
+    <updated>2019-05-21T18:57:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/women-anime-cartoon-pokemon-slippers-lovers-warm-woman-slippers-elf-ball-pikachu-go-plush-shoes-home-house-slippers-children"/>
+    <title>Women Anime Cartoon Pokemon Slippers Lovers Warm Woman Slippers Elf Ball Pikachu Go Plush Shoes Home House Slippers Children</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-183814698.jpg?v=1578612094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.99 - 21.99
+            <a href="https://www.chmelaeon.com/products/women-anime-cartoon-pokemon-slippers-lovers-warm-woman-slippers-elf-ball-pikachu-go-plush-shoes-home-house-slippers-children">(54 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Adult</span><br><span><strong>Item Type:</strong> Slippers</span><br><span><strong>Insole Material:</strong> Short Plush</span><br><span><strong>Heel Type:</strong> Flat with</span><br><span><strong>Heel Height:</strong> Flat (≤1cm)</span><br><span><strong>Fit:</strong> Fits true to size, take your normal size</span><br><span><strong>Pattern Type:</strong> Cartoon Animation</span><br><span><strong>With Platforms:</strong> No</span><br><span><strong>Lining Material:</strong> Fleeces</span><br><span><strong>Shoes Type:</strong> Basic</span><br><span><strong>Brand Name:</strong> WADNASO</span><br><span><strong>Outsole Material:</strong> Rubber</span><br><span><strong>Fashion Element:</strong> Shallow</span><br><span><strong>Applicable Place:</strong> Indoor</span><br><span><strong>Upper Material:</strong> Velvet</span><br><span><strong>Season:</strong> Spring/Autumn</span><br><span><strong>Model Number:</strong> xin16</span><br><span><strong>Gender:</strong> Unisex</span><br><span><strong>kind:</strong> Indoor shoes</span><br><span><strong>shoes:</strong> Winter , Spring</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>4 / 6</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-4-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>4 / 4.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-4-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>4 / 5.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-4-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>4 / 6.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-4-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>4 / 7</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-4-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>4 / 5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>3 / 6</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-3-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>3 / 4.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-3-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>3 / 5.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-3-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>3 / 6.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-3-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>3 / 7</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-3-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>3 / 5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-3-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>2 / 6</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-2-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>2 / 4.5</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3922990-2-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>2 / 5.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-2-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>2 / 6.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-2-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>2 / 7</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-2-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>2 / 5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-2-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>5 / 6</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-5-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>5 / 4.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-5-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>5 / 5.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-5-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>5 / 6.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-5-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>5 / 7</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-5-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>5 / 5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>1 / 6</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-1-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>1 / 4.5</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3922990-1-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>1 / 5.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-1-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>1 / 6.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-1-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>1 / 7</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-1-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>1 / 5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-1-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>7 / 4.5</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3922990-7-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>7 / 5</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3922990-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>7 / 5.5</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3922990-7-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>7 / 6</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3922990-7-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>7 / 6.5</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3922990-7-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>7 / 7</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3922990-7-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>8 / 4.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-8-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>8 / 5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>8 / 5.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-8-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>8 / 6</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-8-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>8 / 6.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-8-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>8 / 7</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-8-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>9 / 4.5</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3922990-9-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>9 / 5</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3922990-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>9 / 5.5</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3922990-9-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>9 / 6</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3922990-9-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>9 / 6.5</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3922990-9-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>9 / 7</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3922990-9-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>10 / 4.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-10-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>10 / 5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-10-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>10 / 5.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-10-5-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>10 / 6</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-10-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>10 / 6.5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-10-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722578643</id>
+      <title>10 / 7</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3922990-10-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11722581715</id>
+    <published>2019-05-21T18:57:27-05:00</published>
+    <updated>2019-05-21T18:57:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/men-shoes-spring-summer-breathable-fashion-weaving-men-casual-flat-home-use-shoes-lace-up-loafers-comfortable-shoes-gd1sb32"/>
+    <title>Men Shoes Spring Summer Breathable Fashion Weaving Men Casual Flat Home Use Shoes Lace-Up Loafers Comfortable Shoes Gd1SB32</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-132155514.jpg?v=1578612097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.99 - 38.99
+            <a href="https://www.chmelaeon.com/products/men-shoes-spring-summer-breathable-fashion-weaving-men-casual-flat-home-use-shoes-lace-up-loafers-comfortable-shoes-gd1sb32">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Department Name:</strong> Adult</span><br><span><strong>Item Type:</strong> casual shoes</span><br><span><strong>Brand Name:</strong> IAHEAD</span><br><span><strong>Model Number:</strong> Gd1SB32</span><br><span><strong>Season:</strong> Summer</span><br><span><strong>Fit:</strong> Fits true to size, take your normal size</span><br><span><strong>Insole Material:</strong> Rubber</span><br><span><strong>Feature:</strong> Light,Breathable,Anti-Odor</span><br><span><strong>Lining Material:</strong> Canvas</span><br><span><strong>Shoes Type:</strong> Basic</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Closure Type:</strong> Lace-Up</span><br><span><strong>Upper Material:</strong> Hemp</span><br><span><strong>Outsole Material:</strong> Rubber</span><br><span><strong>Item Type	:</strong> casual shoes</span><br><span><strong>Upper Height	 :</strong> Low Top Sneakers</span><br><span><strong>Season:</strong> Summer  Spring</span><br><span><strong>Item Type:</strong> casual shoes</span><br><span><strong>Feature:</strong> Breathable, Massage, Waterproof</span><br><span><strong>Gender:</strong> Men</span><br><span><strong>Vulcanized Shoes:</strong> Yes</span><br><span><strong>Heel Type:</strong> Flat with</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Blue / 6.5</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>1155738-blue-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Blue / 7</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>1155738-blue-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Blue / 8</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>1155738-blue-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Blue / 8.5</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>1155738-blue-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Blue / 9.5</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>1155738-blue-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Brown / 6.5</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>1155738-brown-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Brown / 7</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>1155738-brown-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Brown / 8</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>1155738-brown-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Brown / 8.5</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>1155738-brown-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Brown / 9.5</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>1155738-brown-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Green / 6.5</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>1155738-green-6-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Green / 7</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>1155738-green-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Green / 8</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>1155738-green-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Green / 8.5</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>1155738-green-8-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Green / 9.5</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>1155738-green-9-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Blue / 7.5</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>1155738-blue-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Green / 7.5</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>1155738-green-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Brown / 7.5</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>1155738-brown-7-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Blue / 10</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>1155738-blue-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Blue / 10.5</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>1155738-blue-10-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Brown / 10</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>1155738-brown-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Brown / 10.5</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>1155738-brown-10-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Green / 10</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>1155738-green-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11722581715</id>
+      <title>Green / 10.5</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>1155738-green-10-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11868802195</id>
+    <published>2019-05-21T18:55:47-05:00</published>
+    <updated>2019-05-21T18:55:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/luxury-wall-shower-set-antique-copper-bath-faucet-with-shower-best-gift-shower-mixer-home-improvement-free-shipping-gi238"/>
+    <title>Luxury Wall Shower Set Antique Copper Bath Faucet With Shower Best Gift Shower Mixer Home Improvement Free Shipping GI238</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-362504422.jpg?v=1578612134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            218.99 - 242.99
+            <a href="https://www.chmelaeon.com/products/luxury-wall-shower-set-antique-copper-bath-faucet-with-shower-best-gift-shower-mixer-home-improvement-free-shipping-gi238">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Bath &amp; Shower Faucets,Antique shower set</span><br><span><strong>Valve Core Material:</strong> Ceramic</span><br><span><strong>Installation Type:</strong> Wall Mounted</span><br><span><strong>Brand Name:</strong> GIZERO</span><br><span><strong>Style:</strong> Contemporary</span><br><span><strong>Bath &amp; Shower Faucet Type:</strong> Shower Sets</span><br><span><strong>Number of Handles:</strong> Dual Handle</span><br><span><strong>Feature:</strong> Cold and Hot</span><br><span><strong>Size:</strong> 131-200mm</span><br><span><strong>Type:</strong> Fixed Support Type</span><br><span><strong>Cold/Hot Water Control Type:</strong> Dual Holder Dual Control</span><br><span><strong>Model Number:</strong> GI238</span><br><span><strong>Surface Finishing:</strong> Brass</span><br><span><strong>Surface Treatment:</strong> Antique Plating</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868802195</id>
+      <title>Type 1</title>
+      <s:price currency="USD">218.99</s:price>
+      <s:sku>8260862-type-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868802195</id>
+      <title>Type 2</title>
+      <s:price currency="USD">227.99</s:price>
+      <s:sku>8260862-type-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868802195</id>
+      <title>Type 3</title>
+      <s:price currency="USD">229.99</s:price>
+      <s:sku>8260862-type-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868802195</id>
+      <title>Type 4</title>
+      <s:price currency="USD">232.99</s:price>
+      <s:sku>8260862-type-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868802195</id>
+      <title>Type 5</title>
+      <s:price currency="USD">240.99</s:price>
+      <s:sku>8260862-type-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868802195</id>
+      <title>Type 6</title>
+      <s:price currency="USD">242.99</s:price>
+      <s:sku>8260862-type-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11868797267</id>
+    <published>2019-05-21T18:55:47-05:00</published>
+    <updated>2019-05-21T18:55:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/stainless-steel-hollow-decoration-ball-metal-ball-furnishings-home-garden-decoration-improvement-80mm-90mm-100mm-one-set"/>
+    <title>Stainless steel hollow decoration ball metal ball furnishings home &amp; garden Decoration improvement  80mm, 90mm 100mm one set.</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-176771052.jpg?v=1578612134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Ornaments</span><br><span><strong>Material:</strong> Metal</span><br><span><strong>Model Number:</strong> 546</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868797267</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>2025469</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11868804819</id>
+    <published>2019-05-21T18:55:46-05:00</published>
+    <updated>2019-05-21T18:55:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/kitchen-vinyl-wallpaper-home-improvement-quality-pvc-self-adhesive-furniture-wallpaper-modern-kitchen-waterproof-wall-sticker"/>
+    <title>kitchen vinyl wallpaper home improvement quality pvc self adhesive  furniture wallpaper modern kitchen  waterproof wall sticker</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-203105877.jpg?v=1578612134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Use:</strong> Kitchen</span><br><span><strong>Charge Unit:</strong> Yuan/Roll</span><br><span><strong>Material:</strong> Wood fiber wallpaper</span><br><span><strong>Style:</strong> Classic</span><br><span><strong>Function:</strong> Waterproof,Moisture-Proof,Mould-Proof,Fireproof</span><br><span><strong>Usage:</strong> Entertainment,Household</span><br><span><strong>Surface Treatment:</strong> Printed</span><br><span><strong>Model Number:</strong> 8</span><br><span><strong>Pattern:</strong> Solid</span><br><span><strong>Type:</strong> PVC</span><br><span><strong>Denominated unit:</strong> meters</span><br><span><strong>Specification:</strong> Single-piece Package</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868804819</id>
+      <title>white</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4493217-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868804819</id>
+      <title>yellow</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4493217-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868804819</id>
+      <title>red</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4493217-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868804819</id>
+      <title>organge</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4493217-organge</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868804819</id>
+      <title>purple</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4493217-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868804819</id>
+      <title>pale green</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4493217-pale-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868804819</id>
+      <title>fruit  green</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4493217-fruit-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868804819</id>
+      <title>sky blue</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4493217-sky-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868804819</id>
+      <title>black</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4493217-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868804819</id>
+      <title>grey silver</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4493217-grey-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868804819</id>
+      <title>champagne</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4493217-champagne</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11868808979</id>
+    <published>2019-05-21T18:55:44-05:00</published>
+    <updated>2019-05-21T18:55:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/creative-fixate-gel-pads-strong-stick-glue-anywhere-wall-sticker-reuseable-hot-sell-portable-home-fixed-wall-stickers"/>
+    <title>Creative Fixate Gel Pads Strong Stick Glue Anywhere Wall Sticker Reuseable Hot Sell Portable Home Fixed Wall Stickers</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-312594296.jpg?v=1578612135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Function:</strong> Waterproof,Moisture-Proof,Mould-Proof,Anti-static</span><br><span><strong>Usage:</strong> Administration,Commerce,Entertainment,Household</span><br><span><strong>Use:</strong> Bedding Room</span><br><span><strong>Charge Unit:</strong> Yuan/Roll</span><br><span><strong>Feature:</strong> Water Resistant,Formaldehyde-free,Mildew Resistant,Extra Thick,Self-Adhesive,Environment Friendly</span><br><span><strong>Style:</strong> Modern</span><br><span><strong>Material:</strong> Other</span><br><span><strong>Model Number:</strong> Fixate Gel Pad</span><br><span><strong>Brand Name:</strong> AWOO</span><br><span><strong>Pattern:</strong> Solid</span><br><span><strong>is_customized:</strong> Yes</span><br><span><strong>Surface Treatment:</strong> Printed</span><br><span><strong>Type:</strong> Silica gel</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868808979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>2959345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11868811603</id>
+    <published>2019-05-21T18:55:43-05:00</published>
+    <updated>2019-05-21T18:55:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/high-qualiy-home-sunglasses-eyeglass-cellphone-watch-repair-keychain-screwdriver-tool-1"/>
+    <title>High Qualiy  Home Sunglasses Eyeglass Cellphone Watch Repair Keychain Screwdriver Tool</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-83595711_eea29317-1020-490f-8e4a-4543d768349e.jpg?v=1578612135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Model Number:</strong> Watch Repair Keychain Screwdriver Tool</span><br><span><strong>Size:</strong> as show</span><br><span><strong>is_customized:</strong> Yes</span><br><span><strong>Screw Head Type:</strong> AS the picture</span><br><span><strong>Type:</strong> Watch Repair Keychain Screwdriver Tool</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868811603</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>1872890</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11868813011</id>
+    <published>2019-05-21T18:55:42-05:00</published>
+    <updated>2019-05-21T18:55:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/led-strip-5050-rgb-lights-12v-flexible-home-decoration-lighting-smd-5050-waterproof-led-tape-rgb-white-warm-white-blue-green-red"/>
+    <title>LED Strip 5050 RGB lights 12V Flexible Home Decoration Lighting SMD 5050 Waterproof LED Tape RGB/White/Warm White/Blue/Green/Red</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-306207292.jpg?v=1578612136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.99 - 23.99
+            <a href="https://www.chmelaeon.com/products/led-strip-5050-rgb-lights-12v-flexible-home-decoration-lighting-smd-5050-waterproof-led-tape-rgb-white-warm-white-blue-green-red">(72 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Strip</span><br><span><strong>Power Source:</strong> DC</span><br><span><strong>LED Chip Model:</strong> SMD5050</span><br><span><strong>LEDs Number/M:</strong> 60 pcs/m</span><br><span><strong>Strip type:</strong> SMD</span><br><span><strong>Color Temp(K):</strong> 2700</span><br><span><strong>Power Consumption (W/m):</strong> 3.84W/m</span><br><span><strong>Average Life (hrs):</strong> 50000</span><br><span><strong>LED Chip Brand:</strong> Cree</span><br><span><strong>Certification:</strong> RoHS,CCC</span><br><span><strong>Occasion:</strong> living room</span><br><span><strong>Model Number:</strong> SMD5050</span><br><span><strong>Power Generation:</strong> Switch</span><br><span><strong>Voltage:</strong> 12V</span><br><span><strong>Waterproof:</strong> Yes</span><br><span><strong>Brand Name:</strong> Apluses</span><br><span><strong>Specifications (light beads / m):</strong> 60</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Blue / IP20 No Waterproof / 100 cm</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>2551077-blue-ip20-no-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Blue / IP20 No Waterproof / 200 cm</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2551077-blue-ip20-no-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Blue / IP20 No Waterproof / 300 cm</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>2551077-blue-ip20-no-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Blue / IP20 No Waterproof / 400 cm</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>2551077-blue-ip20-no-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Blue / IP20 No Waterproof / 500 cm</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>2551077-blue-ip20-no-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Blue / IP20 No Waterproof / 50 cm</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>2551077-blue-ip20-no-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Green / IP20 No Waterproof / 100 cm</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>2551077-green-ip20-no-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Green / IP20 No Waterproof / 200 cm</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2551077-green-ip20-no-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Green / IP20 No Waterproof / 300 cm</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>2551077-green-ip20-no-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Green / IP20 No Waterproof / 400 cm</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>2551077-green-ip20-no-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Green / IP20 No Waterproof / 500 cm</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>2551077-green-ip20-no-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Green / IP20 No Waterproof / 50 cm</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2551077-green-ip20-no-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Red / IP20 No Waterproof / 100 cm</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>2551077-red-ip20-no-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Red / IP20 No Waterproof / 200 cm</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2551077-red-ip20-no-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Red / IP20 No Waterproof / 300 cm</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>2551077-red-ip20-no-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Red / IP20 No Waterproof / 400 cm</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>2551077-red-ip20-no-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Red / IP20 No Waterproof / 500 cm</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>2551077-red-ip20-no-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Red / IP20 No Waterproof / 50 cm</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>2551077-red-ip20-no-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>RGB / IP20 No Waterproof / 100 cm</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>2551077-rgb-ip20-no-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>RGB / IP20 No Waterproof / 200 cm</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>2551077-rgb-ip20-no-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>RGB / IP20 No Waterproof / 300 cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2551077-rgb-ip20-no-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>RGB / IP20 No Waterproof / 400 cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>2551077-rgb-ip20-no-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>RGB / IP20 No Waterproof / 500 cm</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>2551077-rgb-ip20-no-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>RGB / IP20 No Waterproof / 50 cm</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>2551077-rgb-ip20-no-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>White / IP20 No Waterproof / 100 cm</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>2551077-white-ip20-no-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>White / IP20 No Waterproof / 200 cm</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2551077-white-ip20-no-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>White / IP20 No Waterproof / 300 cm</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>2551077-white-ip20-no-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>White / IP20 No Waterproof / 400 cm</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>2551077-white-ip20-no-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>White / IP20 No Waterproof / 500 cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>2551077-white-ip20-no-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>White / IP20 No Waterproof / 50 cm</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2551077-white-ip20-no-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Warm White / IP20 No Waterproof / 100 cm</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>2551077-warm-white-ip20-no-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Warm White / IP20 No Waterproof / 200 cm</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2551077-warm-white-ip20-no-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Warm White / IP20 No Waterproof / 300 cm</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>2551077-warm-white-ip20-no-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Warm White / IP20 No Waterproof / 400 cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2551077-warm-white-ip20-no-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Warm White / IP20 No Waterproof / 500 cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>2551077-warm-white-ip20-no-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Warm White / IP20 No Waterproof / 50 cm</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>2551077-warm-white-ip20-no-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Blue / IP65 Waterproof / 100 cm</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>2551077-blue-ip65-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Blue / IP65 Waterproof / 200 cm</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>2551077-blue-ip65-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Blue / IP65 Waterproof / 300 cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>2551077-blue-ip65-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Blue / IP65 Waterproof / 400 cm</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>2551077-blue-ip65-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Blue / IP65 Waterproof / 500 cm</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>2551077-blue-ip65-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Blue / IP65 Waterproof / 50 cm</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>2551077-blue-ip65-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Green / IP65 Waterproof / 100 cm</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>2551077-green-ip65-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Green / IP65 Waterproof / 200 cm</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>2551077-green-ip65-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Green / IP65 Waterproof / 300 cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>2551077-green-ip65-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Green / IP65 Waterproof / 400 cm</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>2551077-green-ip65-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Green / IP65 Waterproof / 500 cm</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>2551077-green-ip65-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Green / IP65 Waterproof / 50 cm</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>2551077-green-ip65-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Red / IP65 Waterproof / 100 cm</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>2551077-red-ip65-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Red / IP65 Waterproof / 200 cm</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>2551077-red-ip65-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Red / IP65 Waterproof / 300 cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>2551077-red-ip65-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Red / IP65 Waterproof / 400 cm</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>2551077-red-ip65-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Red / IP65 Waterproof / 500 cm</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>2551077-red-ip65-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Red / IP65 Waterproof / 50 cm</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>2551077-red-ip65-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>RGB / IP65 Waterproof / 100 cm</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>2551077-rgb-ip65-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>RGB / IP65 Waterproof / 200 cm</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>2551077-rgb-ip65-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>RGB / IP65 Waterproof / 300 cm</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>2551077-rgb-ip65-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>RGB / IP65 Waterproof / 400 cm</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>2551077-rgb-ip65-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>RGB / IP65 Waterproof / 500 cm</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>2551077-rgb-ip65-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>RGB / IP65 Waterproof / 50 cm</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>2551077-rgb-ip65-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>White / IP65 Waterproof / 100 cm</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>2551077-white-ip65-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>White / IP65 Waterproof / 200 cm</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>2551077-white-ip65-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>White / IP65 Waterproof / 300 cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>2551077-white-ip65-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>White / IP65 Waterproof / 400 cm</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>2551077-white-ip65-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>White / IP65 Waterproof / 500 cm</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>2551077-white-ip65-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>White / IP65 Waterproof / 50 cm</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>2551077-white-ip65-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Warm White / IP65 Waterproof / 100 cm</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>2551077-warm-white-ip65-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Warm White / IP65 Waterproof / 200 cm</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>2551077-warm-white-ip65-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Warm White / IP65 Waterproof / 300 cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>2551077-warm-white-ip65-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Warm White / IP65 Waterproof / 400 cm</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>2551077-warm-white-ip65-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Warm White / IP65 Waterproof / 500 cm</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>2551077-warm-white-ip65-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813011</id>
+      <title>Warm White / IP65 Waterproof / 50 cm</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>2551077-warm-white-ip65-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11868813651</id>
+    <published>2019-05-21T18:55:41-05:00</published>
+    <updated>2019-05-21T18:55:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/led-strip-5050-led-lights-12v-flexible-home-decoration-lighting-1-2-3-4-5m-led-tape-rgb-white-warm-white-blue-green-red"/>
+    <title>LED Strip 5050 LED lights 12V Flexible Home Decoration Lighting 1/2/3/4/5M LED Tape RGB/White/Warm White/Blue/Green/Red</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-356787958.jpg?v=1578612136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.99 - 24.99
+            <a href="https://www.chmelaeon.com/products/led-strip-5050-led-lights-12v-flexible-home-decoration-lighting-1-2-3-4-5m-led-tape-rgb-white-warm-white-blue-green-red">(72 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> gooit</span><br><span><strong>Strip type:</strong> SMD</span><br><span><strong>Waterproof:</strong> Yes</span><br><span><strong>LED Chip Brand:</strong> Cree</span><br><span><strong>LEDs Number/M:</strong> 60 pcs/m</span><br><span><strong>Occasion:</strong> living room</span><br><span><strong>Power Consumption (W/m):</strong> 3.84W/m</span><br><span><strong>Power Source:</strong> DC</span><br><span><strong>Voltage:</strong> 12V</span><br><span><strong>Certification:</strong> RoHS,CCC</span><br><span><strong>Average Life (hrs):</strong> 50000</span><br><span><strong>LED Chip Model:</strong> SMD5050</span><br><span><strong>Model Number:</strong> SMD5050</span><br><span><strong>Power Generation:</strong> Switch</span><br><span><strong>Color Temp(K):</strong> 2700</span><br><span><strong>Item Type:</strong> Strip</span><br><span><strong>Specifications (light beads / m):</strong> 60</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Blue / IP20 No Waterproof / 500 cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>8098166-blue-ip20-no-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Blue / IP20 No Waterproof / 100 cm</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8098166-blue-ip20-no-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Blue / IP20 No Waterproof / 200 cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>8098166-blue-ip20-no-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Blue / IP20 No Waterproof / 300 cm</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>8098166-blue-ip20-no-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Blue / IP20 No Waterproof / 400 cm</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8098166-blue-ip20-no-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Blue / IP20 No Waterproof / 50 cm</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>8098166-blue-ip20-no-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Green / IP20 No Waterproof / 500 cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>8098166-green-ip20-no-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Green / IP20 No Waterproof / 100 cm</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8098166-green-ip20-no-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Green / IP20 No Waterproof / 200 cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>8098166-green-ip20-no-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Green / IP20 No Waterproof / 300 cm</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>8098166-green-ip20-no-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Green / IP20 No Waterproof / 400 cm</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8098166-green-ip20-no-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Green / IP20 No Waterproof / 50 cm</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>8098166-green-ip20-no-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Red / IP20 No Waterproof / 500 cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>8098166-red-ip20-no-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Red / IP20 No Waterproof / 100 cm</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8098166-red-ip20-no-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Red / IP20 No Waterproof / 200 cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>8098166-red-ip20-no-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Red / IP20 No Waterproof / 300 cm</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>8098166-red-ip20-no-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Red / IP20 No Waterproof / 400 cm</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8098166-red-ip20-no-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Red / IP20 No Waterproof / 50 cm</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>8098166-red-ip20-no-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>RGB / IP20 No Waterproof / 500 cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8098166-rgb-ip20-no-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>RGB / IP20 No Waterproof / 100 cm</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>8098166-rgb-ip20-no-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>RGB / IP20 No Waterproof / 200 cm</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>8098166-rgb-ip20-no-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>RGB / IP20 No Waterproof / 300 cm</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8098166-rgb-ip20-no-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>RGB / IP20 No Waterproof / 400 cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>8098166-rgb-ip20-no-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>RGB / IP20 No Waterproof / 50 cm</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>8098166-rgb-ip20-no-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>White / IP20 No Waterproof / 500 cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>8098166-white-ip20-no-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>White / IP20 No Waterproof / 100 cm</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8098166-white-ip20-no-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>White / IP20 No Waterproof / 200 cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>8098166-white-ip20-no-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>White / IP20 No Waterproof / 300 cm</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>8098166-white-ip20-no-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>White / IP20 No Waterproof / 400 cm</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8098166-white-ip20-no-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>White / IP20 No Waterproof / 50 cm</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>8098166-white-ip20-no-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Warm White / IP20 No Waterproof / 500 cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>8098166-warm-white-ip20-no-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Warm White / IP20 No Waterproof / 100 cm</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8098166-warm-white-ip20-no-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Warm White / IP20 No Waterproof / 200 cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>8098166-warm-white-ip20-no-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Warm White / IP20 No Waterproof / 300 cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>8098166-warm-white-ip20-no-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Warm White / IP20 No Waterproof / 400 cm</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8098166-warm-white-ip20-no-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Warm White / IP20 No Waterproof / 50 cm</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>8098166-warm-white-ip20-no-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Blue / IP65 Waterproof / 500 cm</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>8098166-blue-ip65-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Blue / IP65 Waterproof / 100 cm</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>8098166-blue-ip65-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Blue / IP65 Waterproof / 200 cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8098166-blue-ip65-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Blue / IP65 Waterproof / 300 cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8098166-blue-ip65-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Blue / IP65 Waterproof / 400 cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8098166-blue-ip65-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Blue / IP65 Waterproof / 50 cm</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8098166-blue-ip65-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Green / IP65 Waterproof / 500 cm</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>8098166-green-ip65-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Green / IP65 Waterproof / 100 cm</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>8098166-green-ip65-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Green / IP65 Waterproof / 200 cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8098166-green-ip65-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Green / IP65 Waterproof / 300 cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8098166-green-ip65-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Green / IP65 Waterproof / 400 cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8098166-green-ip65-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Green / IP65 Waterproof / 50 cm</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8098166-green-ip65-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Red / IP65 Waterproof / 500 cm</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>8098166-red-ip65-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Red / IP65 Waterproof / 100 cm</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>8098166-red-ip65-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Red / IP65 Waterproof / 200 cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8098166-red-ip65-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Red / IP65 Waterproof / 300 cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8098166-red-ip65-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Red / IP65 Waterproof / 400 cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8098166-red-ip65-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Red / IP65 Waterproof / 50 cm</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8098166-red-ip65-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>RGB / IP65 Waterproof / 500 cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8098166-rgb-ip65-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>RGB / IP65 Waterproof / 100 cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>8098166-rgb-ip65-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>RGB / IP65 Waterproof / 200 cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8098166-rgb-ip65-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>RGB / IP65 Waterproof / 300 cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8098166-rgb-ip65-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>RGB / IP65 Waterproof / 400 cm</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>8098166-rgb-ip65-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>RGB / IP65 Waterproof / 50 cm</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>8098166-rgb-ip65-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>White / IP65 Waterproof / 500 cm</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>8098166-white-ip65-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>White / IP65 Waterproof / 100 cm</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>8098166-white-ip65-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>White / IP65 Waterproof / 200 cm</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>8098166-white-ip65-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>White / IP65 Waterproof / 300 cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8098166-white-ip65-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>White / IP65 Waterproof / 400 cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8098166-white-ip65-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>White / IP65 Waterproof / 50 cm</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8098166-white-ip65-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Warm White / IP65 Waterproof / 500 cm</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>8098166-warm-white-ip65-waterproof-500-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Warm White / IP65 Waterproof / 100 cm</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>8098166-warm-white-ip65-waterproof-100-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Warm White / IP65 Waterproof / 200 cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8098166-warm-white-ip65-waterproof-200-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Warm White / IP65 Waterproof / 300 cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8098166-warm-white-ip65-waterproof-300-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Warm White / IP65 Waterproof / 400 cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8098166-warm-white-ip65-waterproof-400-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868813651</id>
+      <title>Warm White / IP65 Waterproof / 50 cm</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8098166-warm-white-ip65-waterproof-50-cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11868814995</id>
+    <published>2019-05-21T18:55:40-05:00</published>
+    <updated>2019-05-21T18:55:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/elecshion-led-e27-e14-bulbs-tubes-lamp-light-source-ac-220v-led-corn-candle-lights-for-home-smd-5730-daytime-running-chandelier"/>
+    <title>Elecshion LED E27 E14 Bulbs Tubes Lamp Light Source AC 220V LED Corn Candle Lights for Home SMD 5730 Daytime Running Chandelier</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-323716120.jpg?v=1578612136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99 - 4.99
+            <a href="https://www.chmelaeon.com/products/elecshion-led-e27-e14-bulbs-tubes-lamp-light-source-ac-220v-led-corn-candle-lights-for-home-smd-5730-daytime-running-chandelier">(28 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> LED Bulbs</span><br><span><strong>Certification:</strong> UL,CQC,CE,FCC,VDE,RoHS,EMC,LVD,CCC</span><br><span><strong>Luminous Flux:</strong> 500 - 999 Lumens</span><br><span><strong>Beam Angle(°):</strong> 360°</span><br><span><strong>Average Life (hrs):</strong> 50000hours</span><br><span><strong>Brand Name:</strong> Elecshion</span><br><span><strong>Led Bulb Type:</strong> Corn Bulb</span><br><span><strong>Number of LED Chip:</strong> other</span><br><span><strong>LED Chip Brand:</strong> Epistar</span><br><span><strong>Occasion:</strong> living room</span><br><span><strong>Base Type:</strong> E27</span><br><span><strong>LED Chip Model:</strong> SMD5730</span><br><span><strong>Power Tolerance:</strong> 10%</span><br><span><strong>Voltage:</strong> AC 220V</span><br><span><strong>Color Temperature:</strong> Cool White(5500-7000K)</span><br><span><strong>Length:</strong> 80/95/79/95/95/95/95/102mm</span><br><span><strong>Shape:</strong> corn bulb</span><br><span><strong>Color Temperature:</strong> Warm White (2700-3500K) / Cool White (5500-7000K)</span><br><span><strong>Base Type:</strong> E27 / E14</span><br><span><strong>Occasion:</strong> Living room / bedroom / indoor lighting</span><br><span><strong>Dimmable:</strong> E27 Base 24/36LEDS Can dimmable</span><br><span><strong>Style:</strong> Crative lighting / custom led lights / led energy saving lamp</span><br><span><strong>Used for:</strong> Light indicators / ceiling light fan / chandelier</span><br><span><strong>Lamp hood / Lamp shade:</strong> Transparent / milky</span><br><span><strong>Use place:</strong> Interior light</span><br><span><strong>Features:</strong> Portable light /  novelty light</span><br><span><strong>Professional led energy saving lighting:</strong> Yes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>white / E27 24LEDs 220v</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4700391-white-e27-24leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>warm white / E27 24LEDs 220v</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4700391-warm-white-e27-24leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>white / E27 36LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-white-e27-36leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>warm white / E27 36LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-warm-white-e27-36leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>white / E27 48LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-white-e27-48leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>warm white / E27 48LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-warm-white-e27-48leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>white / E27 56LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-white-e27-56leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>warm white / E27 56LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-warm-white-e27-56leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>white / E27 69LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-white-e27-69leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>warm white / E27 69LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-warm-white-e27-69leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>white / E27 72LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-white-e27-72leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>warm white / E27 72LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-warm-white-e27-72leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>white / E14 24LEDs 220v</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4700391-white-e14-24leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>warm white / E14 24LEDs 220v</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4700391-warm-white-e14-24leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>white / E14 36LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-white-e14-36leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>warm white / E14 36LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-warm-white-e14-36leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>white / E14  48LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-white-e14-48leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>warm white / E14  48LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-warm-white-e14-48leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>white / E14 56LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-white-e14-56leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>warm white / E14 56LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-warm-white-e14-56leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>white / E14 69LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-white-e14-69leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>warm white / E14 69LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-warm-white-e14-69leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>white / E14 72LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-white-e14-72leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>warm white / E14 72LEDs 220v</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-warm-white-e14-72leds-220v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>white / E27 24LEDs Dimmable</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-white-e27-24leds-dimmable</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>warm white / E27 24LEDs Dimmable</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-warm-white-e27-24leds-dimmable</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>white / E27 36LEDs Dimmable</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-white-e27-36leds-dimmable</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814995</id>
+      <title>warm white / E27 36LEDs Dimmable</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>4700391-warm-white-e27-36leds-dimmable</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11868814803</id>
+    <published>2019-05-21T18:55:40-05:00</published>
+    <updated>2019-05-21T18:55:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/led-lamp-bulb-e27-e14-candle-light-bombillas-220v-smd-5730-home-decoration-lamp-for-chandelier-spotlight-24-36-48-56-69-106leds"/>
+    <title>LED lamp Bulb E27 E14 Candle Light Bombillas 220V SMD 5730 Home Decoration Lamp for Chandelier Spotlight 24 36 48 56 69 106LEDs</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-320065315.jpg?v=1578612136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.99 - 9.99
+            <a href="https://www.chmelaeon.com/products/led-lamp-bulb-e27-e14-candle-light-bombillas-220v-smd-5730-home-decoration-lamp-for-chandelier-spotlight-24-36-48-56-69-106leds">(36 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> LED Bulbs</span><br><span><strong>Certification:</strong> CE,RoHS,CCC</span><br><span><strong>Length:</strong> 0.28m</span><br><span><strong>Shape:</strong> Annular</span><br><span><strong>Average Life (hrs):</strong> 30000</span><br><span><strong>Beam Angle(°):</strong> 360°</span><br><span><strong>Base Type:</strong> G4</span><br><span><strong>Voltage:</strong> AC220V</span><br><span><strong>Brand Name:</strong> LANCHUANG</span><br><span><strong>Led Bulb Type:</strong> Corn Bulb</span><br><span><strong>Luminous Flux:</strong> 250 - 499 Lumens</span><br><span><strong>Occasion:</strong> living room</span><br><span><strong>Number of LED Chip:</strong> 1 pcs</span><br><span><strong>Power Tolerance:</strong> 3%</span><br><span><strong>LED Chip Model:</strong> 5730</span><br><span><strong>Color Temperature:</strong> Cool White(5500-7000K)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Cold White / E14 220V 24LEDs</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>7251471-cold-white-e14-220v-24leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Cold White / E27 220V 24LEDs</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>7251471-cold-white-e27-220v-24leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Warm White / E14 220V 24LEDs</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>7251471-warm-white-e14-220v-24leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Warm White / E27 220V 24LEDs</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>7251471-warm-white-e27-220v-24leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Cold White / E14 220V 36LEDs</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>7251471-cold-white-e14-220v-36leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Cold White / E27 220V 36LEDs</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>7251471-cold-white-e27-220v-36leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Warm White / E14 220V 36LEDs</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>7251471-warm-white-e14-220v-36leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Warm White / E27 220V 36LEDs</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>7251471-warm-white-e27-220v-36leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Cold White / E14 220V 48LEDs</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>7251471-cold-white-e14-220v-48leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Cold White / E27 220V 48LEDs</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>7251471-cold-white-e27-220v-48leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Warm White / E14 220V 48LEDs</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>7251471-warm-white-e14-220v-48leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Warm White / E27 220V 48LEDs</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>7251471-warm-white-e27-220v-48leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Cold White / E14 220V 56LEDs</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>7251471-cold-white-e14-220v-56leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Cold White / E27 220V 56LEDs</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>7251471-cold-white-e27-220v-56leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Warm White / E14 220V 56LEDs</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>7251471-warm-white-e14-220v-56leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Warm White / E27 220V 56LEDs</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>7251471-warm-white-e27-220v-56leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Cold White / E14 220V 69LEDs</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>7251471-cold-white-e14-220v-69leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Cold White / E27 220V 69LEDs</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>7251471-cold-white-e27-220v-69leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Warm White / E14 220V 69LEDs</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>7251471-warm-white-e14-220v-69leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Warm White / E27 220V 69LEDs</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>7251471-warm-white-e27-220v-69leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Cold White / E14 220V 72LEDs</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>7251471-cold-white-e14-220v-72leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Cold White / E27 220V 72LEDs</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>7251471-cold-white-e27-220v-72leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Warm White / E14 220V 72LEDs</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>7251471-warm-white-e14-220v-72leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Warm White / E27 220V 72LEDs</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>7251471-warm-white-e27-220v-72leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Cold White / E14 220V 96LEDs</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7251471-cold-white-e14-220v-96leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Cold White / E27 220V 96LEDs</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>7251471-cold-white-e27-220v-96leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Warm White / E14 220V 96LEDs</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7251471-warm-white-e14-220v-96leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Warm White / E27 220V 96LEDs</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>7251471-warm-white-e27-220v-96leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Cold White / E14 220V 106LEDs</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>7251471-cold-white-e14-220v-106leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Cold White / E27 220V 106LEDs</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>7251471-cold-white-e27-220v-106leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Warm White / E14 220V 106LEDs</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>7251471-warm-white-e14-220v-106leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Warm White / E27 220V 106LEDs</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>7251471-warm-white-e27-220v-106leds</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Cold White / 3W E27</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>7251471-cold-white-3w-e27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Warm White / 3W E27</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>7251471-warm-white-3w-e27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Cold White / 5W E27</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>7251471-cold-white-5w-e27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868814803</id>
+      <title>Warm White / 5W E27</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>7251471-warm-white-5w-e27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11868816595</id>
+    <published>2019-05-21T18:55:39-05:00</published>
+    <updated>2019-05-21T18:55:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/led-ac-30-500v-digital-voltmeter-home-use-voltage-display-w-2-wires-red-voltage-meters-electrical-instruments"/>
+    <title>LED AC 30-500V Digital Voltmeter Home Use Voltage Display w/ 2 Wires Red Voltage Meters Electrical Instruments</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-356248766.jpg?v=1578612136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Dimensions:</strong> 30X12X9mm</span><br><span><strong>Model Number:</strong> Digital volt meter</span><br><span><strong>DIY Supplies:</strong> Electrical</span><br><span><strong>Operating Temperature:</strong> -15C+60C</span><br><span><strong>Display Type:</strong> Digital Only</span><br><span><strong>Measuring Range:</strong> AC70V-500V</span><br><span><strong>Accuracy Class:</strong> A</span><br><span><strong>Power Supply:</strong> AC70V-500V</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868816595</id>
+      <title>Green</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8079555-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868816595</id>
+      <title>Blue</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8079555-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868816595</id>
+      <title>Red</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8079555-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868816595</id>
+      <title>Yellow</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8079555-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11868815251</id>
+    <published>2019-05-21T18:55:39-05:00</published>
+    <updated>2019-05-21T18:55:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/fashion-modern-art-high-grade-e27-wall-lamp-for-home-bedroom-living-room-decoration-wall-light-black-bat-wwl046"/>
+    <title>Fashion Modern Art High Grade E27 Wall Lamp For Home Bedroom Living Room Decoration Wall Light Black Bat WWL046</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-273192990.jpg?v=1578612136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Wall Lamps</span><br><span><strong>Features:</strong> Batmen</span><br><span><strong>Certification:</strong> CE,RoHS,CCC</span><br><span><strong>Power Source:</strong> AC</span><br><span><strong>Usage:</strong> Holiday</span><br><span><strong>Material:</strong> Acryl</span><br><span><strong>Is Dimmable:</strong> Yes</span><br><span><strong>Base Type:</strong> E27</span><br><span><strong>Application:</strong> Bed Room</span><br><span><strong>Shade Type:</strong> Shadeless</span><br><span><strong>Warranty:</strong> 3 year</span><br><span><strong>Light Source:</strong> LED Bulbs</span><br><span><strong>Technics:</strong> Forged</span><br><span><strong>Is Bulbs Included:</strong> Yes</span><br><span><strong>Installation Type:</strong> Wall Mounted</span><br><span><strong>Shade Direction:</strong> Up &amp; Down</span><br><span><strong>Voltage:</strong> 90-260V</span><br><span><strong>Body Color:</strong> Black</span><br><span><strong>Lighting Area:</strong> 5-10square meters</span><br><span><strong>Style:</strong> Novelty</span><br><span><strong>Model Number:</strong> WWL046</span><br><span><strong>Number of light sources:</strong> 1</span><br><span><strong>Body Material:</strong> Acrylic</span><br><span><strong>Switch Type:</strong> Modern</span><br><span><strong>Dimension:</strong> L300mm*W200mm*H55mm</span><br><span><strong>Wall mounted Bedroom Lighitng:</strong> LED Wall Sconce</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868815251</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>4393137-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11868817427</id>
+    <published>2019-05-21T18:55:38-05:00</published>
+    <updated>2019-05-21T18:55:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/practical-1-4-105-degree-hex-shank-right-angle-head-screwdriver-for-power-drill-screwdriver-bits-tools-home-tools"/>
+    <title>Practical 1/4&quot; 105 Degree Hex Shank Right Angle Head Screwdriver For Power Drill Screwdriver Bits Tools Home Tools</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-362508055.jpg?v=1578612136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> ANENG</span><br><span><strong>Screw Head Type:</strong> Hex</span><br><span><strong>Model Number:</strong> Screwdriver Bits</span><br><span><strong>Type:</strong> Precision Screwdriver</span><br><span><strong>Size:</strong> 1/4 Hex Shank</span><br><span><strong>is_customized:</strong> No</span><br><span><strong>Screw Head Size:</strong> Hex</span><br><span><strong>Magnetic:</strong> No</span><br><span><strong>Material:</strong> Stainless Steel</span><br><span><strong>Package:</strong> Under 5Pcs</span><br><span><strong>With Handle Or Not:</strong> No</span><br><span><strong>Degrees:</strong> 105 degrees Drill</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868817427</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>8080280</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11868822675</id>
+    <published>2019-05-21T18:55:37-05:00</published>
+    <updated>2019-05-21T18:55:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/wholesale-colorful-artificial-butterfly-led-night-light-home-party-bedroom-wedding-decoration-lights-lamp-wall-sticker-kids-gift"/>
+    <title>Wholesale Colorful Artificial Butterfly LED Night Light Home Party Bedroom Wedding Decoration Lights Lamp Wall Sticker Kids Gift</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-304634848.jpg?v=1578612137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Night Lights</span><br><span><strong>Certification:</strong> CE,RoHS,CCC</span><br><span><strong>Battery Type:</strong> Button Cell</span><br><span><strong>Is Batteries Required:</strong> Yes</span><br><span><strong>Usage:</strong> Holiday</span><br><span><strong>Power Source:</strong> Dry Battery</span><br><span><strong>Is Batteries Included:</strong> Yes</span><br><span><strong>Body Material:</strong> ABS</span><br><span><strong>Wattage:</strong> 0-5W</span><br><span><strong>Light Source:</strong> LED Bulbs</span><br><span><strong>Is Bulbs Included:</strong> Yes</span><br><span><strong>Shape:</strong> Animal</span><br><span><strong>Power Generation:</strong> Switch</span><br><span><strong>Brand Name:</strong> PUMAOTEC</span><br><span><strong>Model Number:</strong> butterfly led night light (battery included)</span><br><span><strong>Type:</strong> Night Light</span><br><span><strong>Voltage:</strong> 4.5V</span><br><span><strong>The light source type:</strong> LED lamp</span><br><span><strong>Outline dimension:</strong> Base 3.7 CM LED butterfly sizes (mm)</span><br><span><strong>The main scope of application:</strong> The corridor, leisure and entertainment, hotel lobby, corridor, Home F</span><br><span><strong>switch type:</strong> Push button</span><br><span><strong>style:</strong> modern wall sticker led lamp</span><br><span><strong>Apply a gift occasions:</strong> birthday, awards ceremony, advertising sales promotion, anniversary</span><br><span><strong>Power supply mode:</strong> Battery (included)</span><br><span><strong>The power of the light source:</strong> 1W</span><br><span><strong>The color of the light:</strong> The butterfly small night lamp, fiber optic tree a night light</span><br><span><strong>Buyer Tips:</strong> Please order two pieces at least</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868822675</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>2208921-multicolor</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11868834771</id>
+    <published>2019-05-21T18:55:35-05:00</published>
+    <updated>2019-05-21T18:55:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/marlboze-english-russian-spansih-voice-prompt-sim-home-security-gsm-alarm-system-auto-dialing-dialer-sms-call-remote-control"/>
+    <title>Marlboze English Russian Spansih Voice Prompt SIM Home Security GSM Alarm System Auto Dialing Dialer SMS Call Remote control</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-304309541.jpg?v=1578612138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            74.99 - 143.99
+            <a href="https://www.chmelaeon.com/products/marlboze-english-russian-spansih-voice-prompt-sim-home-security-gsm-alarm-system-auto-dialing-dialer-sms-call-remote-control">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Password Keyboard:</strong> No</span><br><span><strong>Power:</strong> AC100-240V</span><br><span><strong>Video Interface:</strong> No</span><br><span><strong>Arming Type:</strong> FR Remote-controller</span><br><span><strong>Output Number:</strong> one</span><br><span><strong>Brand Name:</strong> Marlboze</span><br><span><strong>Size:</strong> 170*110*28.5mm</span><br><span><strong>Display:</strong> No</span><br><span><strong>Communication Interface:</strong> Wireless</span><br><span><strong>Model Number:</strong> GSM01</span><br><span><strong>Alarm Type:</strong> SMS</span><br><span><strong>Zone Number:</strong> six</span><br><span><strong>Kit Configuration:</strong> Door/Window Sensor</span><br><span><strong>GSM frequency:</strong> 900/1800/1900MHz</span><br><span><strong>wireless frequency:</strong> 433.92MHz/2262/4.7MΩ</span><br><span><strong>Input Voltage:</strong> DC9V~12V</span><br><span><strong>Wireless zone:</strong> 6 wireless zones</span><br><span><strong>Wired zone:</strong> 4 wired zones</span><br><span><strong>Support voice language :</strong> English /Russian /Spansih</span><br><span><strong>Alarm Loudness:</strong> 110dB</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868834771</id>
+      <title>China / Set D</title>
+      <s:price currency="USD">106.99</s:price>
+      <s:sku>1693046-china-set-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868834771</id>
+      <title>China / Set A</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>1693046-china-set-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868834771</id>
+      <title>China / Set B</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>1693046-china-set-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868834771</id>
+      <title>China / Set C</title>
+      <s:price currency="USD">91.99</s:price>
+      <s:sku>1693046-china-set-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868834771</id>
+      <title>China / Set F</title>
+      <s:price currency="USD">143.99</s:price>
+      <s:sku>1693046-china-set-f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868834771</id>
+      <title>China / Set E</title>
+      <s:price currency="USD">114.99</s:price>
+      <s:sku>1693046-china-set-e</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868834771</id>
+      <title>Russian Federation / Set D</title>
+      <s:price currency="USD">106.99</s:price>
+      <s:sku>1693046-russian-federation-set-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868834771</id>
+      <title>Russian Federation / Set A</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>1693046-russian-federation-set-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868834771</id>
+      <title>Russian Federation / Set B</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>1693046-russian-federation-set-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868834771</id>
+      <title>Russian Federation / Set C</title>
+      <s:price currency="USD">91.99</s:price>
+      <s:sku>1693046-russian-federation-set-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868834771</id>
+      <title>Russian Federation / Set F</title>
+      <s:price currency="USD">143.99</s:price>
+      <s:sku>1693046-russian-federation-set-f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11868834771</id>
+      <title>Russian Federation / Set E</title>
+      <s:price currency="USD">114.99</s:price>
+      <s:sku>1693046-russian-federation-set-e</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

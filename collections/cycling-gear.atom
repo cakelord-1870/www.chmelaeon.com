@@ -1,0 +1,1794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.chmelaeon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.chmelaeon.com/collections/cycling-gear.atom"/>
+  <title>Chmelaeon</title>
+  <updated>2019-07-13T13:32:05-05:00</updated>
+  <author>
+    <name>Chmelaeon</name>
+  </author>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1917462380607</id>
+    <published>2019-07-13T13:32:05-05:00</published>
+    <updated>2019-07-13T13:32:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/continenta-race-king-2-0-mtb-bicycle-tire-26-27-5-29-1-95-2-0-2-1-2-2-fold-bike-tyre-bmx-29-pneu-cycling-bicicleta-maxxi-parts"/>
+    <title>Continenta Race King 2.0 MTB Bicycle Tire 26/27.5/29*1.95 2.0 2.1 2.2 Fold Bike tyre BMX 29 pneu Cycling bicicleta maxxi parts</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-658614157.jpg?v=1578614163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.99 - 79.99
+            <a href="https://www.chmelaeon.com/products/continenta-race-king-2-0-mtb-bicycle-tire-26-27-5-29-1-95-2-0-2-1-2-2-fold-bike-tyre-bmx-29-pneu-cycling-bicicleta-maxxi-parts">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Use:</strong> Mountain Bikes</span><br><span><strong>Use:</strong> BMX</span><br><span><strong>Type:</strong> Tire</span><br><span><strong>is_customized:</strong> Yes</span><br><span><strong>Model Number:</strong> Continental Race King 2.0/2.2</span><br><span><strong>Brand Name:</strong> Kenda</span><br><span><strong>Size:</strong> Other</span><br><span><strong>Width:</strong> Other</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462380607</id>
+      <title>Race King 26x2.0</title>
+      <s:price currency="USD">68.99</s:price>
+      <s:sku>15723746-race-king-26x2-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462380607</id>
+      <title>Race King 27.5x2.0</title>
+      <s:price currency="USD">70.99</s:price>
+      <s:sku>15723746-race-king-27-5x2-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462380607</id>
+      <title>Race King 29x2.0</title>
+      <s:price currency="USD">75.99</s:price>
+      <s:sku>15723746-race-king-29x2-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462380607</id>
+      <title>Race King 27.5x2.2</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>15723746-race-king-27-5x2-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462380607</id>
+      <title>Crossmark 27.5x1.95</title>
+      <s:price currency="USD">56.99</s:price>
+      <s:sku>15723746-crossmark-27-5x1-95</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462380607</id>
+      <title>Crossmark 29x2.1</title>
+      <s:price currency="USD">58.99</s:price>
+      <s:sku>15723746-crossmark-29x2-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462380607</id>
+      <title>Crossmark 26x2.1</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>15723746-crossmark-26x2-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462380607</id>
+      <title>Race King 29x2.2</title>
+      <s:price currency="USD">70.99</s:price>
+      <s:sku>15723746-race-king-29x2-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1917462249535</id>
+    <published>2019-07-13T13:32:05-05:00</published>
+    <updated>2019-07-13T13:32:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/kenda-bike-tire-pneu-mtb-29-27-5-26-folding-bead-bmx-mountain-bike-bicycle-tire-anti-puncture-ultralight-cycling-bicycle-tires"/>
+    <title>Kenda Bike Tire Pneu Mtb 29 /27.5/ 26 Folding Bead BMX Mountain Bike Bicycle Tire Anti Puncture Ultralight Cycling Bicycle Tires</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-974461711.jpg?v=1578614162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            40.99 - 50.99
+            <a href="https://www.chmelaeon.com/products/kenda-bike-tire-pneu-mtb-29-27-5-26-folding-bead-bmx-mountain-bike-bicycle-tire-anti-puncture-ultralight-cycling-bicycle-tires">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Tire</span><br><span><strong>Width:</strong> 2.125"</span><br><span><strong>Use:</strong> Mountain Bikes</span><br><span><strong>Use:</strong> Cruisers</span><br><span><strong>Use:</strong> BMX</span><br><span><strong>Model Number:</strong> K1047/Kenda Small Block 8</span><br><span><strong>is_customized:</strong> Yes</span><br><span><strong>Brand Name:</strong> Kenda</span><br><span><strong>Size:</strong> Other</span><br><span><strong>Compound:</strong> DTC</span><br><span><strong>Bead:</strong> Fold</span><br><span><strong>TPI:</strong> 60</span><br><span><strong>Application:</strong> Front and Rear Wheel</span><br><span><strong>Features 1:</strong> Micro-knob tread pattern, Light weight</span><br><span><strong>Features 2:</strong> fast rolling with grip for all surface conditions</span><br><span><strong>Features 3:</strong> Tires for mountain bike, BMX, Touring...</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462249535</id>
+      <title>26 X 1.95</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>25314857-26-x-1-95</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462249535</id>
+      <title>26 X 2.35</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>25314857-26-x-2-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462249535</id>
+      <title>27.5 X 1.95</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>25314857-27-5-x-1-95</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462249535</id>
+      <title>27.5 X 2.1</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>25314857-27-5-x-2-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462249535</id>
+      <title>29 X 2.1</title>
+      <s:price currency="USD">50.99</s:price>
+      <s:sku>25314857-29-x-2-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462249535</id>
+      <title>29 X 1.95</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>25314857-29-x-1-95</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1917462216767</id>
+    <published>2019-07-13T13:32:05-05:00</published>
+    <updated>2019-07-13T13:32:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/continental-grand-ultra-sport-race-tyre-cycling-race-bicycle-tyre-700x23c-25c-28c-road-bike-tire-puncture-proof-bicycle-tires"/>
+    <title>continental GRAND/Ultra sport RACE tyre cycling race bicycle tyre 700x23c 25c 28c Road Bike Tire Puncture proof bicycle tires</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-951623716.jpg?v=1578614162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.99 - 41.99
+            <a href="https://www.chmelaeon.com/products/continental-grand-ultra-sport-race-tyre-cycling-race-bicycle-tyre-700x23c-25c-28c-road-bike-tire-puncture-proof-bicycle-tires">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Tire</span><br><span><strong>Use:</strong> Road Bicycles</span><br><span><strong>Size:</strong> 700 * 23C</span><br><span><strong>Model Number:</strong> GRAND/ultra sport</span><br><span><strong>Width:</strong> Other</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462216767</id>
+      <title>Grand 25c foldable</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>2229350-grand-25c-foldable</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462216767</id>
+      <title>Grand 23c foldable</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2229350-grand-23c-foldable</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462216767</id>
+      <title>Ultra 25c foldable</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2229350-ultra-25c-foldable</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462216767</id>
+      <title>Ultra 25c unfoldable</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>2229350-ultra-25c-unfoldable</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462216767</id>
+      <title>Ultra 23c unfoldable</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>2229350-ultra-23c-unfoldable</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462216767</id>
+      <title>ultra 28c foldable</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>2229350-ultra-28c-foldable</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462216767</id>
+      <title>Grand 28c foldable</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2229350-grand-28c-foldable</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462216767</id>
+      <title>ultra 23c foldable</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>2229350-ultra-23c-foldable</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/1917462118463</id>
+    <published>2019-07-13T13:32:05-05:00</published>
+    <updated>2019-07-13T13:32:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/bicycle-bike-tire-12-16-20-24-26-inch-inner-tubes-schrader-tyres-1-75-2-125-inch-width-bike-cycling-tire-rubber-tube-for-mtb"/>
+    <title>Bicycle Bike Tire 12/16/20/24/26 inch Inner Tubes Schrader Tyres 1.75/2.125 inch width Bike Cycling Tire Rubber Tube for MTB</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-995562644.jpg?v=1578614162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99 - 16.99
+            <a href="https://www.chmelaeon.com/products/bicycle-bike-tire-12-16-20-24-26-inch-inner-tubes-schrader-tyres-1-75-2-125-inch-width-bike-cycling-tire-rubber-tube-for-mtb">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Tube</span><br><span><strong>Width:</strong> 1.75"</span><br><span><strong>Use:</strong> Mountain Bikes</span><br><span><strong>Use:</strong> Cruisers</span><br><span><strong>Use:</strong> Road Bicycles</span><br><span><strong>Use:</strong> Kids' Bikes</span><br><span><strong>Use:</strong> BMX</span><br><span><strong>Model Number:</strong> DrBike</span><br><span><strong>Brand Name:</strong> Dr Bike</span><br><span><strong>Size:</strong> Other</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462118463</id>
+      <title>12 Inch / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>21218349-12-inch-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462118463</id>
+      <title>16 Inch / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>21218349-16-inch-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462118463</id>
+      <title>20 Inch / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>21218349-20-inch-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462118463</id>
+      <title>24 Inch / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>21218349-24-inch-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462118463</id>
+      <title>26 Inch / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>21218349-26-inch-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462118463</id>
+      <title>12 Inch / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>21218349-12-inch-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462118463</id>
+      <title>16 Inch / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>21218349-16-inch-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462118463</id>
+      <title>20 Inch / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>21218349-20-inch-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462118463</id>
+      <title>24 Inch / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>21218349-24-inch-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/1917462118463</id>
+      <title>26 Inch / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>21218349-26-inch-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11592068819</id>
+    <published>2019-05-21T19:00:05-05:00</published>
+    <updated>2019-05-21T19:00:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/outdoor-sports-cycling-bike-camera-mount-holder-bike-torch-holder-support-clip-clamp-bike-bicycle-access-for-gopro-hero-1-2-3-3"/>
+    <title>Outdoor Sports Cycling Bike Camera Mount Holder Bike Torch Holder Support Clip Clamp Bike Bicycle Access For GoPro Hero 1 2 3 3+</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-257940776.jpg?v=1578611772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> CADeN</span><br><span><strong>Folded Length (mm):</strong> 0</span><br><span><strong>Material:</strong> Aluminum</span><br><span><strong>Weight (g):</strong> 34</span><br><span><strong>Use:</strong> Digital Camera</span><br><span><strong>Model Number:</strong> Bike Handlebar</span><br><span><strong>Max Extened Length (mm):</strong> 0</span><br><span><strong>Package:</strong> No</span><br><span><strong>Type:</strong> Camera Mount Holder</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592068819</id>
+      <title>Black</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>5821168-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592068819</id>
+      <title>Blue</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>5821168-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592068819</id>
+      <title>Red</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>5821168-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11592068819</id>
+      <title>Sliver</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>5821168-sliver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11548179859</id>
+    <published>2019-05-21T18:59:59-05:00</published>
+    <updated>2019-05-21T18:59:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/ropa-ciclismo-2016-cycling-glasses-uv400-outdoor-sports-windproof-eyewear-mountain-bike-bicycle-motorcycle-glasses-sunglasses"/>
+    <title>Ropa Ciclismo 2016 Cycling Glasses UV400 Outdoor Sports Windproof Eyewear Mountain Bike Bicycle Motorcycle Glasses Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-161908070.jpg?v=1578611752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Eyewear</span><br><span><strong>Sport Type:</strong> Cycling</span><br><span><strong>Gender:</strong> Men</span><br><span><strong>Lenses Optical Attribute:</strong> Mirror,Lens</span><br><span><strong>Frame Material:</strong> Acetate</span><br><span><strong>Frame Color:</strong> Multi</span><br><span><strong>Lens Width:</strong> 6.8cm</span><br><span><strong>Lens Height:</strong> 4.4cm</span><br><span><strong>Lenses Material:</strong> Polycarbonate</span><br><span><strong>Model Number:</strong> 001</span><br><span><strong>Sales Methods:</strong> Factory Direct Sales</span><br><span><strong>Gender:</strong> Man/Women</span><br><span><strong>Sport type:</strong> Cycling / Bike /Bicycle Sports</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ1</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ2</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ3</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ4</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ5</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ6</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ7</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ8</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ9</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ10</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ11</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11548179859</id>
+      <title>CJ12</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>3334582-cj12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11869272979</id>
+    <published>2019-05-21T18:52:45-05:00</published>
+    <updated>2019-05-21T18:52:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/sale-6-uv400-lenses-2017-hot-men-women-outdoor-cycling-eyewear-sport-uv400-bicycle-sunglasses-bike-tactical-military-goggles"/>
+    <title>Sale 6 UV400 Lenses ! 2017 Hot Men Women Outdoor Cycling Eyewear Sport UV400 Bicycle Sunglasses Bike Tactical Military Goggles</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-310982068.jpg?v=1578612211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Eyewear</span><br><span><strong>Sport Type:</strong> Cycling</span><br><span><strong>Brand Name:</strong> Reedocks</span><br><span><strong>Lens Width:</strong> 6.2 cm</span><br><span><strong>Frame Material:</strong> Acetate</span><br><span><strong>Gender:</strong> Unisex</span><br><span><strong>Lenses Material:</strong> Polycarbonate</span><br><span><strong>Lens Height:</strong> 3.9 cm</span><br><span><strong>Frame Color:</strong> Black</span><br><span><strong>Model Number:</strong> C-0066S</span><br><span><strong>Lenses Optical Attribute:</strong> UV400 Protection</span><br><span><strong>is_customized:</strong> Yes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869272979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>7042381-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11869344851</id>
+    <published>2019-05-21T18:51:24-05:00</published>
+    <updated>2019-05-21T18:51:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/cs-force-bicycle-bike-cycling-glasses-men-women-paintball-airsoft-outdoor-sports-windproof-sunglasses-military-tactics-goggles"/>
+    <title>CS Force Bicycle Bike Cycling Glasses Men Women Paintball Airsoft Outdoor Sports Windproof Sunglasses Military Tactics Goggles</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-362585562.jpg?v=1578612247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Feature:</strong> UV Protection</span><br><span><strong>Model Number:</strong> 1976</span><br><span><strong>Color:</strong> Clear</span><br><span><strong>Item type:</strong> Cycling Glasses</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869344851</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>8263064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11869348627</id>
+    <published>2019-05-21T18:51:16-05:00</published>
+    <updated>2019-05-21T18:51:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/bicycle-bike-cycling-glasses-men-women-paintball-airsoft-outdoor-sports-windproof-sunglasses-military-tactics-goggles-black"/>
+    <title>Bicycle Bike Cycling Glasses Men Women Paintball Airsoft Outdoor Sports Windproof Sunglasses Military Tactics Goggles Black</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-362585549.jpg?v=1578612249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Feature:</strong> UV Protection</span><br><span><strong>Model Number:</strong> 1975</span><br><span><strong>Color:</strong> Black</span><br><span><strong>Item type:</strong> Cycling Glasses</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869348627</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>8263063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11869368339</id>
+    <published>2019-05-21T18:50:56-05:00</published>
+    <updated>2019-05-21T18:50:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/beginagain-new-bicycle-usb-rechargeable-led-light-bike-front-rear-light-outdoor-cycling-warning-lamp-night-safety-taillight"/>
+    <title>BEGINAGAIN New Bicycle USB Rechargeable LED Light Bike Front / Rear Light Outdoor Cycling Warning Lamp Night Safety Taillight</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-234182812.jpg?v=1578612256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99 - 14.99
+            <a href="https://www.chmelaeon.com/products/beginagain-new-bicycle-usb-rechargeable-led-light-bike-front-rear-light-outdoor-cycling-warning-lamp-night-safety-taillight">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Mounting Placement:</strong> Seatpost</span><br><span><strong>Power Supply:</strong> Battery</span><br><span><strong>Model Number:</strong> B-1-31</span><br><span><strong>Certification:</strong> China Compulsory Certification</span><br><span><strong>Brand Name:</strong> BA BEGINAGAIN</span><br><span><strong>Name:</strong> Rear LED Light</span><br><span><strong>Color:</strong> Red,White,Blue+Red,White+Red</span><br><span><strong>Material:</strong> ABS+PC</span><br><span><strong>Bike Light Modes:</strong> 6 Modes or 4 Modes</span><br><span><strong>Bicycle Light Power Capacity:</strong> Rechargeable Battery 600mAh</span><br><span><strong>Life time:</strong> 3.5-15 hrs</span><br><span><strong>LED Lifespan:</strong> 100000 hours</span><br><span><strong>Product Size:</strong> 70*20*21 mm</span><br><span><strong>Package contents:</strong> 1 x Rear light 1xUSB data cable</span><br><span><strong>Functions:	:</strong> Shockproof,Waterproof</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869368339</id>
+      <title>White light</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>2322299-white-light</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869368339</id>
+      <title>Red light</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>2322299-red-light</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869368339</id>
+      <title>Red  White replace</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>2322299-red-white-replace</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869368339</id>
+      <title>Red  Blue replace</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>2322299-red-blue-replace</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/11869381971</id>
+    <published>2019-05-21T18:50:42-05:00</published>
+    <updated>2019-05-21T18:50:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/arbot-full-finger-men-women-cycling-gloves-screen-bike-bicycle-sport-shockproof-outdoor-luvas-bisiklet-black-summer-glove"/>
+    <title>Arbot Full Finger Men Women Cycling Gloves Screen Bike Bicycle Sport Shockproof Outdoor Luvas bisiklet Black Summer Glove</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-313262315.jpg?v=1578612262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.99 - 18.99
+            <a href="https://www.chmelaeon.com/products/arbot-full-finger-men-women-cycling-gloves-screen-bike-bicycle-sport-shockproof-outdoor-luvas-bisiklet-black-summer-glove">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Gloves &amp; Mittens</span><br><span><strong>Sport Type:</strong> Cycling</span><br><span><strong>Brand Name:</strong> ARBOT</span><br><span><strong>Type:</strong> Full Finger</span><br><span><strong>Feature:</strong> Anti-Static</span><br><span><strong>Gender:</strong> Men</span><br><span><strong>Model Number:</strong> Cycling Gloves</span><br><span><strong>Material:</strong> Polyester</span><br><span><strong>Product Name:</strong> Cycling Gloves</span><br><span><strong>Material:</strong> Polyester,Lycra</span><br><span><strong>Suitable For:</strong> Cycling Bike Bicycle Motorcycle, Riding,Hiking And Outdoor Sports.</span><br><span><strong>Place of origin:</strong> China</span><br><span><strong>Key Word:</strong> Arbot Cycling Gloves</span><br><span><strong>Men Women  Gloves:</strong> Sport Gloves</span><br><span><strong>Full FingerGloves:</strong> Bicycle Gloves</span><br><span><strong>Size:</strong> M L XL</span><br><span><strong>Color:</strong> Red Orange Green Blue</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869381971</id>
+      <title>Black / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>4690737-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869381971</id>
+      <title>Black / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>4690737-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869381971</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>4690737-black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869381971</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>4690737-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869381971</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>4690737-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869381971</id>
+      <title>Blue / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>4690737-blue-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869381971</id>
+      <title>Red / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>4690737-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869381971</id>
+      <title>Red / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>4690737-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869381971</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>4690737-red-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869381971</id>
+      <title>Black1 / L</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>4690737-black1-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869381971</id>
+      <title>Black1 / M</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>4690737-black1-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869381971</id>
+      <title>Black1 / XL</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>4690737-black1-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869381971</id>
+      <title>Red1 / L</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>4690737-red1-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869381971</id>
+      <title>Red1 / M</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>4690737-red1-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869381971</id>
+      <title>Red1 / XL</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>4690737-red1-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869381971</id>
+      <title>Blue1 / L</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>4690737-blue1-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869381971</id>
+      <title>Blue1 / M</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>4690737-blue1-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/11869381971</id>
+      <title>Blue1 / XL</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>4690737-blue1-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/21040824339</id>
+    <published>2019-05-21T18:38:41-05:00</published>
+    <updated>2019-05-21T18:38:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/soft-3d-pad-bicycle-mtb-mountain-bike-saddle-cycling-seat-cover-cushion-sponge-foam-saddle-bike-accessories-parts-bicycle-saddle"/>
+    <title>Soft 3D Pad Bicycle MTB Mountain Bike Saddle Cycling Seat Cover Cushion Sponge Foam Saddle Bike Accessories Parts Bicycle Saddle</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-396814905.jpg?v=1578612529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Use:</strong> Road Bicycles</span><br><span><strong>Model Number:</strong> Bike Seat Cover Cushion</span><br><span><strong>is_customized:</strong> Yes</span><br><span><strong>User:</strong> Men</span><br><span><strong>Size:</strong> 275 X 170 X 20mm/10.8 X 6.69 X 0.79"</span><br><span><strong>Brand Name:</strong> ROBESBON</span><br><span><strong>Category:</strong> Front Seat Mat</span><br><span><strong>Shell Material:</strong> Sponge</span><br><span><strong>Color:</strong> Black, Blue, Red, Orange</span><br><span><strong>Application:</strong> outdoor cycling</span><br><span><strong>Features :</strong> comfortable, air permeable and durable</span><br><span><strong>Material:</strong> high density sponge and polymer</span><br><span><strong>Net weight:</strong> about 38g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21040824339</id>
+      <title>01</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>7372147-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21040824339</id>
+      <title>02</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>7372147-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21040824339</id>
+      <title>03</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>7372147-03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21040824339</id>
+      <title>04</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>7372147-04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/21044363283</id>
+    <published>2019-05-21T18:38:31-05:00</published>
+    <updated>2019-05-21T18:38:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/bike-crankset-crank-protective-sleeve-rubber-cover-parts-for-mountain-bikes-road-bicycle-cycling-dropshipping"/>
+    <title>Bike Crankset Crank Protective Sleeve Rubber Cover Parts for Mountain Bikes Road Bicycle Cycling Dropshipping</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-79244590.jpg?v=1578612532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Use:</strong> Road Bicycles,Kids' Bikes,Mountain Bikes,BMX,Cruisers</span><br><span><strong>Brand Name:</strong> JAEHEV</span><br><span><strong>Model Number:</strong> Cycling Crankset Crank Protective Sleeve</span><br><span><strong>Category:</strong> Chain Wheel</span><br><span><strong>Crank Length:</strong> 175mm</span><br><span><strong>Chainwheel Teeth:</strong> 44-52T</span><br><span><strong>Material:</strong> Rubber</span><br><span><strong>Origin:</strong> China</span><br><span><strong>Sales Way:</strong> Wholesale &amp; Retail</span><br><span><strong>Packing:</strong> Opp Bag</span><br><span><strong>Dropshipping:</strong> Support</span><br><span><strong>is_customized:</strong> Yes</span><br><span><strong>Color:</strong> Black, Blue, Yellow, Red</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21044363283</id>
+      <title>Black</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>1149832-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21044363283</id>
+      <title>Blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>1149832-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21044363283</id>
+      <title>Red</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>1149832-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21044363283</id>
+      <title>Yellow</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>1149832-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/21048164371</id>
+    <published>2019-05-21T18:38:22-05:00</published>
+    <updated>2019-05-21T18:38:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/mtb-road-bike-cycling-bicycle-fenders-front-mudguard-for-mountain-bike-bicycle-accessories"/>
+    <title>MTB Road Bike Cycling Bicycle Fenders Front Mudguard For Mountain Bike Bicycle Accessories</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-258665900.jpg?v=1578612536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Model Number:</strong> bike fender</span><br><span><strong>Applicable object:</strong> Mountain Bike</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21048164371</id>
+      <title>Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>5839362-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21048164371</id>
+      <title>Pink</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>5839362-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21048164371</id>
+      <title>Black</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>5839362-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21048164371</id>
+      <title>White</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>5839362-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/21050458131</id>
+    <published>2019-05-21T18:38:14-05:00</published>
+    <updated>2019-05-21T18:38:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/good-deal-1-pair-bicycle-cycling-bike-v-brake-holder-pads-shoes-blocks-red-with-black"/>
+    <title>Good deal 1 Pair Bicycle Cycling Bike V Brake Holder Pads Shoes Blocks Red With Black</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-269553342.jpg?v=1578612538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> ROSWHEEL</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21050458131</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>6133367</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/21050851347</id>
+    <published>2019-05-21T18:38:12-05:00</published>
+    <updated>2019-05-21T18:38:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/hot-sale-cycling-bicycle-saddles-mtb-road-cycling-saddle-seat-pu-leather-comfortable-273-135mm-bicycle-seat-black-bike-parts"/>
+    <title>Hot Sale Cycling Bicycle Saddles MTB Road Cycling Saddle Seat PU Leather Comfortable 273*135mm Bicycle Seat Black Bike Parts</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-210036023.jpg?v=1578612538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Use:</strong> Road Bicycles</span><br><span><strong>Size:</strong> 135*273mm</span><br><span><strong>Shell Material:</strong> Plastic/PVC</span><br><span><strong>is_customized:</strong> Yes</span><br><span><strong>User:</strong> Men</span><br><span><strong>Model Number:</strong> WYX-LT3621</span><br><span><strong>Category:</strong> Front Seat Mat</span><br><span><strong>Weight:</strong> About 285g</span><br><span><strong>Shell Material:</strong> Plastic/PVC</span><br><span><strong>Bike saddle Color:</strong> Black red blue White</span><br><span><strong>Type 1:</strong> mountain road bike bicycle saddle</span><br><span><strong>Type 2:</strong> capacete bike</span><br><span><strong>Type 4:</strong> bike saddles for men seat</span><br><span><strong>Type 5:</strong> sillin mtb road</span><br><span><strong>Type 6:</strong> Bike saddle</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21050851347</id>
+      <title>Red</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1751392-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21050851347</id>
+      <title>Blue</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1751392-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21050851347</id>
+      <title>White</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1751392-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21050851347</id>
+      <title>Yellow</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1751392-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21050851347</id>
+      <title>Pink</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1751392-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21050851347</id>
+      <title>Sky Blue</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1751392-sky-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21050851347</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1751392-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21050851347</id>
+      <title>Green</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1751392-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21050851347</id>
+      <title>Light Green</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1751392-light-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21050851347</id>
+      <title>Multi</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1751392-multi</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/21051768851</id>
+    <published>2019-05-21T18:38:11-05:00</published>
+    <updated>2019-05-21T18:38:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/cycling-mtb-road-bike-standard-air-valve-stem-tire-replaceable-rubber-inner-tube-26-inch-1-75-1-5-1-95-2-125-bicycle-tires-parts"/>
+    <title>Cycling MTB Road Bike Standard Air Valve Stem Tire Replaceable Rubber Inner Tube 26 inch 1.75/1.5 1.95/2.125 Bicycle Tires Parts</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-469874990.jpg?v=1578612539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99 - 16.99
+            <a href="https://www.chmelaeon.com/products/cycling-mtb-road-bike-standard-air-valve-stem-tire-replaceable-rubber-inner-tube-26-inch-1-75-1-5-1-95-2-125-bicycle-tires-parts">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Model Number:</strong> Replaceable Tire Tube</span><br><span><strong>Size:</strong> 26 * 1.75</span><br><span><strong>is_customized:</strong> Yes</span><br><span><strong>Type:</strong> Tube</span><br><span><strong>Use:</strong> Mountain Bikes</span><br><span><strong>Width:</strong> 1.75"</span><br><span><strong>Brand Name:</strong> ROBESBON</span><br><span><strong>Type:</strong> Tube</span><br><span><strong>Width:</strong> other</span><br><span><strong>Use:</strong> Mountain Bikes</span><br><span><strong>Size:</strong> other</span><br><span><strong>Feature 1 :</strong> 26 1.75 bicycle tires</span><br><span><strong>Feature 2 :</strong> Inner tube</span><br><span><strong>Feature 3:</strong> bicycle tire</span><br><span><strong>Feature 4:</strong> 26 1.95</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21051768851</id>
+      <title>Big</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6954290-big</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21051768851</id>
+      <title>Small</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>6954290-small</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/21055406099</id>
+    <published>2019-05-21T18:38:01-05:00</published>
+    <updated>2019-05-21T18:38:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/aluminum-alloy-mtb-road-bike-bicycle-stem-25-4-31-8-mm-32-60-80-90mm-cycling-stem-racing-bike-parts"/>
+    <title>Aluminum Alloy MTB Road Bike Bicycle Stem 25.4 &amp; 31.8 mm 32 / 60 / 80 / 90mm Cycling Stem Racing Bike Parts</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-258635626.jpg?v=1578612542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Handlebar Clamp Diameter:</strong> 25.1 - 26.5mm</span><br><span><strong>Brand Name:</strong> JAEHEV</span><br><span><strong>Material:</strong> Aluminum Alloy</span><br><span><strong>Fork Clamp Diameter:</strong> 25.4 / 31.8 mm</span><br><span><strong>Height:</strong> 36 - 45mm</span><br><span><strong>Origin:</strong> China</span><br><span><strong>Size:</strong> 32 / 60 / 80 / 90 mm</span><br><span><strong>Feature 1:</strong> mtb stem</span><br><span><strong>Feature 2:</strong> bike stem</span><br><span><strong>Feature 3:</strong> stem mtb</span><br><span><strong>Feature 4:</strong> bicycle stem</span><br><span><strong>Color:</strong> Black</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21055406099</id>
+      <title>A</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>5838746-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21055406099</id>
+      <title>B</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>5838746-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21055406099</id>
+      <title>C</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>5838746-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21055406099</id>
+      <title>D</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>5838746-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21055406099</id>
+      <title>E</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>5838746-e</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21055406099</id>
+      <title>F</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>5838746-f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21055406099</id>
+      <title>G</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>5838746-g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21055406099</id>
+      <title>H</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>5838746-h</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/21056126995</id>
+    <published>2019-05-21T18:37:59-05:00</published>
+    <updated>2019-05-21T18:37:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/adjustable-plastic-elastic-drink-cup-water-bottle-holder-bracket-rack-cage-for-cycling-mountain-road-bike-bicycle-mtb-hot-sale"/>
+    <title>Adjustable Plastic Elastic Drink Cup Water Bottle Holder Bracket Rack Cage for Cycling Mountain Road Bike Bicycle MTB Hot Sale</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-121332118.jpg?v=1578612543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Weight (g):</strong> Less than 75g</span><br><span><strong>Model Number:</strong> Bicycle Bottle Holder</span><br><span><strong>Brand Name:</strong> ROBESBON</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21056126995</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>2494893-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/21058420755</id>
+    <published>2019-05-21T18:37:53-05:00</published>
+    <updated>2019-05-21T18:37:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/arbot-bicycle-bike-gloves-men-women-cycling-glove-mtb-bicycle-3d-gel-sports-full-finger-glove-bisiklet-black-luvas-ciclismo"/>
+    <title>Arbot Bicycle Bike Gloves Men Women Cycling Glove mtb Bicycle 3D GEL Sports Full Finger Glove Bisiklet Black Luvas ciclismo</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-313002853.jpg?v=1578612545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> Gloves &amp; Mittens</span><br><span><strong>Sport Type:</strong> Cycling</span><br><span><strong>Type:</strong> Full Finger</span><br><span><strong>Feature:</strong> Washable</span><br><span><strong>Material:</strong> Lycra,Nylon,Polyester</span><br><span><strong>Gender:</strong> Men</span><br><span><strong>Model Number:</strong> Cycling Gloves Full Finger</span><br><span><strong>Brand Name:</strong> qepae</span><br><span><strong>Weight:</strong> About 80g / 2.81oz</span><br><span><strong>Package List:</strong> 1 / Pair *Cycling Gloves Long Finger</span><br><span><strong>Bicycle Bike Gloves:</strong> Men Women Bicycle Gloves</span><br><span><strong>Material:</strong> Polyester+Lycra+Nylon</span><br><span><strong>Color:</strong> Yellow Blue Red Grey</span><br><span><strong>cycling glove:</strong> bike glove</span><br><span><strong>Season:</strong> Spring Autumn</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21058420755</id>
+      <title>Black / L</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4650831-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21058420755</id>
+      <title>Black / M</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4650831-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21058420755</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4650831-black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21058420755</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4650831-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21058420755</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4650831-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21058420755</id>
+      <title>Blue / XL</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4650831-blue-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21058420755</id>
+      <title>Red / L</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4650831-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21058420755</id>
+      <title>Red / M</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4650831-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21058420755</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4650831-red-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21058420755</id>
+      <title>Black1 / L</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4650831-black1-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21058420755</id>
+      <title>Black1 / M</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4650831-black1-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21058420755</id>
+      <title>Black1 / XL</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4650831-black1-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21058420755</id>
+      <title>Blue1 / L</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4650831-blue1-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21058420755</id>
+      <title>Blue1 / M</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4650831-blue1-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21058420755</id>
+      <title>Blue1 / XL</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4650831-blue1-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21058420755</id>
+      <title>Red1 / L</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4650831-red1-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21058420755</id>
+      <title>Red1 / M</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4650831-red1-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21058420755</id>
+      <title>Red1 / XL</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4650831-red1-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/21059764243</id>
+    <published>2019-05-21T18:37:50-05:00</published>
+    <updated>2019-05-21T18:37:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/new-bicycle-chain-cleaner-cycling-bike-machine-brushes-scrubber-wash-cchain-cleaner-bicycle-chain-lubricant-clean-freeshippping"/>
+    <title>New Bicycle Chain Cleaner Cycling Bike Machine Brushes Scrubber Wash Cchain Cleaner Bicycle Chain Lubricant Clean Freeshippping</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-83417118.jpg?v=1578612547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Model Number:</strong> 2016-01</span><br><span><strong>Brand Name:</strong> ROBESBON</span><br><span><strong>Color:</strong> Blue</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21059764243</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>1147372-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/21059633171</id>
+    <published>2019-05-21T18:37:50-05:00</published>
+    <updated>2019-05-21T18:37:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/31-8-34-9mm-20g-aluminium-alloy-mtb-road-bicycle-quick-release-seatpost-clamp-bike-cycling-seat-post-tube-clip-bike-parts"/>
+    <title>31.8 / 34.9mm 20g Aluminium Alloy MTB Road Bicycle Quick Release Seatpost Clamp Bike Cycling Seat Post Tube Clip Bike Parts</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-163353611.jpg?v=1578612547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> JAEHEV</span><br><span><strong>Model Number:</strong> Bicycle Seatpost Clamp</span><br><span><strong>Material:</strong> Aluminum/Alloy</span><br><span><strong>Use:</strong> Mountain Bikes</span><br><span><strong>Size:</strong> 31.8MM/34.9 MM</span><br><span><strong>Origin:</strong> China</span><br><span><strong>Color:</strong> Blue, Silver, Black, Gold, Red</span><br><span><strong>Suitable for:</strong> 27.2 mm / 30.8mm / 31.6mm</span><br><span><strong>Feature 1:</strong> Bicycle Seatpost Clamp</span><br><span><strong>Feature 2:</strong> MTB Bike Tube Clip</span><br><span><strong>Feature 3:</strong> Cycling Seat post Tube Clip</span><br><span><strong>Feature 4:</strong> seat post clamp</span><br><span><strong>Feature 5:</strong> seat clamp</span><br><span><strong>Feature 6:</strong> manubrio 31.8MM/34.9 MM</span><br><span><strong>Feature 7:</strong> Bike Parts</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21059633171</id>
+      <title>Black</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1614243-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21059633171</id>
+      <title>Blue</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1614243-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21059633171</id>
+      <title>Red</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1614243-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21059633171</id>
+      <title>Silver</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1614243-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21059633171</id>
+      <title>Gold</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1614243-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21059633171</id>
+      <title>Black 1</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1614243-black-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21059633171</id>
+      <title>Blue 1</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1614243-blue-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21059633171</id>
+      <title>Red 1</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1614243-red-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21059633171</id>
+      <title>Silver 1</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1614243-silver-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21059633171</id>
+      <title>Gold 1</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>1614243-gold-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/21059993619</id>
+    <published>2019-05-21T18:37:49-05:00</published>
+    <updated>2019-05-21T18:37:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/wide-bicycle-seat-bike-seats-bicycle-saddles-cycling-saddle-mtb-cushion-asiento-bicicleta-sponge-soft-cycling-saddle"/>
+    <title>Wide Bicycle Seat Bike Seats Bicycle Saddles Cycling Saddle MTB Cushion Asiento Bicicleta Sponge Soft Cycling Saddle</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-438664404.jpg?v=1578612547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Size:</strong> -</span><br><span><strong>Model Number:</strong> -</span><br><span><strong>is_customized:</strong> Yes</span><br><span><strong>User:</strong> Men</span><br><span><strong>Brand Name:</strong> ROBESBON</span><br><span><strong>Category:</strong> Front Seat Mat</span><br><span><strong>Use:</strong> --</span><br><span><strong>Shell Material:</strong> --</span><br><span><strong>Warranty:</strong> 1 year</span><br><span><strong>Place of Origin:</strong> Guangdong, China (Mainland)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21059993619</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>748299</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/21061074963</id>
+    <published>2019-05-21T18:37:43-05:00</published>
+    <updated>2019-05-21T18:37:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/hot-cycling-bike-3d-silicone-gel-pad-seat-saddle-cover-comfortable-soft-cushion-bicycle-saddle-bicycle-parts-accessories-b2"/>
+    <title>Hot Cycling Bike 3D Silicone Gel Pad Seat Saddle Cover Comfortable Soft Cushion Bicycle Saddle Bicycle Parts Accessories B2</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-412517695.jpg?v=1578612548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> cycle zone</span><br><span><strong>is_customized:</strong> Yes</span><br><span><strong>User:</strong> Men</span><br><span><strong>Use:</strong> Mountain Bikes</span><br><span><strong>Size:</strong> 280mm x 170mm x 5mm / 11.02" x 6.69" x 0.2"</span><br><span><strong>Model Number:</strong> NGH4071706</span><br><span><strong>Category:</strong> Front Seat Mat</span><br><span><strong>Shell Material:</strong> Sponge +Silicone</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21061074963</id>
+      <title>Black</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>6842940-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21061074963</id>
+      <title>Yellow</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>6842940-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21061074963</id>
+      <title>Red</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>6842940-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21061074963</id>
+      <title>Blue</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>6842940-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.chmelaeon.com/products/21064613907</id>
+    <published>2019-05-21T18:37:36-05:00</published>
+    <updated>2019-05-21T18:37:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.chmelaeon.com/products/gel-cycling-gloves-bike-sport-gloves-bicycle-half-finger-gloves-shockproof"/>
+    <title>GEL Cycling Gloves Bike sport Gloves Bicycle Half Finger Gloves shockproof</title>
+    <s:type></s:type>
+    <s:vendor>Chmelaeon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0712/4393/products/product-image-410922652.jpg?v=1578612552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chmelaeon<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99 - 7.99
+            <a href="https://www.chmelaeon.com/products/gel-cycling-gloves-bike-sport-gloves-bicycle-half-finger-gloves-shockproof">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> THINKTHENDO</span><br><span><strong>Material:</strong> Cotton</span><br><span><strong>Gender:</strong> Men</span><br><span><strong>Feature:</strong> Washable</span><br><span><strong>Type:</strong> Half Finger</span><br><span><strong>Model Number:</strong> C5599-BLM</span><br><span><strong>Item Type:</strong> Gloves &amp; Mittens</span><br><span><strong>Sport Type:</strong> Cycling</span><br><span><strong>Material:</strong> Stretch breathable Lycra,cotton towels,3D GEL Shockproof,Slip silicone</span><br><span><strong>SIZE:</strong> M/L/XL(approx)</span><br><span><strong>M for the palm width:</strong> about 7.5-8.5cm</span><br><span><strong>L for the palm width:</strong> about 8.5-9.5cm</span><br><span><strong>XL for the palm width:</strong> about 9.5-10.5cm</span><br><span><strong>COLOR:</strong> Red/Yellow/Blue</span><br><span><strong>item name:</strong> Gloves/Cycling Gloves/Finger Gloves</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21064613907</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>3539853-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21064613907</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>3539853-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21064613907</id>
+      <title>Blue / XL</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>3539853-blue-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21064613907</id>
+      <title>Red / L</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>3539853-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21064613907</id>
+      <title>Red / M</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>3539853-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21064613907</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>3539853-red-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21064613907</id>
+      <title>Yellow / L</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>3539853-yellow-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21064613907</id>
+      <title>Yellow / M</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>3539853-yellow-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.chmelaeon.com/products/21064613907</id>
+      <title>Yellow / XL</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>3539853-yellow-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
